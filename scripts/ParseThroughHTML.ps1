@@ -7,6 +7,7 @@ $filteredContent1 = $fileContent | Where-Object { $_ -match "var maindeckjs" }
 $fileContentRaw = Get-Content -Path $filePath -Raw
 $pattern = '(?s)(?<=<form><textarea\b[^>]*>)(.*?)(?=</textarea></form>)'
 $matches = [regex]::Matches($fileContentRaw, $pattern)
+
 foreach ($match in $matches) {
     Write-Host "Captured content:"
     Write-Host $match.Value
@@ -15,9 +16,12 @@ foreach ($match in $matches) {
 Write-Host "`nFiltered Content (lines containing 'var maindeckjs'):"
 Write-Host $filteredContent1
 
-$outputFilePath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\scripts\output.txt"
-Clear-Content -Path $outputFilePath -ErrorAction SilentlyContinue
-foreach ($match in $matches) {
-    $match.Value | Out-File -FilePath $outputFilePath -Append
-}
-Write-Host "Captured content"
+#$outputFilePath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\scripts\output.txt"
+#Clear-Content -Path $outputFilePath -ErrorAction SilentlyContinue
+#foreach ($match in $matches) {
+#    $match.Value | Out-File -FilePath $outputFilePath -Append
+#}
+#Write-Host "Captured content"
+
+#$combined = "$filteredContent1'n$matches"
+#$combined | Out-File -FilePath "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\scripts\output.txt"
