@@ -1,0 +1,45 @@
+from selenium import webdriver
+from bs4 import BeautifulSoup
+import time
+import os
+
+# Set up WebDriver (e.g., for Chrome)
+driver_path = 'path/to/chromedriver'  # Update this path
+driver = webdriver.Chrome(executable_path=driver_path)
+
+try:
+    # Open the webpage
+    url = 'https://pokemoncard.io/deck/muddy-waters-sglc-semi-gym-leader-challenge-35660'
+    driver.get(url)
+
+    # Wait for the page to load completely
+    time.sleep(5)  # Adjust this time if necessary
+
+    # Get the page source
+    page_source = driver.page_source
+
+    # Parse the page source with BeautifulSoup
+    soup = BeautifulSoup(page_source, 'html.parser')
+
+    # Extract Element data (You need to inspect the webpage to find the correct HTML structure)
+    elements = []
+    for element in soup.find_all('div', class_='element-class'):  # Update the class name based on the actual HTML
+        element_data = {
+            'title': element.find('h3').text,
+            'description': element.find('p').text
+        }
+        elements.append(element_data)
+
+    # Save the data to a file on the desktop
+    desktop_path = os.path.join(os.path.join(os.environ['USERPROFILE']), 'Desktop')
+    output_file = os.path.join(desktop_path, 'element_data.txt')
+
+    with open(output_file, 'w') as file:
+        for element in elements:
+            file.write(f"Title: {element['title']}\n")
+            file.write(f"Description: {element['description']}\n\n")
+
+    print(f"Data saved to {output_file}")
+
+finally:
+    driver.quit()
