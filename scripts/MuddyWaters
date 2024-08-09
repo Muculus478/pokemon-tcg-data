@@ -1,0 +1,14 @@
+
+        var maindeckjs = '["swsh2-99","swsh7-119","swsh1-56","sm5-98","swsh9-109","sm5-96","swsh1-58","swsh8-63","sm7-32","sm12-116","sm12-117","swsh1-55","sm10-56","swsh8-64","sm12-118","sm12-58","swsh2-100","swsh11-153","swsh45-57","sm2-120","swsh2-156","swsh11-156","swsh1-160","sm10-170","swsh5-125","swsh1-163","swsh10-142","swsh9-141","swsh10-146","swsh10-147","swsh6-145","swsh12-159","swsh5-129","swsh35-56","sm1-123","swsh45-60","swsh7-152","swsh1-180","swsh7-154","swsh8-239","swsh8-240","swsh2-167","sm11-208","sm1-132","sm1-134","swsh9-150","swsh2-171","sm1-169","sm1-169","sm1-169","sm1-169","sm1-169","sm1-169","sm1-169","sm1-137","sm1-166","sm1-166","sm1-166","sm1-166","sm1-166"]';
+        var deckname = "Muddy Waters SGLC (Semi-Gym Leader Challenge)";
+        var decknameurl = 'Muddy+Waters+SGLC+%28Semi-Gym+Leader+Challenge%29';
+        var item_id = 35660;
+        var context = "deck";
+        var commentsArray = [];
+        var deckid = '35660';
+        var category = "No Specific Format";
+        var decklistPromise = null;
+        var chart1 = [{"y":4,"label":"Dragon"},{"y":5,"label":"Fighting"},{"y":1,"label":"Lightning"},{"y":7,"label":"Water"}];
+        var chart2 = [{"label":"Pok\u00e9mon","y":17,"color":"#6d78ad"},{"label":"Trainers","y":29,"color":"#df7970"},{"label":"Energy","y":14,"color":"#66CC66"}];
+        var maindeckcount = 60;
+    
