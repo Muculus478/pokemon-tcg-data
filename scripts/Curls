@@ -8,3 +8,6 @@ C:\Users\Gunna>curl -H "Authorization: Bearer 60d9e6634197ad65d5be352b4d98606638
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100 15988  100 15988    0     0   9928      0  0:00:01  0:00:01 --:--:--  9942
+
+
+curl -H "Authorization: Bearer 60d9e6634197ad65d5be352b4d98606638bc4440f4fcb099359252999936173d" -o "C:\Users\Gunna\Documents\page.html" "https://pokemoncard.io/deck/muddy-waters-sglc-semi-gym-leader-challenge-35660"
