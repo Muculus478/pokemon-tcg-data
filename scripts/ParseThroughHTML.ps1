@@ -23,5 +23,6 @@ Write-Host $filteredContent1
 #}
 #Write-Host "Captured content"
 
-#$combined = "$filteredContent1'n$matches"
-#$combined | Out-File -FilePath "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\scripts\output.txt"
+$combined = "$filteredContent1
+$matches"
+$combined | Out-File -FilePath "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\scripts\output.txt"
