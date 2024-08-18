@@ -25,4 +25,4 @@ Write-Host $filteredContent1
 
 $combined = "$filteredContent1
 $matches"
-$combined | Out-File -FilePath "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\scripts\output.txt"
+$combined | Out-File -FilePath "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\scripts\MuddyWatersData.txt"
