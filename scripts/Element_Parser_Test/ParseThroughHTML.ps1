@@ -1,4 +1,4 @@
-﻿$filePath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\scripts\MuddyWaters.txt"
+﻿$filePath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\scripts\Element_Parser_Test\MuddyWaters.txt"
 $fileContent = Get-Content -Path $filePath
 Write-Host "Original Content:"
 Write-Host $fileContent
@@ -15,13 +15,6 @@ foreach ($match in $matches) {
 
 Write-Host "`nFiltered Content (lines containing 'var maindeckjs'):"
 Write-Host $filteredContent1
-
-#$outputFilePath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\scripts\output.txt"
-#Clear-Content -Path $outputFilePath -ErrorAction SilentlyContinue
-#foreach ($match in $matches) {
-#    $match.Value | Out-File -FilePath $outputFilePath -Append
-#}
-#Write-Host "Captured content"
 
 $combined = "$filteredContent1
 $matches"
