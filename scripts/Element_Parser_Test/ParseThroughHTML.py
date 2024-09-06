@@ -1,5 +1,5 @@
 import re
-
+import beautifulsoup
 # File paths
 file_path = r"C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\scripts\Element_Parser_Test\MuddyWaters.txt"
 output_path = r"C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\scripts\MuddyWatersData.yaml"

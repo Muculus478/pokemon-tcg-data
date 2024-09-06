@@ -1,0 +1,30 @@
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : <!doctype html>
+                    <html lang="en" class="h-100">
+                    <head>
+                    <meta charset="utf-8">
+                    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+                    <meta name="description" content="&l…
+RawContent        : HTTP/1.1 200 OK
+                    Date: Sun, 01 Sep 2024 15:55:59 GMT
+                    Transfer-Encoding: chunked
+                    Connection: keep-alive
+                    Vary: Accept-Encoding
+                    Vary: User-Agent
+                    x-turbo-charged-by: LiteSpeed
+                    CF-Cache-Status: DYNAM…
+Headers           : {[Date, System.String[]], [Transfer-Encoding, System.String[]], [Connection, System.String[]], [Vary, System.String[]]…}
+Images            : {@{outerHTML=<img src="https://images.pokemoncard.io/images/assets/Logo.png?v=1.13" style="width:140px;" title="pokemoncard.io" alt="pokemoncard.io Logo">; tagName=IMG; src=https://images.pokemoncard.io/images/assets/Logo.png?v=1.13; style=width:140px;; title=pokemoncard.io; alt=pokemoncard.io Logo}, @{outerHTML=<img src="https://images.pokemoncard.io/images/assets/Logo.png" style="width:140px;" title="pokemoncard.io" alt="pokemoncard.io Logo">; tagName=IMG; src=https://images.pokemoncard.io/images/assets/Logo.png; style=width:140px;; title=pokemoncard.io; alt=pokemoncard.io Logo}, @{outerHTML=<img src="https://images.pokemoncard.io/images/users/39997/39997_1688144152.jpg" class="deck-user-avatar">; tagName=IMG; src=https://images.pokemoncard.io/images/users/39997/39997_1688144152.jpg; class=deck-user-avatar}, @{outerHTML=<img class="lazy" data-name="swsh2-99" data-card="swsh2-99" data-cardname="Barboach" data-cardtype data-src="https://images.pokemoncard.io/images/swsh2/swsh2-99.png" loading="lazy">; tagName=IMG; class=lazy; data-name=swsh2-99; data-card=swsh2-99; data-cardname=Barboach; data-cardtype=; data-src=https://images.pokemoncard.io/images/swsh2/swsh2-99.png; loading=lazy}…}
+InputFields       : {@{outerHTML=<input class="form-check-input" type="checkbox" id="imageexport_qr" value="qr" checked>; tagName=INPUT; class=form-check-input; type=checkbox; id=imageexport_qr; value=qr; checked=}, @{outerHTML=<input class="form-check-input" type="checkbox" id="imageexport_duplicates" value="duplicates">; tagName=INPUT; class=form-check-input; type=checkbox; id=imageexport_duplicates; value=duplicates}, @{outerHTML=<input class="form-control my-0 py-1" type="text" id="footer-searchbar" placeholder="Search Pokémon Decks..." aria-label="Search">; tagName=INPUT; class=form-control my-0 py-1; type=text; id=footer-searchbar; placeholder=Search Pokémon Decks...; aria-label=Search}, @{outerHTML=<input type="checkbox" class="form-check-input" id="tooltipToggle">; tagName=INPUT; type=checkbox; class=form-check-input; id=tooltipToggle}…}
+Links             : {@{outerHTML=<a class="navbar-brand" href="/"><img src="https://images.pokemoncard.io/images/assets/Logo.png?v=1.13" style="width:140px;" title="pokemoncard.io" alt="pokemoncard.io Logo"></a>; tagName=A; class=navbar-brand; href=/}, @{outerHTML=<a id="collapsed-navbar-icon" class="toggle-navbar collapsed">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    </a>; tagName=A; id=collapsed-navbar-icon; class=toggle-navbar collapsed}, @{outerHTML=<a class="nav-link dropdown-toggle">
+                    <i class="fa-solid fa-clone fa-fw" aria-hidden="true"></i> Decks <i class="fa-regular fa-chevron-down chevrondown float-right mt-1"></i>
+                    </a>; tagName=A; class=nav-link dropdown-toggle}, @{outerHTML=<a class="submenu-item" href="/category/format/standard/"><i class="fa-solid fa-fw fa-hexagon-plus ml-4"></i> Standard Decks</a>; tagName=A; class=submenu-item; href=/category/format/standard/}…}
+RawContentLength  : 101781
+RelationLink      : {}
+
