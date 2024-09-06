@@ -1,4 +1,5 @@
 import subprocess
+import re
 
 # Define the curl command
 command = [
@@ -10,8 +11,28 @@ command = [
 # Run the command
 result = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
 
-# Output the result
+# Check if curl command ran successfully
 if result.returncode == 0:
-    print(result.stdout)  # Print the response from the server
+    # Get the response content
+    page_content = result.stdout
+
+    # Use regex to extract the contents within <textarea> under <form>
+    textarea_match = re.search(r'<form>.*?<textarea.*?id="export0".*?>(.*?)</textarea>.*?</form>', page_content, re.DOTALL)
+    if textarea_match:
+        textarea_data = textarea_match.group(1).strip()
+        print("Extracted Textarea Data:")
+        print(textarea_data)
+    else:
+        print("Couldn't find textarea data.")
+    
+    # Use regex to extract the contents of var maindeckjs = '[...]'
+    maindeckjs_match = re.search(r"var maindeckjs\s*=\s*'(\[.*?\])';", page_content)
+    if maindeckjs_match:
+        maindeckjs_data = maindeckjs_match.group(1)
+        print("\nExtracted maindeckjs Data:")
+        print(maindeckjs_data)
+    else:
+        print("Couldn't find 'maindeckjs' data.")
 else:
     print(f"Error: {result.stderr}")
+
