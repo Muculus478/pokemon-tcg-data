@@ -32,7 +32,7 @@ with open(output_filename, 'w') as output_file:
             page_content = result.stdout
 
             # Extract the <title> content
-            title_match = re.search(r'<title>(.*?)</title>', page_content, re.DOTALL)
+            title_match = re.search(r'<title>(.*?) - PokemonCard</title>', page_content, re.DOTALL)
             title_data = title_match.group(1).strip() if title_match else "No title found"
 
             # Extract the <textarea> content
@@ -48,7 +48,7 @@ with open(output_filename, 'w') as output_file:
             output_file.write(f"Title: {title_data}\n")
             output_file.write(f"Textarea: {textarea_data}\n")
             output_file.write(f"Maindeckjs: {maindeckjs_data}\n")
-            output_file.write("-" * 40 + "\n")
+            output_file.write("#" * 40 + "\n")
 
             # Print the results to the console for verification
             print(f"Title: {title_data}")
@@ -58,7 +58,7 @@ with open(output_filename, 'w') as output_file:
             print(f"Error: {result.stderr}")
 
         # Wait for 1 second before processing the next URL
-        time.sleep(1)
+        time.sleep(5)
 
 # Rename the .txt file to .yml
 new_filename = output_filename.replace('.txt', '.yml')
