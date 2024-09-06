@@ -47,6 +47,11 @@ for url in urls:
             'textarea': textarea_data,
             'maindeckjs': maindeckjs_data
         }
+
+        # Print the results to the console (this is what was working correctly)
+        print(f"Title: {title_data}")
+        print(f"Textarea: {textarea_data}")
+        print(f"Maindeckjs: {maindeckjs_data}")
     else:
         print(f"Error: {result.stderr}")
 
