@@ -8,6 +8,9 @@ with open('Deck_data_Manual.yml', 'r') as file:
     data = yaml.safe_load(file)
     urls = data.get('Decks', [])
 
+# Dictionary to store results
+results = {}
+
 for url in urls:
     print(f"Processing URL: {url}")
 
@@ -26,36 +29,32 @@ for url in urls:
         # Get the response content
         page_content = result.stdout
 
-        # Use regex to extract the contents within <title>
-        title_match = re.search(r'<title>(.*?)- PokemonCard</title>', page_content, re.DOTALL)
-        if title_match:
-            title_data = title_match.group(1).strip()
-            print("Extracted Title Data:")
-            print(title_data)
-        else:
-            print("Couldn't find title data.")
-        
-        # Use regex to extract the contents within <textarea> under <form>
+        # Extract the <title> content
+        title_match = re.search(r'<title>(.*?)</title>', page_content, re.DOTALL)
+        title_data = title_match.group(1).strip() if title_match else "No title found"
+
+        # Extract the <textarea> content
         textarea_match = re.search(r'<form>.*?<textarea.*?id="export0".*?>(.*?)</textarea>.*?</form>', page_content, re.DOTALL)
-        if textarea_match:
-            textarea_data = textarea_match.group(1).strip()
-            print("Extracted Textarea Data:")
-            print(textarea_data)
-        else:
-            print("Couldn't find textarea data.")
-        
-        # Use regex to extract the contents of var maindeckjs = '[...]'
+        textarea_data = textarea_match.group(1).strip() if textarea_match else "No textarea found"
+
+        # Extract the var maindeckjs content
         maindeckjs_match = re.search(r"var maindeckjs\s*=\s*'(\[.*?\])';", page_content)
-        if maindeckjs_match:
-            maindeckjs_data = maindeckjs_match.group(1)
-            print("\nExtracted maindeckjs Data:")
-            print(maindeckjs_data)
-        else:
-            print("Couldn't find 'maindeckjs' data.")
+        maindeckjs_data = maindeckjs_match.group(1) if maindeckjs_match else "No maindeckjs data found"
+
+        # Store results in the dictionary for this URL
+        results[url] = {
+            'title': title_data,
+            'textarea': textarea_data,
+            'maindeckjs': maindeckjs_data
+        }
     else:
         print(f"Error: {result.stderr}")
 
     # Wait for 1 second before processing the next URL
     time.sleep(3)
 
-    print("\n" + "-"*80 + "\n")
+# Write the results to a new YAML file
+with open('Deck_extracted_data.yml', 'w') as output_file:
+    yaml.dump(results, output_file, default_flow_style=False)
+
+print("Data has been written to 'Deck_extracted_data.yml'")
