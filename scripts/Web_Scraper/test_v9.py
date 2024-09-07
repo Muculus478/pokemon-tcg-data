@@ -59,9 +59,9 @@ with open(output_filename, 'w') as output_file:
             output_file.write("#" * 40 + "\n")
 
             # Print the results to the console for verification
-            print(f"Title: {title_data}")
-            print(f"Textarea: {textarea_data}")
-            print(f"Maindeckjs:\n{maindeckjs_data}")
+            print(f"Deck_Name: {title_data}")
+            print(f"Pokemon_List: {textarea_data}")
+            print(f"Card_Photos:\n{maindeckjs_data}")
         else:
             print(f"Error: {result.stderr}")
 
