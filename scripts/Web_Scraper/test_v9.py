@@ -53,9 +53,9 @@ with open(output_filename, 'w') as output_file:
 
             # Write the results to the txt file
             output_file.write(f"URL: {url}\n")
-            output_file.write(f"Title: {title_data}\n")
-            output_file.write(f"Textarea: {textarea_data}\n")
-            output_file.write(f"Maindeckjs:\n{maindeckjs_data}\n")
+            output_file.write(f"Deck_Name: {title_data}\n")
+            output_file.write(f"Pokemon_List: {textarea_data}\n")
+            output_file.write(f"Card_Photos:\n{maindeckjs_data}\n")
             output_file.write("#" * 40 + "\n")
 
             # Print the results to the console for verification
