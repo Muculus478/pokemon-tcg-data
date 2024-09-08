@@ -43,5 +43,6 @@ foreach ($file in $jsonFiles) {
 
 # Output the total counts for each subtype
 foreach ($subtype in $subtypeCounts.Keys) {
-    Write-Host "$subtype: $($subtypeCounts{$subtype})"
+    Write-Host "${subtype}: $(${subtypeCounts[$subtype]})"
+
 }
