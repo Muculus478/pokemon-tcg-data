@@ -1,0 +1,119 @@
+"rarity": "Common",
+"rarity": "Uncommon",
+"rarity": "Rare",
+
+
+C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\en
+
+swshp.json
+sm1.json
+sm2.json
+sm3.json
+sm4.json
+sm5.json
+sm6.json
+sm7.json
+sm8.json
+sm9.json
+sm10.json
+sm11.json
+sm12.json
+sm35.json
+sm75.json
+sm115.json
+sma.json
+smp.json
+sv1.json
+sv2.json
+sv3.json
+sv3pt5.json
+sv4.json
+sv4pt5.json
+sv5.json
+sv6.json
+sv6pt5.json
+sve.json
+svp.json
+swsh1.json
+swsh2.json
+swsh3.json
+swsh4.json
+swsh5.json
+swsh6.json
+swsh7.json
+swsh8.json
+swsh9.json
+swsh9tg.json
+swsh10.json
+swsh10tg.json
+swsh11.json
+swsh11tg.json
+swsh12.json
+swsh12pt5.json
+swsh12pt5gg.json
+swsh12tg.json
+swsh35.json
+swsh45.json
+swsh45sv.json
+
+
+    "id": "sm6-1",
+    "name": "Exeggcute",
+    "supertype": "Pokémon",
+    "subtypes":
+      "Basic"
+    "hp": "40",
+    "types":
+      "Grass"
+    "evolvesTo"
+      "Exeggutor"
+    "attacks":
+        "name": "Multiply",
+        "cost":
+          "Colorless"
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for Exeggcute and put it onto your Bench. Then, shuffle your deck."
+    "weaknesses"
+        "type": "Fire",
+        "value": "×2"
+    "retreatCost":
+      "Colorless"
+
+    "convertedRetreatCost": 1,
+    "number": "1",
+    "images":
+      "small"
+      "large"
+
+
+ Stadium : 101
+ Star : 1
+ ACE SPEC : 16
+ Single Strike : 147
+ GX : 600
+ VMAX : 205
+ VSTAR : 89
+ ex : 357
+ SP : 1
+ TAG TEAM : 130
+ Special : 67
+ Fusion Strike : 53
+ Rapid Strike : 158
+ Supporter : 713
+ Level-Up : 1
+ Prime : 1
+ Future : 54
+ Basic : 4252
+ Eternamax : 1
+ V-UNION : 24
+ Prism Star : 27
+ Ancient : 54
+ V : 584
+ Stage 2 : 667
+ Stage 1 : 2022
+ Pokémon Tool : 168
+ Radiant : 13
+ Tera : 71
+ Ultra Beast : 105
+ Item : 370
