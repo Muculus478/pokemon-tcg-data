@@ -11,6 +11,21 @@
 
 "types":
 
+"id":
+    "name":
+    "supertype":
+    "subtypes":
+    "hp":
+    "types":
+    "attacks":
+        "type": "Fire",
+        "value": "×2"
+    "retreatCost":
+
+    "convertedRetreatCost":
+    "number":
+    "images":
+
 C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\en
 
 swshp.json
