@@ -1,6 +1,6 @@
 # Define the folder path and the list of JSON file names
 $folderPath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\en"
-@destPath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\scripts\Pokemon_Compare"
+$destPath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\scripts\Pokemon_Compare"
 $jsonFile = Join-Path $folderPath "sm3.json"
 
 # Read the JSON content
