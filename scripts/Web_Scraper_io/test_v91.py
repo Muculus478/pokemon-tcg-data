@@ -6,7 +6,7 @@ import yaml
 import json
 
 # Load the YAML file to get the URLs
-with open('Deck_Data_Manual_v91.yml', 'r') as file:
+with open('Deck_Data_Manual.yml', 'r') as file:
     data = yaml.safe_load(file)
     urls = data.get('Decks', [])
 
