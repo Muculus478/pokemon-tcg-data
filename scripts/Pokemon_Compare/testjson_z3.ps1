@@ -20,20 +20,15 @@ foreach ($card in $jsonData) {
         RetreatCost = ($card.retreatCost -join ", ")
         Rarity      = $card.rarity
     }
-    
-    # Add the custom object to the rows array
     $csvRows += $csvRow
 }
 
-# Define the output CSV path
+# Define the output CSV path and export the data to a CSV
 $csvFilePath = Join-Path $destPath "pokemon_cards_z3.csv"
-
-# Export the data to a CSV file
 $csvRows | Export-Csv -Path $csvFilePath -NoTypeInformation
-
 Write-Host "CSV file created at: $csvFilePath"
 
-# Now, update the CSV by replacing all "é" with "e"
-(Get-Content $csvFilePath) -replace 'é', 'e' | Set-Content $csvFilePath
 
+# Updates to the CSV for cleanup. Update the CSV by replacing all "é" with "e"
+(Get-Content $csvFilePath) -replace 'é', 'e' | Set-Content $csvFilePath
 Write-Host "CSV file updated to replace accented 'e' with regular 'e'"
