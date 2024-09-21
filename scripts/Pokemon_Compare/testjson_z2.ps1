@@ -29,7 +29,7 @@ foreach ($card in $jsonData) {
 }
 
 # Define the output CSV path
-$csvFilePath = Join-Path $destPath "pokemon_cards_z1.csv"
+$csvFilePath = Join-Path $destPath "pokemon_cards_z2.csv"
 
 # Export the data to a CSV file
 $csvRows | Export-Csv -Path $csvFilePath -NoTypeInformation
