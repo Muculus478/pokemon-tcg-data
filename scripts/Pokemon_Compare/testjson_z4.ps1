@@ -1,23 +1,17 @@
-# Define the file paths
+# Define the file paths, Read the JSON and prepare the array for the CSV rows
 $folderPath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\en"
 $destPath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\scripts\Pokemon_Compare"
 $jsonFile = Join-Path $folderPath "sm3.json"
-
-# Read the JSON content and then Prepare the array to hold CSV Rows
 $jsonData = Get-Content $jsonFile | ConvertFrom-Json
 $csvRows = @()
 
-# Define the subtypes you want to exclude
+# Define the subtypes you want to exclude, check for excluded cards and Skip them
 $excludedSubtypes = @('GX', 'ex', 'V', 'VMAX', 'VStar')
-
-# Loop through each card in the JSON file
 foreach ($card in $jsonData) {
-    # Check if any of the subtypes match the excluded ones
     if ($card.subtypes -ne $null -and ($card.subtypes | ForEach-Object { $_ } | Where-Object { $excludedSubtypes -contains $_ })) {
-        continue  # Skip this card if it contains any excluded subtypes
+        continue  
     }
 
-    # If no excluded subtypes, create the CSV row
     $csvRow = [PSCustomObject]@{
         ID          = $card.id
         Name        = $card.name
