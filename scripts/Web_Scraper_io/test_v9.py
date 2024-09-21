@@ -24,7 +24,7 @@ with open(output_filename, 'w') as output_file:
             url
         ]
 
-        # Run the command
+        # Run the command with the curl and all the variables
         result = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
 
         # Check if curl command ran successfully
@@ -64,12 +64,9 @@ with open(output_filename, 'w') as output_file:
             print(f"Card_Photos:\n{maindeckjs_data}")
         else:
             print(f"Error: {result.stderr}")
-
-        # Wait for 1 second before processing the next URL
         time.sleep(1)
 
-# Rename the .txt file to .yml
+# Rename the .txt file to .yml and print
 new_filename = output_filename.replace('.txt', '.yml')
 os.rename(output_filename, new_filename)
-
 print(f"Data has been written to '{new_filename}'")
