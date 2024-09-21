@@ -19,7 +19,7 @@ foreach ($card in $jsonData) {
         Subtypes    = ($card.subtypes -join ", ")  # Join subtypes array into a comma-separated string
         HP          = $card.hp
         Types       = ($card.types -join ", ")     # Join types array into a comma-separated string
-        Attacks     = ($card.attacks | ForEach-Object { $_.type + " " + $_.value }) -join "; "  # Join each attack's type and value
+        #Attacks     = ($card.attacks | ForEach-Object { $_.type + " " + $_.value }) -join "; "  # Join each attack's type and value
         RetreatCost = ($card.retreatCost -join ", ")  # Join retreatCost array into a comma-separated string
         Rarity      = $card.rarity
     }
