@@ -11,7 +11,7 @@ with open('Deck_Data_Manual.yml', 'r') as file:
     urls = data.get('Decks', [])
 
 # Create a text file with the .txt extension first
-output_filename = 'Deck_Data_v91.txt'
+output_filename = 'Deck_Data_v92.txt'
 
 with open(output_filename, 'w') as output_file:
     for url in urls:
@@ -24,7 +24,7 @@ with open(output_filename, 'w') as output_file:
             url
         ]
 
-        # Run the command with the curl and all the variables
+        # Run the command with curl and all the variables
         result = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
 
         # Check if curl command ran successfully
@@ -39,6 +39,8 @@ with open(output_filename, 'w') as output_file:
             # Extract the <textarea> content
             textarea_match = re.search(r'<form>.*?<textarea.*?id="export0".*?>(.*?)</textarea>.*?</form>', page_content, re.DOTALL)
             textarea_data = textarea_match.group(1).strip() if textarea_match else "No textarea found"
+
+            textarea_data = textarea_data.replace("  -  ", ":")
 
             # Extract the var maindeckjs content and format it to display each entry on a new line
             maindeckjs_match = re.search(r"var maindeckjs\s*=\s*'(\[.*?\])';", page_content)
@@ -59,14 +61,13 @@ with open(output_filename, 'w') as output_file:
             lines = textarea_data.split("\n")
             output_file.write("Pokemon_List:\n")
             
-            pokemon_category = True
             for line in lines:
-                if "Pokemon" in line or "Trainer" in line or "Energy" in line:
-                    pokemon_category = False
-                indent = "  " if pokemon_category else "    "
-                output_file.write(f"{indent}{line}\n")
-
-            textarea_data = textarea_data.replace("  -  ", ":")
+                if line.strip().startswith(("Pokemon", "Trainer", "Energy")):
+                    # Remove two spaces from lines that contain "Pokemon", "Trainer", or "Energy"
+                    output_file.write(f"{line[1:]}\n")
+                else:
+                    # Keep the regular indentation for other lines
+                    output_file.write(f"    {line}\n")
             
             output_file.write(f"Card_Photos:\n  {maindeckjs_data}\n")
             output_file.write("#" * 40 + "\n")
