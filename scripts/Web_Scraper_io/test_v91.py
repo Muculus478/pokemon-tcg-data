@@ -65,8 +65,6 @@ with open(output_filename, 'w') as output_file:
                     pokemon_category = False
                 indent = "  " if pokemon_category else "    "
                 output_file.write(f"{indent}{line}\n")
-
-            textarea_data = textarea_data.replace("  -  ", ":")
             
             output_file.write(f"Card_Photos:\n  {maindeckjs_data}\n")
             output_file.write("#" * 40 + "\n")
