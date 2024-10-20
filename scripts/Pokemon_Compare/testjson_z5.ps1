@@ -9,7 +9,7 @@ $csvRows = @()
 $excludedSubtypes = @('GX', 'ex', 'V', 'VMAX', 'VStar')
 $excludedRarity = @('Rare Secret', 'Rare Ultra')#('Common', 'Uncommon', 'Rare')
 foreach ($card in $jsonData) {
-    if ($card.subtypes -ne $null -and ($card.subtypes | ForEach-Object { $_ } | Where-Object { $excludedSubtypes -contains $_ } | Where-Object { $excludedRarity -contains $_ })) {
+    if ($card.subtypes -ne $null -and ($card.subtypes | ForEach-Object { $_ } | Where-Object { $excludedRarity -contains $_ })) {
         continue  
     }
 
