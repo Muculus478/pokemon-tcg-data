@@ -1,2 +1,2 @@
-"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
-"mcd15-8","Rhyhorn","Pokemon","Basic","80","Fighting","Colorless, Colorless, Colorless","Common"
+"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","RTCOST","Rarity"
+"mcd15-8","Rhyhorn","Pokemon","Basic","80","Fighting","Colorless, Colorless, Colorless","3","Common"

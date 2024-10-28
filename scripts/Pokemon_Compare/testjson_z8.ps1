@@ -18,6 +18,12 @@ foreach ($jsonFile in $jsonFiles) {
     foreach ($card in $jsonData) {
         # Only include cards with the defined rarities
         if ($card.rarity -ne $null -and $includedRarities -contains $card.rarity) {
+            #Count occurrences of "ColorLess" in RetreatCost
+            $rtCostCount = if ($card.retreatCost -is [Array]) {
+                ($card.retreatCost | Where-Object { $_-eq "Colorless"}).Count
+            } else {
+                0
+            }
             $csvRow = [PSCustomObject]@{
                 ID          = $card.id
                 Name        = $card.name
@@ -26,6 +32,7 @@ foreach ($jsonFile in $jsonFiles) {
                 HP          = $card.hp
                 Types       = ($card.types -join ", ")
                 RetreatCost = ($card.retreatCost -join ", ")
+                RTCOST      = $rtCostCount
                 Rarity      = $card.rarity
             }
             $csvRows += $csvRow
