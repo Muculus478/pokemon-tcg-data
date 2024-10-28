@@ -1,98 +1,98 @@
-"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
-"ex16-1","Aggron","Pokemon","Stage 2","110","Metal","4","Rare Holo"
-"ex16-2","Altaria","Pokemon","Stage 1","80","Colorless","1","Rare Holo"
-"ex16-3","Armaldo","Pokemon","Stage 2","120","Fighting","3","Rare Holo"
-"ex16-4","Banette","Pokemon","Stage 1","70","Psychic","1","Rare Holo"
-"ex16-5","Blaziken","Pokemon","Stage 2","100","Fire","2","Rare Holo"
-"ex16-6","Charizard","Pokemon","Stage 2","120","Fire","2","Rare Holo"
-"ex16-7","Cradily","Pokemon","Stage 2","110","Grass","2","Rare Holo"
-"ex16-8","Delcatty","Pokemon","Stage 1","70","Colorless","1","Rare Holo"
-"ex16-9","Gardevoir","Pokemon","Stage 2","100","Psychic","2","Rare Holo"
-"ex16-10","Kabutops","Pokemon","Stage 2","110","Fighting","2","Rare Holo"
-"ex16-11","Machamp","Pokemon","Stage 2","120","Fighting","2","Rare Holo"
-"ex16-12","Raichu","Pokemon","Stage 1","70","Lightning","1","Rare Holo"
-"ex16-13","Slaking","Pokemon","Stage 2","120","Colorless","3","Rare Holo"
-"ex16-14","Dusclops","Pokemon","Stage 1","80","Psychic","2","Rare"
-"ex16-15","Lanturn","Pokemon","Stage 1","80","Lightning","2","Rare"
-"ex16-16","Magneton","Pokemon","Stage 1","70","Lightning","1","Rare"
-"ex16-17","Mawile","Pokemon","Basic","60","Metal","1","Rare"
-"ex16-18","Mightyena","Pokemon","Stage 1","70","Darkness","","Rare"
-"ex16-19","Ninetales","Pokemon","Stage 1","70","Fire","1","Rare"
-"ex16-20","Omastar","Pokemon","Stage 2","110","Water","2","Rare"
-"ex16-21","Pichu","Pokemon","Basic","50","Lightning","1","Rare"
-"ex16-22","Sableye","Pokemon","Basic","60","Psychic","1","Rare"
-"ex16-23","Seviper","Pokemon","Basic","70","Grass","1","Rare"
-"ex16-24","Wobbuffet","Pokemon","Basic","80","Psychic","2","Rare"
-"ex16-25","Zangoose","Pokemon","Basic","70","Colorless","1","Rare"
-"ex16-26","Anorith","Pokemon","Stage 1","70","Fighting","1","Uncommon"
-"ex16-27","Cacturne","Pokemon","Stage 1","70","Darkness","1","Uncommon"
-"ex16-28","Charmeleon","Pokemon","Stage 1","70","Fire","1","Uncommon"
-"ex16-29","Combusken","Pokemon","Stage 1","80","Fire","1","Uncommon"
-"ex16-30","Glalie","Pokemon","Stage 1","80","Water","1","Uncommon"
-"ex16-31","Kirlia","Pokemon","Stage 1","70","Psychic","1","Uncommon"
-"ex16-32","Lairon","Pokemon","Stage 1","70","Metal","2","Uncommon"
-"ex16-33","Machoke","Pokemon","Stage 1","80","Fighting","1","Uncommon"
-"ex16-34","Medicham","Pokemon","Stage 1","80","Fighting","1","Uncommon"
-"ex16-35","Metang","Pokemon","Stage 1","80","Metal","2","Uncommon"
-"ex16-36","Nuzleaf","Pokemon","Stage 1","70","Darkness","1","Uncommon"
-"ex16-37","Sealeo","Pokemon","Stage 1","70","Water","1","Uncommon"
-"ex16-38","Sharpedo","Pokemon","Stage 1","70","Darkness","","Uncommon"
-"ex16-39","Shelgon","Pokemon","Stage 1","80","Colorless","2","Uncommon"
-"ex16-40","Vibrava","Pokemon","Stage 1","80","Colorless","1","Uncommon"
-"ex16-41","Vigoroth","Pokemon","Stage 1","70","Colorless","1","Uncommon"
-"ex16-42","Aron","Pokemon","Basic","50","Metal","2","Common"
-"ex16-43","Bagon","Pokemon","Basic","50","Colorless","1","Common"
-"ex16-44","Baltoy","Pokemon","Basic","50","Psychic","1","Common"
-"ex16-45","Beldum","Pokemon","Basic","50","Metal","2","Common"
-"ex16-46","Cacnea","Pokemon","Basic","50","Grass","1","Common"
-"ex16-47","Carvanha","Pokemon","Basic","40","Darkness","1","Common"
-"ex16-48","Charmander","Pokemon","Basic","50","Fire","1","Common"
-"ex16-49","Chinchou","Pokemon","Basic","50","Lightning","1","Common"
-"ex16-50","Duskull","Pokemon","Basic","50","Psychic","1","Common"
-"ex16-51","Kabuto","Pokemon","Stage 1","60","Fighting","2","Common"
-"ex16-52","Lileep","Pokemon","Stage 1","80","Grass","2","Common"
-"ex16-53","Machop","Pokemon","Basic","50","Fighting","1","Common"
-"ex16-54","Magnemite","Pokemon","Basic","50","Lightning","1","Common"
-"ex16-55","Meditite","Pokemon","Basic","40","Fighting","1","Common"
-"ex16-56","Omanyte","Pokemon","Stage 1","70","Water","1","Common"
-"ex16-57","Pikachu","Pokemon","Basic","40","Lightning","1","Common"
-"ex16-58","Poochyena","Pokemon","Basic","50","Darkness","1","Common"
-"ex16-59","Ralts","Pokemon","Basic","50","Psychic","1","Common"
-"ex16-60","Seedot","Pokemon","Basic","40","Grass","1","Common"
-"ex16-61","Shuppet","Pokemon","Basic","50","Psychic","1","Common"
-"ex16-62","Skitty","Pokemon","Basic","50","Colorless","1","Common"
-"ex16-63","Slakoth","Pokemon","Basic","40","Colorless","1","Common"
-"ex16-64","Snorunt","Pokemon","Basic","50","Water","1","Common"
-"ex16-65","Spheal","Pokemon","Basic","40","Water","1","Common"
-"ex16-66","Swablu","Pokemon","Basic","40","Colorless","1","Common"
-"ex16-67","Torchic","Pokemon","Basic","50","Fire","1","Common"
-"ex16-68","Trapinch","Pokemon","Basic","50","Fighting","1","Common"
-"ex16-69","Vulpix","Pokemon","Basic","50","Fire","1","Common"
-"ex16-70","Wynaut","Pokemon","Basic","50","Psychic","1","Common"
-"ex16-71","Battle Frontier","Trainer","Stadium",,"","","Uncommon"
-"ex16-72","Drake's Stadium","Trainer","Stadium",,"","","Uncommon"
-"ex16-73","Energy Recycle System","Trainer","Item",,"","","Uncommon"
-"ex16-74","Energy Removal 2","Trainer","Item",,"","","Uncommon"
-"ex16-75","Energy Switch","Trainer","Item",,"","","Uncommon"
-"ex16-76","Glacia's Stadium","Trainer","Stadium",,"","","Uncommon"
-"ex16-77","Great Ball","Trainer","Item",,"","","Uncommon"
-"ex16-78","Master Ball","Trainer","Item",,"","","Uncommon"
-"ex16-79","Phoebe's Stadium","Trainer","Stadium",,"","","Uncommon"
-"ex16-80","Professor Birch","Trainer","Supporter",,"","","Uncommon"
-"ex16-81","Scott","Trainer","Supporter",,"","","Uncommon"
-"ex16-82","Sidney's Stadium","Trainer","Stadium",,"","","Uncommon"
-"ex16-83","Steven's Advice","Trainer","Supporter",,"","","Uncommon"
-"ex16-84","Claw Fossil","Trainer","Item","40","","","Common"
-"ex16-85","Mysterious Fossil","Trainer","Item","50","","","Common"
-"ex16-86","Root Fossil","Trainer","Item","40","","","Common"
-"ex16-87","Darkness Energy","Energy","Special",,"","","Rare"
-"ex16-88","Metal Energy","Energy","Special",,"","","Rare"
-"ex16-89","Multi Energy","Energy","Special",,"","","Rare"
-"ex16-90","Cyclone Energy","Energy","Special",,"","","Uncommon"
-"ex16-91","Warp Energy","Energy","Special",,"","","Uncommon"
-"ex16-103","Grass Energy","Energy","Basic",,"","","Rare Holo"
-"ex16-104","Fire Energy","Energy","Basic",,"","","Rare Holo"
-"ex16-105","Water Energy","Energy","Basic",,"","","Rare Holo"
-"ex16-106","Lightning Energy","Energy","Basic",,"","","Rare Holo"
-"ex16-107","Psychic Energy","Energy","Basic",,"","","Rare Holo"
-"ex16-108","Fighting Energy","Energy","Basic",,"","","Rare Holo"
+"Attack2_Damage","Attack2_Name","Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Attack2_Cost","Subtypes","RetreatCost","ID","Attack1_Cost","Attack2_ConvertedEnergyCost"
+"70","Mix-Up","Aggron","110","3","Metal Claw","50","Metal","Rare Holo","Pokemon","Metal, Metal, Colorless, Colorless","Stage 2","4","ex16-1","Colorless, Colorless, Colorless","4"
+"50","Gust","Altaria","80","2","Surprise","30","Colorless","Rare Holo","Pokemon","Lightning, Colorless, Colorless","Stage 1","1","ex16-2","Water, Colorless","3"
+"60","Mach Claw","Armaldo","120","1","Rock Blast","","Fighting","Rare Holo","Pokemon","Colorless, Colorless, Colorless","Stage 2","3","ex16-3","Fighting","3"
+"40×","Bench Manipulation","Banette","70","2","Grudge","20+","Psychic","Rare Holo","Pokemon","Psychic, Psychic, Colorless","Stage 1","1","ex16-4","Psychic, Colorless","3"
+,,"Blaziken","100","3","Fire Stream","50","Fire","Rare Holo","Pokemon",,"Stage 2","2","ex16-5","Fire, Colorless, Colorless",
+"50","Bursting Inferno","Charizard","120","1","Combustion","30","Fire","Rare Holo","Pokemon","Fire, Fire, Colorless, Colorless","Stage 2","2","ex16-6","Fire","4"
+,,"Cradily","110","3","Poison Ring","50","Grass","Rare Holo","Pokemon",,"Stage 2","2","ex16-7","Grass, Grass, Colorless",
+,,"Delcatty","70","1","Max Energy Source","10×","Colorless","Rare Holo","Pokemon",,"Stage 1","1","ex16-8","Colorless",
+,,"Gardevoir","100","1","Energy Burst","10×","Psychic","Rare Holo","Pokemon",,"Stage 2","2","ex16-9","Psychic",
+"60","Blinding Scythe","Kabutops","110","2","Luring Antenna","20","Fighting","Rare Holo","Pokemon","Fighting, Fighting, Colorless","Stage 2","2","ex16-10","Fighting, Colorless","3"
+"60+","Cross Chop","Machamp","120","2","Brick Smash","40","Fighting","Rare Holo","Pokemon","Fighting, Colorless, Colorless, Colorless","Stage 2","2","ex16-11","Fighting, Colorless","4"
+"100","Thunderbolt","Raichu","70","1","Plasma","10","Lightning","Rare Holo","Pokemon","Lightning, Lightning, Colorless","Stage 1","1","ex16-12","Colorless","3"
+,,"Slaking","120","4","Critical Move","100","Colorless","Rare Holo","Pokemon",,"Stage 2","3","ex16-13","Colorless, Colorless, Colorless, Colorless",
+"50","Mysterious Light","Dusclops","80","2","Dark Mind","20","Psychic","Rare","Pokemon","Psychic, Colorless, Colorless","Stage 1","2","ex16-14","Psychic, Colorless","3"
+,,"Lanturn","80","3","Lightning Strike","50","Lightning","Rare","Pokemon",,"Stage 1","2","ex16-15","Lightning, Lightning, Colorless",
+,,"Magneton","70","2","Magnetic Force","10×","Lightning","Rare","Pokemon",,"Stage 1","1","ex16-16","Lightning, Colorless",
+"20","Pull Away","Mawile","60","1","Call for Family","","Metal","Rare","Pokemon","Colorless, Colorless","Basic","1","ex16-17","Colorless","2"
+"50+","Dark Burst","Mightyena","70","2","Plunder","30","Darkness","Rare","Pokemon","Darkness, Darkness, Colorless","Stage 1","","ex16-18","Colorless, Colorless","3"
+"50","Will-o'-the-wisp","Ninetales","70","2","Quick Attack","20+","Fire","Rare","Pokemon","Fire, Colorless, Colorless","Stage 1","1","ex16-19","Colorless, Colorless","3"
+"30+","Hydrocannon","Omastar","110","1","Pull Down","","Water","Rare","Pokemon","Colorless, Colorless","Stage 2","2","ex16-20","Colorless","2"
+,,"Pichu","50","1","Cry for Help","","Lightning","Rare","Pokemon",,"Basic","1","ex16-21","Lightning",
+"","Feint Attack","Sableye","60","1","Down Draw","","Psychic","Rare","Pokemon","Psychic, Colorless","Basic","1","ex16-22","Colorless","2"
+"","Toxic","Seviper","70","1","Sharp Fang","10","Grass","Rare","Pokemon","Grass, Colorless, Colorless","Basic","1","ex16-23","Grass","3"
+,,"Wobbuffet","80","3","Flip Over","50","Psychic","Rare","Pokemon",,"Basic","2","ex16-24","Psychic, Colorless, Colorless",
+"10+","Sharp Claws","Zangoose","70","1","Call for Family","","Colorless","Rare","Pokemon","Colorless, Colorless","Basic","1","ex16-25","Colorless","2"
+,,"Anorith","70","2","Fury Cutter","10+","Fighting","Uncommon","Pokemon",,"Stage 1","1","ex16-26","Fighting, Colorless",
+,,"Cacturne","70","3","Pin Missile","20×","Darkness","Uncommon","Pokemon",,"Stage 1","1","ex16-27","Colorless, Colorless, Colorless",
+"50","Flame Tail","Charmeleon","70","1","Scary Face","","Fire","Uncommon","Pokemon","Fire, Fire, Colorless","Stage 1","1","ex16-28","Colorless","3"
+,,"Combusken","80","2","Lunge","50","Fire","Uncommon","Pokemon",,"Stage 1","1","ex16-29","Colorless, Colorless",
+"60","Double-edge","Glalie","80","2","Powder Snow","20","Water","Uncommon","Pokemon","Water, Colorless, Colorless","Stage 1","1","ex16-30","Water, Colorless","3"
+"50","Dream Eater","Kirlia","70","1","Hypnosis","","Psychic","Uncommon","Pokemon","Psychic, Colorless","Stage 1","1","ex16-31","Colorless","2"
+"30+","Stomp","Lairon","70","2","Granite Head","20","Metal","Uncommon","Pokemon","Colorless, Colorless, Colorless","Stage 1","2","ex16-32","Metal, Colorless","3"
+"50","Mega Kick","Machoke","80","1","Steady Punch","10+","Fighting","Uncommon","Pokemon","Fighting, Colorless, Colorless","Stage 1","1","ex16-33","Colorless","3"
+"40","Rolling Kick","Medicham","80","2","Punch","30","Fighting","Uncommon","Pokemon","Fighting, Fighting, Colorless","Stage 1","1","ex16-34","Colorless, Colorless","3"
+,,"Metang","80","2","Extra Comet Punch","30+","Metal","Uncommon","Pokemon",,"Stage 1","2","ex16-35","Metal, Colorless",
+"40","Gentle Slap","Nuzleaf","70","1","Fake Out","10","Darkness","Uncommon","Pokemon","Darkness, Colorless, Colorless","Stage 1","1","ex16-36","Colorless","3"
+,,"Sealeo","70","2","Ice Beam","20","Water","Uncommon","Pokemon",,"Stage 1","1","ex16-37","Water, Colorless",
+"50","Darkness Charge","Sharpedo","70","2","Tight Jaw","20","Darkness","Uncommon","Pokemon","Darkness, Colorless, Colorless","Stage 1","","ex16-38","Darkness, Colorless","3"
+"40","Rolling Tackle","Shelgon","80","2","Rage","10+","Colorless","Uncommon","Pokemon","Water, Colorless, Colorless","Stage 1","2","ex16-39","Fire, Colorless","3"
+"60","Dragonbreath","Vibrava","80","2","Ram","20","Colorless","Uncommon","Pokemon","Grass, Lightning, Colorless","Stage 1","1","ex16-40","Colorless, Colorless","3"
+,,"Vigoroth","70","2","Ambush","20+","Colorless","Uncommon","Pokemon",,"Stage 1","1","ex16-41","Colorless, Colorless",
+"20","Tackle","Aron","50","1","Dig Deep","","Metal","Common","Pokemon","Metal, Colorless","Basic","2","ex16-42","Colorless","2"
+,,"Bagon","50","1","Retaliate","10×","Colorless","Common","Pokemon",,"Basic","1","ex16-43","Colorless",
+"20","Spinning Attack","Baltoy","50","1","Psybeam","10","Psychic","Common","Pokemon","Colorless, Colorless","Basic","1","ex16-44","Psychic","2"
+,,"Beldum","50","1","Magnetic Lines","10","Metal","Common","Pokemon",,"Basic","2","ex16-45","Metal",
+,,"Cacnea","50","1","Feint Attack","","Grass","Common","Pokemon",,"Basic","1","ex16-46","Colorless",
+,,"Carvanha","40","2","Gnaw","20","Darkness","Common","Pokemon",,"Basic","1","ex16-47","Darkness, Colorless",
+,,"Charmander","50","1","Smokescreen","10","Fire","Common","Pokemon",,"Basic","1","ex16-48","Fire",
+"10","Negative Ion","Chinchou","50","1","Positive Ion","10+","Lightning","Common","Pokemon","Colorless, Colorless","Basic","1","ex16-49","Lightning","2"
+,,"Duskull","50","2","Surprise Attack","30","Psychic","Common","Pokemon",,"Basic","1","ex16-50","Psychic, Colorless",
+"20×","Double Scratch","Kabuto","60","1","Fast Evolution","","Fighting","Common","Pokemon","Fighting, Colorless","Stage 1","2","ex16-51","Colorless","2"
+"40","Acid","Lileep","80","2","Surprise","20","Grass","Common","Pokemon","Grass, Colorless, Colorless","Stage 1","2","ex16-52","Grass, Colorless","3"
+"30","Submission","Machop","50","1","Smash Punch","20","Fighting","Common","Pokemon","Fighting, Colorless","Basic","1","ex16-53","Colorless","2"
+"20","Spark","Magnemite","50","1","Ram","10","Lightning","Common","Pokemon","Lightning, Colorless","Basic","1","ex16-54","Colorless","2"
+"10+","Cross Chop","Meditite","40","1","Psyshock","10","Fighting","Common","Pokemon","Fighting","Basic","1","ex16-55","Psychic","1"
+"20","Mud Shot","Omanyte","70","1","Influence","","Water","Common","Pokemon","Colorless, Colorless","Stage 1","1","ex16-56","Water","2"
+"20×","Slam","Pikachu","40","1","Charge","","Lightning","Common","Pokemon","Colorless, Colorless","Basic","1","ex16-57","Lightning","2"
+,,"Poochyena","50","1","Double Kick","10×","Darkness","Common","Pokemon",,"Basic","1","ex16-58","Darkness",
+"20","Teleportation Burst","Ralts","50","1","Slap","10","Psychic","Common","Pokemon","Psychic, Colorless","Basic","1","ex16-59","Colorless","2"
+"20×","Double Spin","Seedot","40","1","Nap","","Grass","Common","Pokemon","Grass, Colorless","Basic","1","ex16-60","Colorless","2"
+,,"Shuppet","50","1","Bad Dream","10","Psychic","Common","Pokemon",,"Basic","1","ex16-61","Psychic",
+"20","Tackle","Skitty","50","1","Tail Whip","","Colorless","Common","Pokemon","Colorless, Colorless","Basic","1","ex16-62","Colorless","2"
+"10","Scratch","Slakoth","40","1","Amnesia","","Colorless","Common","Pokemon","Colorless","Basic","1","ex16-63","Colorless","1"
+"20×","Double Headbutt","Snorunt","50","1","Pebble Throw","","Water","Common","Pokemon","Water, Colorless","Basic","1","ex16-64","Colorless","2"
+"20","Aurora Beam","Spheal","40","1","Defense Curl","","Water","Common","Pokemon","Water, Colorless","Basic","1","ex16-65","Colorless","2"
+,,"Swablu","40","1","Fury Attack","10×","Colorless","Common","Pokemon",,"Basic","1","ex16-66","Colorless",
+,,"Torchic","50","1","Super Singe","10","Fire","Common","Pokemon",,"Basic","1","ex16-67","Fire",
+,,"Trapinch","50","1","Surprise Attack","20","Fighting","Common","Pokemon",,"Basic","1","ex16-68","Colorless",
+"30","Ember","Vulpix","50","1","Confuse Ray","","Fire","Common","Pokemon","Fire, Colorless","Basic","1","ex16-69","Colorless","2"
+,,"Wynaut","50","1","Flail","10×","Psychic","Common","Pokemon",,"Basic","1","ex16-70","Colorless",
+,,"Battle Frontier",,,,,"","Uncommon","Trainer",,"Stadium","","ex16-71",,
+,,"Drake's Stadium",,,,,"","Uncommon","Trainer",,"Stadium","","ex16-72",,
+,,"Energy Recycle System",,,,,"","Uncommon","Trainer",,"Item","","ex16-73",,
+,,"Energy Removal 2",,,,,"","Uncommon","Trainer",,"Item","","ex16-74",,
+,,"Energy Switch",,,,,"","Uncommon","Trainer",,"Item","","ex16-75",,
+,,"Glacia's Stadium",,,,,"","Uncommon","Trainer",,"Stadium","","ex16-76",,
+,,"Great Ball",,,,,"","Uncommon","Trainer",,"Item","","ex16-77",,
+,,"Master Ball",,,,,"","Uncommon","Trainer",,"Item","","ex16-78",,
+,,"Phoebe's Stadium",,,,,"","Uncommon","Trainer",,"Stadium","","ex16-79",,
+,,"Professor Birch",,,,,"","Uncommon","Trainer",,"Supporter","","ex16-80",,
+,,"Scott",,,,,"","Uncommon","Trainer",,"Supporter","","ex16-81",,
+,,"Sidney's Stadium",,,,,"","Uncommon","Trainer",,"Stadium","","ex16-82",,
+,,"Steven's Advice",,,,,"","Uncommon","Trainer",,"Supporter","","ex16-83",,
+,,"Claw Fossil","40",,,,"","Common","Trainer",,"Item","","ex16-84",,
+,,"Mysterious Fossil","50",,,,"","Common","Trainer",,"Item","","ex16-85",,
+,,"Root Fossil","40",,,,"","Common","Trainer",,"Item","","ex16-86",,
+,,"Darkness Energy",,,,,"","Rare","Energy",,"Special","","ex16-87",,
+,,"Metal Energy",,,,,"","Rare","Energy",,"Special","","ex16-88",,
+,,"Multi Energy",,,,,"","Rare","Energy",,"Special","","ex16-89",,
+,,"Cyclone Energy",,,,,"","Uncommon","Energy",,"Special","","ex16-90",,
+,,"Warp Energy",,,,,"","Uncommon","Energy",,"Special","","ex16-91",,
+,,"Grass Energy",,,,,"","Rare Holo","Energy",,"Basic","","ex16-103",,
+,,"Fire Energy",,,,,"","Rare Holo","Energy",,"Basic","","ex16-104",,
+,,"Water Energy",,,,,"","Rare Holo","Energy",,"Basic","","ex16-105",,
+,,"Lightning Energy",,,,,"","Rare Holo","Energy",,"Basic","","ex16-106",,
+,,"Psychic Energy",,,,,"","Rare Holo","Energy",,"Basic","","ex16-107",,
+,,"Fighting Energy",,,,,"","Rare Holo","Energy",,"Basic","","ex16-108",,

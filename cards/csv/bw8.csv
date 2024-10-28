@@ -1,120 +1,120 @@
-"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
-"bw8-1","Turtwig","Pokemon","Basic","70","Grass","2","Common"
-"bw8-2","Grotle","Pokemon","Stage 1","100","Grass","3","Uncommon"
-"bw8-3","Torterra","Pokemon","Stage 2, Team Plasma","150","Grass","4","Rare"
-"bw8-4","Combee","Pokemon","Basic","30","Grass","1","Common"
-"bw8-5","Vespiquen","Pokemon","Stage 1","100","Grass","1","Rare"
-"bw8-6","Cherubi","Pokemon","Basic","40","Grass","1","Common"
-"bw8-7","Cherrim","Pokemon","Stage 1","70","Grass","1","Rare"
-"bw8-8","Sewaddle","Pokemon","Basic","40","Grass","1","Common"
-"bw8-9","Swadloon","Pokemon","Stage 1","80","Grass","2","Uncommon"
-"bw8-10","Leavanny","Pokemon","Stage 2","140","Grass","2","Rare"
-"bw8-11","Maractus","Pokemon","Basic","90","Grass","1","Uncommon"
-"bw8-12","Foongus","Pokemon","Basic","40","Grass","1","Common"
-"bw8-13","Amoonguss","Pokemon","Stage 1, Team Plasma","90","Grass","2","Uncommon"
-"bw8-15","Chimchar","Pokemon","Basic","50","Fire","1","Common"
-"bw8-16","Monferno","Pokemon","Stage 1","80","Fire","1","Uncommon"
-"bw8-17","Infernape","Pokemon","Stage 2, Team Plasma","130","Fire","","Rare Holo"
-"bw8-19","Pansear","Pokemon","Basic","70","Fire","1","Common"
-"bw8-20","Simisear","Pokemon","Stage 1","90","Fire","2","Uncommon"
-"bw8-21","Litwick","Pokemon","Basic","60","Fire","1","Common"
-"bw8-22","Lampent","Pokemon","Stage 1","70","Fire","1","Uncommon"
-"bw8-23","Heatmor","Pokemon","Basic","90","Fire","2","Uncommon"
-"bw8-24","Squirtle","Pokemon","Basic","60","Water","1","Common"
-"bw8-26","Swinub","Pokemon","Basic","60","Water","2","Common"
-"bw8-27","Piloswine","Pokemon","Stage 1","100","Water","3","Uncommon"
-"bw8-28","Mamoswine","Pokemon","Stage 2","150","Water","4","Rare"
-"bw8-29","Lotad","Pokemon","Basic","60","Water","1","Common"
-"bw8-30","Lombre","Pokemon","Stage 1","80","Water","2","Uncommon"
-"bw8-31","Ludicolo","Pokemon","Stage 2","130","Water","3","Rare"
-"bw8-32","Carvanha","Pokemon","Basic","60","Water","1","Common"
-"bw8-33","Sharpedo","Pokemon","Stage 1, Team Plasma","90","Water","","Rare"
-"bw8-34","Manaphy","Pokemon","Basic","70","Water","1","Rare Holo"
-"bw8-35","Vanillite","Pokemon","Basic","60","Water","1","Common"
-"bw8-36","Vanillish","Pokemon","Stage 1","80","Water","1","Uncommon"
-"bw8-37","Vanilluxe","Pokemon","Stage 2","130","Water","1","Rare"
-"bw8-38","Frillish","Pokemon","Basic","70","Water","2","Common"
-"bw8-39","Jellicent","Pokemon","Stage 1, Team Plasma","100","Water","2","Rare"
-"bw8-40","Cubchoo","Pokemon","Basic","70","Water","2","Common"
-"bw8-41","Beartic","Pokemon","Stage 1, Team Plasma","130","Water","4","Rare"
-"bw8-42","Magnemite","Pokemon","Basic","60","Lightning","1","Common"
-"bw8-43","Magnemite","Pokemon","Basic","60","Lightning","1","Common"
-"bw8-44","Magneton","Pokemon","Stage 1","80","Lightning","2","Uncommon"
-"bw8-45","Magneton","Pokemon","Stage 1","80","Lightning","2","Uncommon"
-"bw8-46","Magnezone","Pokemon","Stage 2, Team Plasma","140","Lightning","3","Rare Holo"
-"bw8-47","Magnezone","Pokemon","Stage 2","140","Lightning","2","Rare"
-"bw8-49","Rotom","Pokemon","Basic, Team Plasma","60","Lightning","1","Uncommon"
-"bw8-50","Joltik","Pokemon","Basic","40","Lightning","1","Common"
-"bw8-51","Galvantula","Pokemon","Stage 1","80","Lightning","","Uncommon"
-"bw8-52","Zubat","Pokemon","Basic","50","Psychic","1","Common"
-"bw8-53","Zubat","Pokemon","Basic","40","Psychic","1","Common"
-"bw8-54","Golbat","Pokemon","Stage 1","80","Psychic","1","Uncommon"
-"bw8-55","Crobat","Pokemon","Stage 2, Team Plasma","130","Psychic","","Rare Holo"
-"bw8-56","Koffing","Pokemon","Basic","70","Psychic","2","Common"
-"bw8-57","Koffing","Pokemon","Basic","60","Psychic","1","Uncommon"
-"bw8-58","Weezing","Pokemon","Stage 1, Team Plasma","100","Psychic","2","Rare Holo"
-"bw8-59","Ralts","Pokemon","Basic","60","Psychic","1","Common"
-"bw8-60","Kirlia","Pokemon","Stage 1","80","Psychic","1","Uncommon"
-"bw8-61","Gallade","Pokemon","Stage 2","140","Psychic","2","Rare Holo"
-"bw8-62","Giratina","Pokemon","Basic, Team Plasma","130","Psychic","3","Rare"
-"bw8-63","Trubbish","Pokemon","Basic","60","Psychic","1","Uncommon"
-"bw8-64","Trubbish","Pokemon","Basic","60","Psychic","1","Common"
-"bw8-65","Trubbish","Pokemon","Basic","70","Psychic","2","Common"
-"bw8-66","Garbodor","Pokemon","Stage 1, Team Plasma","110","Psychic","3","Rare Holo"
-"bw8-67","Garbodor","Pokemon","Stage 1, Team Plasma","110","Psychic","3","Rare"
-"bw8-68","Elgyem","Pokemon","Basic","60","Psychic","1","Common"
-"bw8-69","Elgyem","Pokemon","Basic","60","Psychic","1","Uncommon"
-"bw8-70","Beheeyem","Pokemon","Stage 1, Team Plasma","90","Psychic","1","Rare"
-"bw8-71","Phanpy","Pokemon","Basic","80","Fighting","2","Common"
-"bw8-72","Donphan","Pokemon","Stage 1","130","Fighting","4","Uncommon"
-"bw8-73","Lunatone","Pokemon","Basic","90","Fighting","3","Uncommon"
-"bw8-74","Solrock","Pokemon","Basic","90","Fighting","3","Uncommon"
-"bw8-75","Riolu","Pokemon","Basic","60","Fighting","1","Common"
-"bw8-76","Riolu","Pokemon","Basic","70","Fighting","1","Common"
-"bw8-77","Lucario","Pokemon","Stage 1","90","Fighting","1","Uncommon"
-"bw8-78","Lucario","Pokemon","Stage 1","100","Fighting","2","Rare Holo"
-"bw8-79","Timburr","Pokemon","Basic","70","Fighting","2","Common"
-"bw8-80","Gurdurr","Pokemon","Stage 1","90","Fighting","3","Uncommon"
-"bw8-81","Conkeldurr","Pokemon","Stage 2","140","Fighting","3","Rare"
-"bw8-82","Purrloin","Pokemon","Basic","50","Darkness","1","Common"
-"bw8-83","Purrloin","Pokemon","Basic","50","Darkness","1","Common"
-"bw8-84","Liepard","Pokemon","Stage 1, Team Plasma","80","Darkness","1","Rare"
-"bw8-85","Scraggy","Pokemon","Basic","60","Darkness","2","Common"
-"bw8-86","Scrafty","Pokemon","Stage 1, Team Plasma","90","Darkness","1","Rare"
-"bw8-87","Skarmory","Pokemon","Basic, Team Plasma","90","Metal","1","Rare"
-"bw8-88","Klink","Pokemon","Basic","60","Metal","2","Common"
-"bw8-89","Klang","Pokemon","Stage 1","80","Metal","2","Uncommon"
-"bw8-90","Klinklang","Pokemon","Stage 2, Team Plasma","140","Metal","3","Rare Holo"
-"bw8-91","Durant","Pokemon","Basic, Team Plasma","70","Metal","1","Uncommon"
-"bw8-92","Durant","Pokemon","Basic, Team Plasma","70","Metal","1","Uncommon"
-"bw8-94","Druddigon","Pokemon","Basic, Team Plasma","110","Dragon","1","Rare"
-"bw8-97","Clefairy","Pokemon","Basic","60","Colorless","1","Common"
-"bw8-98","Clefable","Pokemon","Stage 1","90","Colorless","1","Rare"
-"bw8-99","Doduo","Pokemon","Basic","60","Colorless","1","Common"
-"bw8-100","Dodrio","Pokemon","Stage 1","90","Colorless","1","Rare"
-"bw8-101","Snorlax","Pokemon","Basic, Team Plasma","130","Colorless","4","Rare"
-"bw8-102","Togepi","Pokemon","Basic","40","Colorless","1","Common"
-"bw8-103","Togetic","Pokemon","Stage 1","80","Colorless","1","Uncommon"
-"bw8-104","Togekiss","Pokemon","Stage 2","140","Colorless","1","Rare Holo"
-"bw8-105","Whismur","Pokemon","Basic","70","Colorless","2","Common"
-"bw8-106","Loudred","Pokemon","Stage 1","90","Colorless","3","Uncommon"
-"bw8-107","Exploud","Pokemon","Stage 2","140","Colorless","4","Rare"
-"bw8-109","Skitty","Pokemon","Basic","50","Colorless","1","Common"
-"bw8-110","Patrat","Pokemon","Basic","50","Colorless","1","Common"
-"bw8-111","Patrat","Pokemon","Basic","50","Colorless","1","Common"
-"bw8-112","Watchog","Pokemon","Stage 1, Team Plasma","90","Colorless","1","Uncommon"
-"bw8-113","Watchog","Pokemon","Stage 1, Team Plasma","90","Colorless","1","Rare"
-"bw8-114","Bouffalant","Pokemon","Basic, Team Plasma","100","Colorless","2","Rare"
-"bw8-115","Rufflet","Pokemon","Basic","50","Colorless","1","Common"
-"bw8-116","Braviary","Pokemon","Stage 1","100","Colorless","2","Rare"
-"bw8-117","Bicycle","Trainer","Item",,"","","Uncommon"
-"bw8-118","Colress","Trainer","Supporter, Team Plasma",,"","","Uncommon"
-"bw8-119","Colress Machine","Trainer","Item, Team Plasma",,"","","Uncommon"
-"bw8-120","Escape Rope","Trainer","Item",,"","","Uncommon"
-"bw8-121","Ether","Trainer","Item",,"","","Uncommon"
-"bw8-122","Eviolite","Trainer","Pokemon Tool",,"","","Uncommon"
-"bw8-123","Hypnotoxic Laser","Trainer","Item, Team Plasma",,"","","Uncommon"
-"bw8-124","Plasma Frigate","Trainer","Stadium, Team Plasma",,"","","Uncommon"
-"bw8-125","Team Plasma Grunt","Trainer","Supporter, Team Plasma",,"","","Uncommon"
-"bw8-126","Virbank City Gym","Trainer","Stadium",,"","","Uncommon"
-"bw8-127","Plasma Energy","Energy","Special, Team Plasma",,"","","Uncommon"
+"Attack2_Damage","Attack2_Name","Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Attack2_Cost","Subtypes","RetreatCost","ID","Attack1_Cost","Attack2_ConvertedEnergyCost"
+"30","Razor Leaf","Turtwig","70","1","Nap","","Grass","Common","Pokemon","Grass, Colorless, Colorless","Basic","2","bw8-1","Colorless","3"
+,,"Grotle","100","3","Knock Away","40+","Grass","Uncommon","Pokemon",,"Stage 1","3","bw8-2","Grass, Colorless, Colorless",
+"80+","Rumble Stomp","Torterra","150","3","Guard Press","60","Grass","Rare","Pokemon","Grass, Colorless, Colorless, Colorless","Stage 2, Team Plasma","4","bw8-3","Grass, Colorless, Colorless","4"
+,,"Combee","30","1","Sting Missile","30","Grass","Common","Pokemon",,"Basic","1","bw8-4","Grass",
+"20×","Damage Beat","Vespiquen","100","1","Gather Order","","Grass","Rare","Pokemon","Grass, Colorless","Stage 1","1","bw8-5","Grass","2"
+,,"Cherubi","40","1","Leech Seed","10","Grass","Common","Pokemon",,"Basic","1","bw8-6","Grass",
+,,"Cherrim","70","2","Random Peck","20+","Grass","Rare","Pokemon",,"Stage 1","1","bw8-7","Grass, Colorless",
+,,"Sewaddle","40","1","Bug Bite","20","Grass","Common","Pokemon",,"Basic","1","bw8-8","Grass",
+"40","Surprise Attack","Swadloon","80","1","Swaddle Guard","","Grass","Uncommon","Pokemon","Colorless, Colorless","Stage 1","2","bw8-9","Grass","2"
+"70+","Leaf Blade","Leavanny","140","2","Cleave","30","Grass","Rare","Pokemon","Grass, Grass, Colorless","Stage 2","2","bw8-10","Colorless, Colorless","3"
+"20+","Ambush","Maractus","90","1","Dazzle Dance","10","Grass","Uncommon","Pokemon","Grass, Colorless","Basic","1","bw8-11","Grass","2"
+,,"Foongus","40","1","Astonish","","Grass","Common","Pokemon",,"Basic","1","bw8-12","Colorless",
+"30","Miracle Powder","Amoonguss","90","1","Astonish","","Grass","Uncommon","Pokemon","Grass, Colorless","Stage 1, Team Plasma","2","bw8-13","Colorless","2"
+,,"Chimchar","50","1","Flare","20","Fire","Common","Pokemon",,"Basic","1","bw8-15","Fire",
+"50","Fire Tail Slap","Monferno","80","1","Loud Howl","","Fire","Uncommon","Pokemon","Fire, Colorless","Stage 1","1","bw8-16","Colorless","2"
+"120","Malevolent Fire","Infernape","130","1","Torment","30","Fire","Rare Holo","Pokemon","Fire, Colorless","Stage 2, Team Plasma","","bw8-17","Colorless","2"
+"40×","Double Fire","Pansear","70","2","Scratch","20","Fire","Common","Pokemon","Fire, Fire, Colorless","Basic","1","bw8-19","Colorless, Colorless","3"
+"40+","Flame Blast","Simisear","90","1","Searing Flame","20","Fire","Uncommon","Pokemon","Colorless, Colorless, Colorless","Stage 1","2","bw8-20","Fire","3"
+,,"Litwick","60","1","Surprise Attack","20","Fire","Common","Pokemon",,"Basic","1","bw8-21","Colorless",
+,,"Lampent","70","2","Will-O-Wisp","20","Fire","Uncommon","Pokemon",,"Stage 1","1","bw8-22","Fire, Colorless",
+"50×","Fiery Licks","Heatmor","90","1","Luring Flame","","Fire","Uncommon","Pokemon","Fire, Fire, Fire","Basic","2","bw8-23","Fire","3"
+,,"Squirtle","60","1","Tackle","10","Water","Common","Pokemon",,"Basic","1","bw8-24","Colorless",
+,,"Swinub","60","2","Double Headbutt","20×","Water","Common","Pokemon",,"Basic","2","bw8-26","Water, Colorless",
+"40×","Quintuple Headbutt","Piloswine","100","2","Ice Beam","20","Water","Uncommon","Pokemon","Water, Water, Colorless, Colorless","Stage 1","3","bw8-27","Water, Colorless","4"
+"90×","Continuous Headbutt","Mamoswine","150","3","Frost Stone","50+","Water","Rare","Pokemon","Water, Water, Colorless, Colorless","Stage 2","4","bw8-28","Water, Colorless, Colorless","4"
+,,"Lotad","60","2","Bubble Beam","20","Water","Common","Pokemon",,"Basic","1","bw8-29","Water, Colorless",
+"50","Wave Splash","Lombre","80","2","Jump On","20+","Water","Uncommon","Pokemon","Water, Colorless, Colorless","Stage 1","2","bw8-30","Colorless, Colorless","3"
+,,"Ludicolo","130","3","Groovy Dance","70","Water","Rare","Pokemon",,"Stage 2","3","bw8-31","Water, Water, Colorless",
+,,"Carvanha","60","2","Bite","20","Water","Common","Pokemon",,"Basic","1","bw8-32","Water, Colorless",
+,,"Sharpedo","90","2","Hard Bite","40+","Water","Rare","Pokemon",,"Stage 1, Team Plasma","","bw8-33","Water, Colorless",
+,,"Manaphy","70","1","Seafaring","","Water","Rare Holo","Pokemon",,"Basic","1","bw8-34","Water",
+,,"Vanillite","60","1","Snow Squall","10","Water","Common","Pokemon",,"Basic","1","bw8-35","Colorless",
+,,"Vanillish","80","2","Icy Snow","30","Water","Uncommon","Pokemon",,"Stage 1","1","bw8-36","Water, Colorless",
+"70","Blizzard","Vanilluxe","130","1","Enefountain","30","Water","Rare","Pokemon","Water, Water, Colorless","Stage 2","1","bw8-37","Colorless","3"
+,,"Frillish","70","2","Absorb","10","Water","Common","Pokemon",,"Basic","2","bw8-38","Water, Colorless",
+,,"Jellicent","100","2","Aqua Bullet","40","Water","Rare","Pokemon",,"Stage 1, Team Plasma","2","bw8-39","Water, Colorless",
+"30","Icy Snow","Cubchoo","70","1","Hail","","Water","Common","Pokemon","Colorless, Colorless, Colorless","Basic","2","bw8-40","Water","3"
+"90","Glacier Drop","Beartic","130","2","Powerful Rage","20×","Water","Rare","Pokemon","Water, Water, Colorless","Stage 1, Team Plasma","4","bw8-41","Water, Colorless","3"
+"20","Electro Ball","Magnemite","60","1","Metal Sound","","Lightning","Common","Pokemon","Lightning, Colorless","Basic","1","bw8-42","Colorless","2"
+,,"Magnemite","60","1","Electro Ball","10","Lightning","Common","Pokemon",,"Basic","1","bw8-43","Lightning",
+"30","Electro Ball","Magneton","80","1","Metal Sound","","Lightning","Uncommon","Pokemon","Lightning, Colorless","Stage 1","2","bw8-44","Colorless","2"
+,,"Magneton","80","2","Knock Away","20+","Lightning","Uncommon","Pokemon",,"Stage 1","2","bw8-45","Lightning, Colorless",
+,,"Magnezone","140","3","Gyro Ball","80","Lightning","Rare Holo","Pokemon",,"Stage 2, Team Plasma","3","bw8-46","Lightning, Lightning, Colorless",
+"70+","Tumbling Attack","Magnezone","140","1","Double Assist","30","Lightning","Rare","Pokemon","Lightning, Colorless, Colorless","Stage 2","2","bw8-47","Lightning","3"
+"20×","Poltergeist","Rotom","60","1","Electribonus","","Lightning","Uncommon","Pokemon","Lightning, Colorless","Basic, Team Plasma","1","bw8-49","Colorless","2"
+,,"Joltik","40","1","Jump On","10+","Lightning","Common","Pokemon",,"Basic","1","bw8-50","Lightning",
+"30","Signal Beam","Galvantula","80","1","Discharge","30×","Lightning","Uncommon","Pokemon","Colorless, Colorless","Stage 1","","bw8-51","Lightning","2"
+,,"Zubat","50","1","Spiral Drain","10","Psychic","Common","Pokemon",,"Basic","1","bw8-52","Colorless",
+,,"Zubat","40","2","Wing Attack","20","Psychic","Common","Pokemon",,"Basic","1","bw8-53","Psychic, Colorless",
+,,"Golbat","80","2","Spiral Drain","20","Psychic","Uncommon","Pokemon",,"Stage 1","1","bw8-54","Psychic, Colorless",
+,,"Crobat","130","3","Ultra-Toxic Fang","40","Psychic","Rare Holo","Pokemon",,"Stage 2, Team Plasma","","bw8-55","Psychic, Colorless, Colorless",
+"20×","Double Spin","Koffing","70","1","Tackle","10","Psychic","Common","Pokemon","Colorless, Colorless","Basic","2","bw8-56","Psychic","2"
+,,"Koffing","60","2","Smokescreen","20","Psychic","Uncommon","Pokemon",,"Basic","1","bw8-57","Psychic, Colorless",
+,,"Weezing","100","2","Smogbank","","Psychic","Rare Holo","Pokemon",,"Stage 1, Team Plasma","2","bw8-58","Psychic, Colorless",
+,,"Ralts","60","1","Psy Bolt","","Psychic","Common","Pokemon",,"Basic","1","bw8-59","Colorless",
+,,"Kirlia","80","1","Psy Bolt","20","Psychic","Uncommon","Pokemon",,"Stage 1","1","bw8-60","Psychic",
+"80","Swift Lunge","Gallade","140","2","Powerful Storm","20×","Psychic","Rare Holo","Pokemon","Psychic, Colorless, Colorless","Stage 2","2","bw8-61","Colorless, Colorless","3"
+"90","Shadow Claw","Giratina","130","3","Hex","50+","Psychic","Rare","Pokemon","Psychic, Psychic, Colorless, Colorless","Basic, Team Plasma","3","bw8-62","Psychic, Colorless, Colorless","4"
+"20","Sludge Toss","Trubbish","60","1","Pile Up","","Psychic","Uncommon","Pokemon","Colorless, Colorless","Basic","1","bw8-63","Psychic","2"
+"40","Sludge Bomb","Trubbish","60","1","Pound","10","Psychic","Common","Pokemon","Psychic, Psychic, Colorless","Basic","1","bw8-64","Colorless","3"
+,,"Trubbish","70","2","Tool Drop","20×","Psychic","Common","Pokemon",,"Basic","2","bw8-65","Psychic, Colorless",
+"70","Sludge Bomb","Garbodor","110","1","Biosmog","20","Psychic","Rare Holo","Pokemon","Psychic, Psychic, Colorless","Stage 1, Team Plasma","3","bw8-66","Colorless","3"
+"80×","Double Ducts","Garbodor","110","2","Ensnarl","20×","Psychic","Rare","Pokemon","Psychic, Colorless, Colorless, Colorless","Stage 1, Team Plasma","3","bw8-67","Colorless, Colorless","4"
+,,"Elgyem","60","2","Psyshot","30","Psychic","Common","Pokemon",,"Basic","1","bw8-68","Psychic, Psychic",
+"30","Smash Punch","Elgyem","60","1","Reflect","","Psychic","Uncommon","Pokemon","Psychic, Colorless","Basic","1","bw8-69","Colorless","2"
+"","Damakinesis","Beheeyem","90","1","Lock Up","20","Psychic","Rare","Pokemon","Psychic, Colorless, Colorless","Stage 1, Team Plasma","1","bw8-70","Psychic","3"
+"50","Rollout","Phanpy","80","1","Tackle","10","Fighting","Common","Pokemon","Fighting, Fighting, Colorless","Basic","2","bw8-71","Fighting","3"
+"80+","Wreck","Donphan","130","1","Spinning Turn","40","Fighting","Uncommon","Pokemon","Fighting, Fighting, Colorless, Colorless","Stage 1","4","bw8-72","Fighting","4"
+,,"Lunatone","90","2","Rock Throw","30","Fighting","Uncommon","Pokemon",,"Basic","3","bw8-73","Fighting, Colorless",
+"90","Explosion","Solrock","90","2","Heat Burn","20","Fighting","Uncommon","Pokemon","Fighting, Colorless, Colorless","Basic","3","bw8-74","Fighting, Colorless","3"
+"20","Kick","Riolu","60","1","Punch","10","Fighting","Common","Pokemon","Fighting, Colorless","Basic","1","bw8-75","Colorless","2"
+"40","Feint","Riolu","70","2","Kick","20","Fighting","Common","Pokemon","Fighting, Colorless, Colorless","Basic","1","bw8-76","Colorless, Colorless","3"
+"70","Mach Cross","Lucario","90","2","Kick","10","Fighting","Uncommon","Pokemon","Fighting, Colorless, Colorless","Stage 1","1","bw8-77","Fighting, Colorless","3"
+,,"Lucario","100","3","Hurricane Kick","60+","Fighting","Rare Holo","Pokemon",,"Stage 1","2","bw8-78","Fighting, Colorless, Colorless",
+"40","Low Kick","Timburr","70","2","Knock Back","20","Fighting","Common","Pokemon","Fighting, Colorless, Colorless","Basic","2","bw8-79","Fighting, Colorless","3"
+"80","Hammer In","Gurdurr","90","3","Dynamic Punch","40+","Fighting","Uncommon","Pokemon","Fighting, Fighting, Colorless, Colorless","Stage 1","3","bw8-80","Fighting, Colorless, Colorless","4"
+"80","Drain Punch","Conkeldurr","140","3","Facade","60+","Fighting","Rare","Pokemon","Fighting, Fighting, Colorless, Colorless","Stage 2","3","bw8-81","Colorless, Colorless, Colorless","4"
+"10×","Fury Swipes","Purrloin","50","1","Tail Trickery","","Darkness","Common","Pokemon","Darkness, Colorless","Basic","1","bw8-82","Darkness","2"
+"20+","Fasten Claws","Purrloin","50","1","Scout","","Darkness","Common","Pokemon","Darkness, Colorless","Basic","1","bw8-83","Colorless","2"
+"30","Fake Out","Liepard","80","1","Silent Claw","","Darkness","Rare","Pokemon","Darkness, Colorless","Stage 1, Team Plasma","1","bw8-84","Colorless","2"
+"20","Low Kick","Scraggy","60","1","Headbutt","10","Darkness","Common","Pokemon","Colorless, Colorless","Basic","2","bw8-85","Darkness","2"
+"50+","Reinforced Headbutt","Scrafty","90","2","Kick Away","30","Darkness","Rare","Pokemon","Darkness, Darkness, Colorless","Stage 1, Team Plasma","1","bw8-86","Darkness, Colorless","3"
+"40","Steel Wing","Skarmory","90","1","Cargo Jet","","Metal","Rare","Pokemon","Metal, Metal, Colorless","Basic, Team Plasma","1","bw8-87","Colorless","3"
+"20","Vice Grip","Klink","60","1","Rigidify","","Metal","Common","Pokemon","Metal, Colorless","Basic","2","bw8-88","Colorless","2"
+"30+","Gear Smash","Klang","80","1","Vice Grip","20","Metal","Uncommon","Pokemon","Metal, Colorless, Colorless","Stage 1","2","bw8-89","Metal","3"
+,,"Klinklang","140","3","Heavy Bullet","70","Metal","Rare Holo","Pokemon",,"Stage 2, Team Plasma","3","bw8-90","Metal, Metal, Colorless",
+"40+","Hard Crunch","Durant","70","2","Gnaw","20","Metal","Uncommon","Pokemon","Metal, Colorless, Colorless","Basic, Team Plasma","1","bw8-91","Colorless, Colorless","3"
+"30","Metal Jail","Durant","70","1","Call for Backup","","Metal","Uncommon","Pokemon","Metal, Colorless","Basic, Team Plasma","1","bw8-92","Colorless","2"
+"90","Dragon Claw","Druddigon","110","2","Guard Press","20","Dragon","Rare","Pokemon","Fire, Fire, Water, Colorless","Basic, Team Plasma","1","bw8-94","Colorless, Colorless","4"
+"20×","Double Slap","Clefairy","60","1","Pound","10","Colorless","Common","Pokemon","Colorless, Colorless","Basic","1","bw8-97","Colorless","2"
+,,"Clefable","90","3","Moon Impact","50","Colorless","Rare","Pokemon",,"Stage 1","1","bw8-98","Colorless, Colorless, Colorless",
+,,"Doduo","60","2","Gatling Peck","10×","Colorless","Common","Pokemon",,"Basic","1","bw8-99","Colorless, Colorless",
+"60","Drill Peck","Dodrio","90","1","Raging Pecks","30×","Colorless","Rare","Pokemon","Colorless, Colorless, Colorless","Stage 1","1","bw8-100","Colorless","3"
+,,"Snorlax","130","5","Teampact","30×","Colorless","Rare","Pokemon",,"Basic, Team Plasma","4","bw8-101","Colorless, Colorless, Colorless, Colorless, Colorless",
+,,"Togepi","40","1","Yawn","","Colorless","Common","Pokemon",,"Basic","1","bw8-102","Colorless",
+,,"Togetic","80","1","Sweet Kiss","30","Colorless","Uncommon","Pokemon",,"Stage 1","1","bw8-103","Colorless",
+,,"Togekiss","140","1","Return","30","Colorless","Rare Holo","Pokemon",,"Stage 2","1","bw8-104","Colorless",
+"30","Hyper Voice","Whismur","70","1","Shout","","Colorless","Common","Pokemon","Colorless, Colorless, Colorless","Basic","2","bw8-105","Colorless","3"
+"50","Hyper Voice","Loudred","90","1","Supersonic","","Colorless","Uncommon","Pokemon","Colorless, Colorless, Colorless","Stage 1","3","bw8-106","Colorless","3"
+"50×","Round","Exploud","140","3","Destructive Sound","","Colorless","Rare","Pokemon","Colorless, Colorless, Colorless, Colorless","Stage 2","4","bw8-107","Colorless, Colorless, Colorless","4"
+,,"Skitty","50","2","Triple Slap","20×","Colorless","Common","Pokemon",,"Basic","1","bw8-109","Colorless, Colorless",
+,,"Patrat","50","1","Reckless Charge","20","Colorless","Common","Pokemon",,"Basic","1","bw8-110","Colorless",
+"20×","Slam","Patrat","50","1","Collect","","Colorless","Common","Pokemon","Colorless, Colorless","Basic","1","bw8-111","Colorless","2"
+"30+","Biting Fang","Watchog","90","1","Fast Swipe","","Colorless","Uncommon","Pokemon","Colorless, Colorless","Stage 1, Team Plasma","1","bw8-112","Colorless","2"
+"60","Low Kick","Watchog","90","2","Second Bite","20+","Colorless","Rare","Pokemon","Colorless, Colorless, Colorless","Stage 1, Team Plasma","1","bw8-113","Colorless, Colorless","3"
+"70","Hammer In","Bouffalant","100","1","Tool Breaker","","Colorless","Rare","Pokemon","Colorless, Colorless, Colorless, Colorless","Basic, Team Plasma","2","bw8-114","Colorless","4"
+,,"Rufflet","50","2","Incessant Peck","10+","Colorless","Common","Pokemon",,"Basic","1","bw8-115","Colorless, Colorless",
+,,"Braviary","100","3","Wild Edge","60+","Colorless","Rare","Pokemon",,"Stage 1","2","bw8-116","Colorless, Colorless, Colorless",
+,,"Bicycle",,,,,"","Uncommon","Trainer",,"Item","","bw8-117",,
+,,"Colress",,,,,"","Uncommon","Trainer",,"Supporter, Team Plasma","","bw8-118",,
+,,"Colress Machine",,,,,"","Uncommon","Trainer",,"Item, Team Plasma","","bw8-119",,
+,,"Escape Rope",,,,,"","Uncommon","Trainer",,"Item","","bw8-120",,
+,,"Ether",,,,,"","Uncommon","Trainer",,"Item","","bw8-121",,
+,,"Eviolite",,,,,"","Uncommon","Trainer",,"Pokemon Tool","","bw8-122",,
+,,"Hypnotoxic Laser",,,,,"","Uncommon","Trainer",,"Item, Team Plasma","","bw8-123",,
+,,"Plasma Frigate",,,,,"","Uncommon","Trainer",,"Stadium, Team Plasma","","bw8-124",,
+,,"Team Plasma Grunt",,,,,"","Uncommon","Trainer",,"Supporter, Team Plasma","","bw8-125",,
+,,"Virbank City Gym",,,,,"","Uncommon","Trainer",,"Stadium","","bw8-126",,
+,,"Plasma Energy",,,,,"","Uncommon","Energy",,"Special, Team Plasma","","bw8-127",,

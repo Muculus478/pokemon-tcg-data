@@ -18,7 +18,7 @@ foreach ($jsonFile in $jsonFiles) {
     foreach ($card in $jsonData) {
         # Only include cards with the defined rarities
         if ($card.rarity -ne $null -and $includedRarities -contains $card.rarity) {
-            $csvRow = [PSCustomObject]@{
+            $csvRow = @{
                 ID          = $card.id
                 Name        = $card.name
                 Supertype   = $card.supertype
@@ -28,7 +28,19 @@ foreach ($jsonFile in $jsonFiles) {
                 RetreatCost = ($card.convertedRetreatCost -join ", ")
                 Rarity      = $card.rarity
             }
-            $csvRows += $csvRow
+
+            if ($card.attacks -is [Array]) {
+                for ($i = 0; $i -lt $card.attacks.Count; $i++) {
+                    $attack = $card.attacks[$i]
+                    $attackNumber = $i + 1
+
+                    $csvRow["Attack${attackNumber}_Name"]                   = $attack.name
+                    $csvRow["Attack${attackNumber}_Cost"]                   = ($attack.cost -join ", ")
+                    $csvRow["Attack${attackNumber}_ConvertedEnergyCost"]    = $attack.convertedEnergyCost
+                    $csvRow["Attack${attackNumber}_Damage"]                 = $attack.damage
+                }
+            }
+            $csvRows += [PSCustomObject]$csvRow
         }
     }
 
@@ -42,7 +54,6 @@ foreach ($jsonFile in $jsonFiles) {
 
     # Update the CSV by replacing all "é" with "e"
     (Get-Content $csvFilePath) -replace 'é', 'e' | Set-Content $csvFilePath
-    Write-Host "CSV file updated to replace accented 'e' with regular 'e'"
 }
 
 Write-Host "All JSON files have been processed and CSVs created."

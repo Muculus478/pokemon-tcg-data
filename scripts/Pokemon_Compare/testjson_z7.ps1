@@ -25,7 +25,7 @@ foreach ($jsonFile in $jsonFiles) {
                 Subtypes    = ($card.subtypes -join ", ")
                 HP          = $card.hp
                 Types       = ($card.types -join ", ")
-                RetreatCost = ($card.retreatCost -join ", ")
+                RetreatCost = ($card.convertedRetreatCost -join ", ")
                 Rarity      = $card.rarity
             }
             $csvRows += $csvRow
@@ -42,7 +42,6 @@ foreach ($jsonFile in $jsonFiles) {
 
     # Update the CSV by replacing all "é" with "e"
     (Get-Content $csvFilePath) -replace 'é', 'e' | Set-Content $csvFilePath
-    Write-Host "CSV file updated to replace accented 'e' with regular 'e'"
 }
 
 Write-Host "All JSON files have been processed and CSVs created."

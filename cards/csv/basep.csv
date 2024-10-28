@@ -1,54 +1,54 @@
-"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
-"basep-1","Pikachu","Pokemon","Basic","60","Lightning","1","Promo"
-"basep-2","Electabuzz","Pokemon","Basic","60","Lightning","2","Promo"
-"basep-3","Mewtwo","Pokemon","Basic","70","Psychic","2","Promo"
-"basep-4","Pikachu","Pokemon","Basic","50","Lightning","1","Promo"
-"basep-5","Dragonite","Pokemon","Stage 2","90","Colorless","2","Promo"
-"basep-6","Arcanine","Pokemon","Stage 1","70","Fire","1","Promo"
-"basep-7","Jigglypuff","Pokemon","Basic","50","Colorless","1","Promo"
-"basep-8","Mew","Pokemon","Basic","50","Psychic","1","Promo"
-"basep-9","Mew","Pokemon","Basic","50","Psychic","1","Promo"
-"basep-10","Meowth","Pokemon","Basic","50","Colorless","1","Promo"
-"basep-11","Eevee","Pokemon","Basic","30","Colorless","","Promo"
-"basep-12","Mewtwo","Pokemon","Basic","60","Psychic","2","Promo"
-"basep-13","Venusaur","Pokemon","Stage 2","100","Grass","2","Promo"
-"basep-14","Mewtwo","Pokemon","Basic","70","Psychic","2","Promo"
-"basep-15","Cool Porygon","Pokemon","Basic","50","Colorless","1","Promo"
-"basep-16","Computer Error","Trainer","Rocket's Secret Machine",,"","","Promo"
-"basep-17","Dark Persian","Pokemon","Stage 1","60","Colorless","","Promo"
-"basep-18","Team Rocket's Meowth","Pokemon","Basic","40","Colorless","1","Promo"
-"basep-19","Sabrina's Abra","Pokemon","Basic","40","Psychic","","Promo"
-"basep-20","Psyduck","Pokemon","Basic","50","Water","1","Promo"
-"basep-21","Moltres","Pokemon","Basic","70","Fire","1","Promo"
-"basep-22","Articuno","Pokemon","Basic","70","Water","1","Promo"
-"basep-23","Zapdos","Pokemon","Basic","70","Lightning","1","Promo"
-"basep-24","_____'s Pikachu","Pokemon","Basic","50","Lightning","1","Promo"
-"basep-25","Flying Pikachu","Pokemon","Basic","40","Lightning","1","Promo"
-"basep-26","Pikachu","Pokemon","Basic","40","Lightning","1","Promo"
-"basep-27","Pikachu","Pokemon","Basic","30","Lightning","","Promo"
-"basep-28","Surfing Pikachu","Pokemon","Basic","50","Lightning","1","Promo"
-"basep-29","Marill","Pokemon","Basic","50","Water","1","Promo"
-"basep-30","Togepi","Pokemon","Basic","30","Colorless","1","Promo"
-"basep-31","Cleffa","Pokemon","Baby","30","Colorless","","Promo"
-"basep-32","Smeargle","Pokemon","Basic","40","Colorless","1","Promo"
-"basep-33","Scizor","Pokemon","Stage 1","70","Metal","2","Promo"
-"basep-34","Entei","Pokemon","Basic","80","Fire","1","Promo"
-"basep-35","Pichu","Pokemon","Baby","30","Lightning","","Promo"
-"basep-36","Igglybuff","Pokemon","Baby","30","Colorless","","Promo"
-"basep-37","Hitmontop","Pokemon","Basic","60","Fighting","1","Promo"
-"basep-38","Unown [J]","Pokemon","Basic","40","Psychic","1","Promo"
-"basep-39","Misdreavus","Pokemon","Basic","50","Psychic","1","Promo"
-"basep-40","Pokemon Center","Trainer","",,"","","Promo"
-"basep-41","Lucky Stadium","Trainer","Stadium",,"","","Promo"
-"basep-42","Pokemon Tower","Trainer","Stadium",,"","","Promo"
-"basep-43","Machamp","Pokemon","Stage 2","90","Fighting","3","Promo"
-"basep-44","Magmar","Pokemon","Basic","60","Fire","2","Promo"
-"basep-45","Scyther","Pokemon","Basic","60","Grass","1","Promo"
-"basep-46","Electabuzz","Pokemon","Basic","60","Lightning","1","Promo"
-"basep-47","Mew","Pokemon","Basic","40","Psychic","1","Promo"
-"basep-48","Articuno","Pokemon","Basic","80","Water","2","Promo"
-"basep-49","Snorlax","Pokemon","Basic","90","Colorless","4","Promo"
-"basep-50","Celebi","Pokemon","Basic","50","Grass","1","Promo"
-"basep-51","Rapidash","Pokemon","Stage 1","60","Fire","","Promo"
-"basep-52","Ho-oh","Pokemon","Basic","80","Fire","2","Promo"
-"basep-53","Suicune","Pokemon","Basic","70","Water","1","Promo"
+"Attack2_Damage","Attack2_Name","Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Attack2_Cost","Subtypes","RetreatCost","ID","Attack1_Cost","Attack2_ConvertedEnergyCost"
+"20","Thundershock","Pikachu","60","1","Growl","","Lightning","Promo","Pokemon","Lightning, Lightning","Basic","1","basep-1","Colorless","2"
+"10+","Quick Attack","Electabuzz","60","1","Light Screen","","Lightning","Promo","Pokemon","Colorless, Colorless","Basic","2","basep-2","Lightning","2"
+"40","Psyburn","Mewtwo","70","1","Energy Absorption","","Psychic","Promo","Pokemon","Psychic, Psychic, Colorless","Basic","2","basep-3","Psychic","3"
+"50","Thunderbolt","Pikachu","50","1","Recharge","","Lightning","Promo","Pokemon","Lightning, Lightning, Lightning","Basic","1","basep-4","Lightning","3"
+,,"Dragonite","90","3","Supersonic Flight","60","Colorless","Promo","Pokemon",,"Stage 2","2","basep-5","Colorless, Colorless, Colorless",
+"40+","Flames of Rage","Arcanine","70","2","Quick Attack","10+","Fire","Promo","Pokemon","Fire, Fire","Stage 1","1","basep-6","Colorless, Colorless","2"
+"40","Double-edge","Jigglypuff","50","1","First Aid","","Colorless","Promo","Pokemon","Colorless, Colorless, Colorless","Basic","1","basep-7","Colorless","3"
+"","Devolution Beam","Mew","50","1","Psywave","10×","Psychic","Promo","Pokemon","Psychic, Psychic","Basic","1","basep-8","Psychic","2"
+"","Devolution Beam","Mew","50","1","Psywave","10×","Psychic","Promo","Pokemon","Psychic, Psychic","Basic","1","basep-9","Psychic","2"
+,,"Meowth","50","2","Cat Punch","","Colorless","Promo","Pokemon",,"Basic","1","basep-10","Colorless, Colorless",
+,,"Eevee","30","1","Bite","20","Colorless","Promo","Pokemon",,"Basic","","basep-11","Colorless",
+"","Telekinesis","Mewtwo","60","1","Energy Control","","Psychic","Promo","Pokemon","Psychic, Psychic, Psychic","Basic","2","basep-12","Psychic","3"
+,,"Venusaur","100","4","Mega Drain","40","Grass","Promo","Pokemon",,"Stage 2","2","basep-13","Grass, Grass, Grass, Grass",
+"40","Psyburn","Mewtwo","70","1","Energy Absorption","","Psychic","Promo","Pokemon","Psychic, Psychic, Colorless","Basic","2","basep-14","Psychic","3"
+"20×","3-D Attack","Cool Porygon","50","3","Texture Magic","","Colorless","Promo","Pokemon","Colorless, Colorless, Colorless","Basic","1","basep-15","Colorless, Colorless, Colorless","3"
+,,"Computer Error",,,,,"","Promo","Trainer",,"Rocket's Secret Machine","","basep-16",,
+"10","Poison Claws","Dark Persian","60","1","Tempt","","Colorless","Promo","Pokemon","Colorless, Colorless","Stage 1","","basep-17","Colorless","2"
+,,"Team Rocket's Meowth","40","1","Miraculous Comeback","","Colorless","Promo","Pokemon",,"Basic","1","basep-18","Colorless",
+"40","Synchronize","Sabrina's Abra","40","1","Pound","10","Psychic","Promo","Pokemon","Psychic, Colorless","Basic","","basep-19","Colorless","2"
+"10×","Fury Swipes","Psyduck","50","1","Headache","","Water","Promo","Pokemon","Water","Basic","1","basep-20","Psychic","1"
+,,"Moltres","70","3","Hyper Flame","60","Fire","Promo","Pokemon",,"Basic","1","basep-21","Fire, Fire, Fire",
+,,"Articuno","70","3","Diamond Dust","20","Water","Promo","Pokemon",,"Basic","1","basep-22","Water, Water, Water",
+,,"Zapdos","70","3","Lightning Burn","30","Lightning","Promo","Pokemon",,"Basic","1","basep-23","Lightning, Lightning, Lightning",
+,,"_____'s Pikachu","50","2","Birthday Surprise","30+","Lightning","Promo","Pokemon",,"Basic","1","basep-24","Lightning, Lightning",
+"30","Fly","Flying Pikachu","40","1","Thundershock","10","Lightning","Promo","Pokemon","Colorless, Colorless, Colorless","Basic","1","basep-25","Lightning","3"
+"40","Thunderbolt","Pikachu","40","1","Scratch","10","Lightning","Promo","Pokemon","Lightning, Lightning","Basic","1","basep-26","Colorless","2"
+"20","Agility","Pikachu","30","1","Thundershock","10","Lightning","Promo","Pokemon","Lightning, Lightning","Basic","","basep-27","Lightning","2"
+,,"Surfing Pikachu","50","2","Surf","30","Lightning","Promo","Pokemon",,"Basic","1","basep-28","Water, Water",
+,,"Marill","50","2","Water Gun","20+","Water","Promo","Pokemon",,"Basic","1","basep-29","Water, Water",
+"","Mini-Metronome","Togepi","30","1","Snivel","","Colorless","Promo","Pokemon","Colorless, Colorless","Basic","1","basep-30","Colorless","2"
+,,"Cleffa","30","1","Eek","","Colorless","Promo","Pokemon",,"Baby","","basep-31","Colorless",
+,,"Smeargle","40","1","Paint","","Colorless","Promo","Pokemon",,"Basic","1","basep-32","Colorless",
+"30+","Metal Pincer","Scizor","70","1","Leer","","Metal","Promo","Pokemon","Metal, Colorless, Colorless","Stage 1","2","basep-33","Colorless","3"
+,,"Entei","80","3","Protective Flame","50","Fire","Promo","Pokemon",,"Basic","1","basep-34","Fire, Fire, Fire",
+,,"Pichu","30","1","Let's Play!","","Lightning","Promo","Pokemon",,"Baby","","basep-35","Colorless",
+,,"Igglybuff","30","1","Good Night Song","","Colorless","Promo","Pokemon",,"Baby","","basep-36","Colorless",
+"30","Rapid Spin","Hitmontop","60","2","Repeating Kick","20×","Fighting","Promo","Pokemon","Fighting, Fighting, Colorless","Basic","1","basep-37","Fighting, Fighting","3"
+,,"Unown [J]","40","1","Hidden Power","10","Psychic","Promo","Pokemon",,"Basic","1","basep-38","Psychic",
+"10","Confuse Ray","Misdreavus","50","1","Pain Split","","Psychic","Promo","Pokemon","Psychic, Psychic","Basic","1","basep-39","Psychic","2"
+,,"Pokemon Center",,,,,"","Promo","Trainer",,"","","basep-40",,
+,,"Lucky Stadium",,,,,"","Promo","Trainer",,"Stadium","","basep-41",,
+,,"Pokemon Tower",,,,,"","Promo","Trainer",,"Stadium","","basep-42",,
+"50","Fling","Machamp","90","2","Seething Anger","20+","Fighting","Promo","Pokemon","Fighting, Fighting, Colorless, Colorless","Stage 2","3","basep-43","Fighting, Fighting","4"
+"40","Magma Punch","Magmar","60","1","Burning Fire","10+","Fire","Promo","Pokemon","Fire, Fire, Colorless","Basic","2","basep-44","Fire","3"
+,,"Scyther","60","2","Slashing Strike","40","Grass","Promo","Pokemon",,"Basic","1","basep-45","Grass, Grass",
+"10","Lightning Bolt","Electabuzz","60","1","Lightning Rod","","Lightning","Promo","Pokemon","Lightning, Lightning","Basic","1","basep-46","Lightning","2"
+,,"Mew","40","1","Psyshock","10","Psychic","Promo","Pokemon",,"Basic","1","basep-47","Psychic",
+,,"Articuno","80","4","Ice Beam","30","Water","Promo","Pokemon",,"Basic","2","basep-48","Water, Water, Colorless, Colorless",
+,,"Snorlax","90","4","Roll Over","30","Colorless","Promo","Pokemon",,"Basic","4","basep-49","Colorless, Colorless, Colorless, Colorless",
+,,"Celebi","50","2","Leaf Slice","20×","Grass","Promo","Pokemon",,"Basic","1","basep-50","Grass, Colorless",
+"30","Super Singe","Rapidash","60","2","Jump Over","","Fire","Promo","Pokemon","Fire, Colorless, Colorless","Stage 1","","basep-51","Colorless, Colorless","3"
+,,"Ho-oh","80","4","Sacred Wing","60","Fire","Promo","Pokemon",,"Basic","2","basep-52","Fire, Fire, Colorless, Colorless",
+,,"Suicune","70","3","Hypno Wave","30+","Water","Promo","Pokemon",,"Basic","1","basep-53","Water, Colorless, Colorless",

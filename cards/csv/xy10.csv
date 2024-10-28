@@ -1,98 +1,98 @@
-"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
-"xy10-1","Shuckle","Pokemon","Basic","80","Grass","1","Uncommon"
-"xy10-2","Burmy","Pokemon","Basic","60","Grass","1","Common"
-"xy10-3","Wormadam","Pokemon","Stage 1","120","Grass","2","Uncommon"
-"xy10-4","Mothim","Pokemon","Stage 1","90","Grass","","Rare"
-"xy10-5","Snivy","Pokemon","Basic","60","Grass","1","Common"
-"xy10-6","Servine","Pokemon","Stage 1","70","Grass","1","Uncommon"
-"xy10-7","Serperior","Pokemon","Stage 2","140","Grass","2","Rare"
-"xy10-8","Deerling","Pokemon","Basic","60","Grass","1","Common"
-"xy10-9","Moltres","Pokemon","Basic","120","Fire","1","Rare"
-"xy10-10","Fennekin","Pokemon","Basic","60","Fire","1","Common"
-"xy10-11","Fennekin","Pokemon","Basic","50","Fire","1","Common"
-"xy10-12","Braixen","Pokemon","Stage 1","80","Fire","1","Uncommon"
-"xy10-13","Delphox","Pokemon","Stage 2","140","Fire","2","Rare Holo"
-"xy10-15","Seel","Pokemon","Basic","80","Water","2","Common"
-"xy10-16","Dewgong","Pokemon","Stage 1","120","Water","3","Uncommon"
-"xy10-17","Omanyte","Pokemon","Restored","80","Water","2","Uncommon"
-"xy10-18","Omastar","Pokemon","Stage 1","120","Water","2","Rare"
-"xy10-21","White Kyurem","Pokemon","Basic","130","Water","3","Rare Holo"
-"xy10-22","Binacle","Pokemon","Basic","60","Water","2","Common"
-"xy10-23","Barbaracle","Pokemon","Stage 1","100","Water","3","Rare"
-"xy10-24","Rotom","Pokemon","Basic","70","Lightning","1","Rare"
-"xy10-27","Koffing","Pokemon","Basic","60","Psychic","2","Common"
-"xy10-28","Weezing","Pokemon","Stage 1","110","Psychic","3","Uncommon"
-"xy10-29","Mew","Pokemon","Basic","50","Psychic","","Rare Holo"
-"xy10-30","Spoink","Pokemon","Basic","60","Psychic","1","Common"
-"xy10-31","Grumpig","Pokemon","Stage 1","100","Psychic","2","Rare"
-"xy10-32","Gothita","Pokemon","Basic","60","Psychic","1","Common"
-"xy10-33","Solosis","Pokemon","Basic","30","Psychic","1","Common"
-"xy10-34","Duosion","Pokemon","Stage 1","60","Psychic","1","Uncommon"
-"xy10-35","Reuniclus","Pokemon","Stage 2","90","Psychic","1","Rare"
-"xy10-36","Diglett","Pokemon","Basic","40","Fighting","","Common"
-"xy10-37","Marowak","Pokemon","Stage 1","100","Fighting","2","Rare"
-"xy10-38","Kabuto","Pokemon","Restored","80","Fighting","1","Uncommon"
-"xy10-39","Kabutops","Pokemon","Stage 1","150","Fighting","2","Rare"
-"xy10-40","Larvitar","Pokemon","Basic","60","Fighting","1","Common"
-"xy10-41","Larvitar","Pokemon","Basic","50","Fighting","1","Common"
-"xy10-42","Pupitar","Pokemon","Stage 1","80","Fighting","1","Uncommon"
-"xy10-44","Wormadam","Pokemon","Stage 1","110","Fighting","2","Uncommon"
-"xy10-45","Riolu","Pokemon","Basic","70","Fighting","1","Common"
-"xy10-46","Riolu","Pokemon","Basic","60","Fighting","1","Common"
-"xy10-47","Lucario","Pokemon","Stage 1","110","Fighting","1","Rare"
-"xy10-48","Hawlucha","Pokemon","Basic","70","Fighting","1","Uncommon"
-"xy10-49","Carbink","Pokemon","Basic","80","Fighting","1","Rare"
-"xy10-50","Carbink","Pokemon","Basic","90","Fighting","1","Common"
-"xy10-52","Zygarde","Pokemon","Basic","90","Fighting","1","Uncommon"
-"xy10-53","Zygarde","Pokemon","Basic","120","Fighting","2","Rare"
-"xy10-56","Tyranitar","Pokemon","Stage 2","160","Darkness","4","Rare Holo"
-"xy10-57","Vullaby","Pokemon","Basic","60","Darkness","1","Common"
-"xy10-58","Mandibuzz","Pokemon","Stage 1","110","Darkness","1","Rare"
-"xy10-59","Wormadam","Pokemon","Stage 1","100","Metal","2","Uncommon"
-"xy10-60","Bronzor","Pokemon","Basic","60","Metal","2","Common"
-"xy10-61","Bronzong","Pokemon","Stage 1","100","Metal","3","Rare"
-"xy10-63","Lucario","Pokemon","Stage 1","110","Metal","2","Rare Holo"
-"xy10-65","Jigglypuff","Pokemon","Basic","70","Fairy","2","Common"
-"xy10-66","Wigglytuff","Pokemon","Stage 1","100","Fairy","2","Uncommon"
-"xy10-67","Mr. Mime","Pokemon","Basic","80","Fairy","1","Rare"
-"xy10-68","Snubbull","Pokemon","Basic","70","Fairy","2","Common"
-"xy10-70","Cottonee","Pokemon","Basic","50","Fairy","1","Common"
-"xy10-71","Whimsicott","Pokemon","Stage 1","90","Fairy","","Uncommon"
-"xy10-74","Meowth","Pokemon","Basic","70","Colorless","1","Common"
-"xy10-75","Kangaskhan","Pokemon","Basic","120","Colorless","3","Uncommon"
-"xy10-76","Aerodactyl","Pokemon","Restored","120","Colorless","","Rare"
-"xy10-77","Snorlax","Pokemon","Basic","140","Colorless","4","Rare"
-"xy10-78","Lugia","Pokemon","Basic","120","Colorless","2","Rare"
-"xy10-80","Whismur","Pokemon","Basic","60","Colorless","2","Common"
-"xy10-81","Loudred","Pokemon","Stage 1","90","Colorless","2","Uncommon"
-"xy10-82","Exploud","Pokemon","Stage 2","140","Colorless","3","Rare"
-"xy10-86","Minccino","Pokemon","Basic","60","Colorless","1","Common"
-"xy10-87","Minccino","Pokemon","Basic","50","Colorless","1","Common"
-"xy10-88","Cinccino","Pokemon","Stage 1","90","Colorless","1","Uncommon"
-"xy10-89","Cinccino","Pokemon","Stage 1","90","Colorless","1","Uncommon"
-"xy10-90","Alakazam Spirit Link","Trainer","Pokemon Tool",,"","","Uncommon"
-"xy10-91","Altaria Spirit Link","Trainer","Pokemon Tool",,"","","Uncommon"
-"xy10-92","Audino Spirit Link","Trainer","Pokemon Tool",,"","","Uncommon"
-"xy10-93","Bent Spoon","Trainer","Pokemon Tool",,"","","Uncommon"
-"xy10-94","Chaos Tower","Trainer","Stadium",,"","","Uncommon"
-"xy10-95","Devolution Spray","Trainer","Item",,"","","Uncommon"
-"xy10-96","Dome Fossil Kabuto","Trainer","Item",,"","","Uncommon"
-"xy10-97","Energy Pouch","Trainer","Pokemon Tool",,"","","Uncommon"
-"xy10-98","Energy Reset","Trainer","Item",,"","","Uncommon"
-"xy10-99","Fairy Drop","Trainer","Item",,"","","Uncommon"
-"xy10-100","Fairy Garden","Trainer","Stadium",,"","","Uncommon"
-"xy10-101","Fossil Excavation Kit","Trainer","Item",,"","","Uncommon"
-"xy10-102","Helix Fossil Omanyte","Trainer","Item",,"","","Uncommon"
-"xy10-103","Lass's Special","Trainer","Supporter",,"","","Uncommon"
-"xy10-104","Mega Catcher","Trainer","Item",,"","","Uncommon"
-"xy10-105","N","Trainer","Supporter",,"","","Uncommon"
-"xy10-106","Old Amber Aerodactyl","Trainer","Item",,"","","Uncommon"
-"xy10-107","Pokemon Fan Club","Trainer","Supporter",,"","","Uncommon"
-"xy10-108","Power Memory","Trainer","Pokemon Tool",,"","","Uncommon"
-"xy10-109","Random Receiver","Trainer","Item",,"","","Uncommon"
-"xy10-110","Scorched Earth","Trainer","Stadium",,"","","Uncommon"
-"xy10-111","Shauna","Trainer","Supporter",,"","","Uncommon"
-"xy10-112","Team Rocket's Handiwork","Trainer","Supporter",,"","","Uncommon"
-"xy10-113","Ultra Ball","Trainer","Item",,"","","Uncommon"
-"xy10-114","Double Colorless Energy","Energy","Special",,"","","Uncommon"
-"xy10-115","Strong Energy","Energy","Special",,"","","Uncommon"
+"Attack2_Damage","Attack2_Name","Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Attack2_Cost","Subtypes","RetreatCost","ID","Attack1_Cost","Attack2_ConvertedEnergyCost"
+"30","Wrap","Shuckle","80","1","Hide a Berry","","Grass","Uncommon","Pokemon","Colorless, Colorless","Basic","1","xy10-1","Colorless","2"
+,,"Burmy","60","1","Hang Down","10","Grass","Common","Pokemon",,"Basic","1","xy10-2","Colorless",
+"60+","Leaf Cutter","Wormadam","120","1","Solar Ray","20","Grass","Uncommon","Pokemon","Grass, Colorless, Colorless","Stage 1","2","xy10-3","Grass","3"
+,,"Mothim","90","3","Gust","60","Grass","Rare","Pokemon",,"Stage 1","","xy10-4","Colorless, Colorless, Colorless",
+,,"Snivy","60","1","Blot","10","Grass","Common","Pokemon",,"Basic","1","xy10-5","Grass",
+,,"Servine","70","1","Vine Whip","20","Grass","Uncommon","Pokemon",,"Stage 1","1","xy10-6","Grass",
+"80","Slashing Strike","Serperior","140","1","Coil","40","Grass","Rare","Pokemon","Grass","Stage 2","2","xy10-7","Colorless","1"
+,,"Deerling","60","1","Find a Friend","","Grass","Common","Pokemon",,"Basic","1","xy10-8","Colorless",
+"80+","Flying Flare","Moltres","120","1","Combustion","20","Fire","Rare","Pokemon","Fire, Fire, Colorless, Colorless","Basic","1","xy10-9","Fire","4"
+"","Tail Whip","Fennekin","60","1","Will-O-Wisp","10","Fire","Common","Pokemon","Colorless, Colorless","Basic","1","xy10-10","Fire","2"
+,,"Fennekin","50","1","Invite Out","","Fire","Common","Pokemon",,"Basic","1","xy10-11","Colorless",
+"30","Crackling Ribbon","Braixen","80","1","Destructive Flame","20","Fire","Uncommon","Pokemon","Colorless, Colorless","Stage 1","1","xy10-12","Fire","2"
+"20×","Psystorm","Delphox","140","1","Flickering Flames","40","Fire","Rare Holo","Pokemon","Colorless, Colorless, Colorless","Stage 2","2","xy10-13","Fire","3"
+,,"Seel","80","1","Icy Snow","10","Water","Common","Pokemon",,"Basic","2","xy10-15","Water",
+"100","Aurora Beam","Dewgong","120","1","Freezing Breath","20","Water","Uncommon","Pokemon","Water, Colorless, Colorless, Colorless","Stage 1","3","xy10-16","Water","4"
+,,"Omanyte","80","1","Water Gun","30","Water","Uncommon","Pokemon",,"Restored","2","xy10-17","Water",
+,,"Omastar","120","2","Spinning Attack","60","Water","Rare","Pokemon",,"Stage 1","2","xy10-18","Water, Colorless",
+"130","Blizzard Burn","White Kyurem","130","2","Burning Icicles","40","Water","Rare Holo","Pokemon","Water, Water, Colorless","Basic","3","xy10-21","Water, Colorless","3"
+,,"Binacle","60","2","Swing Around","10+","Water","Common","Pokemon",,"Basic","2","xy10-22","Water, Colorless",
+,,"Barbaracle","100","3","Claw Slash","70","Water","Rare","Pokemon",,"Stage 1","3","xy10-23","Water, Water, Colorless",
+"","Plasmagic","Rotom","70","1","Energy Extract","","Lightning","Rare","Pokemon","Colorless, Colorless","Basic","1","xy10-24","Lightning","2"
+,,"Koffing","60","1","Division","","Psychic","Common","Pokemon",,"Basic","2","xy10-27","Psychic",
+"80","Thick Liquid","Weezing","110","2","Balloon Bomb","","Psychic","Uncommon","Pokemon","Psychic, Colorless, Colorless","Stage 1","3","xy10-28","Colorless, Colorless","3"
+,,"Mew","50","1","Encounter","","Psychic","Rare Holo","Pokemon",,"Basic","","xy10-29","Colorless",
+,,"Spoink","60","1","Rocket Jump","30","Psychic","Common","Pokemon",,"Basic","1","xy10-30","Psychic",
+"50","Knock Back","Grumpig","100","1","Head Walking","","Psychic","Rare","Pokemon","Psychic, Psychic","Stage 1","2","xy10-31","Psychic","2"
+,,"Gothita","60","2","Psybeam","20","Psychic","Common","Pokemon",,"Basic","1","xy10-32","Colorless, Colorless",
+,,"Solosis","30","2","Mini Link","10+","Psychic","Common","Pokemon",,"Basic","1","xy10-33","Psychic, Colorless",
+,,"Duosion","60","2","Double Link","10+","Psychic","Uncommon","Pokemon",,"Stage 1","1","xy10-34","Psychic, Colorless",
+,,"Reuniclus","90","2","Link Fusion","10+","Psychic","Rare","Pokemon",,"Stage 2","1","xy10-35","Psychic, Colorless",
+,,"Diglett","40","1","Ram","10","Fighting","Common","Pokemon",,"Basic","","xy10-36","Fighting",
+,,"Marowak","100","2","Bonemerang","60×","Fighting","Rare","Pokemon",,"Stage 1","2","xy10-37","Fighting, Colorless",
+,,"Kabuto","80","1","Mud Shot","30","Fighting","Uncommon","Pokemon",,"Restored","1","xy10-38","Fighting",
+"80+","X-Scissor","Kabutops","150","2","Cling","50","Fighting","Rare","Pokemon","Fighting, Colorless, Colorless","Stage 1","2","xy10-39","Colorless, Colorless","3"
+,,"Larvitar","60","1","Reckless Charge","20","Fighting","Common","Pokemon",,"Basic","1","xy10-40","Colorless",
+"20","Corkscrew Punch","Larvitar","50","1","Mountain Munch","","Fighting","Common","Pokemon","Colorless, Colorless","Basic","1","xy10-41","Colorless","2"
+,,"Pupitar","80","1","Thrash","20+","Fighting","Uncommon","Pokemon",,"Stage 1","1","xy10-42","Colorless",
+"60+","Twin Bursts","Wormadam","110","1","Sand Spray","30","Fighting","Uncommon","Pokemon","Colorless, Colorless, Colorless","Stage 1","2","xy10-44","Fighting","3"
+,,"Riolu","70","1","Double Smash","10×","Fighting","Common","Pokemon",,"Basic","1","xy10-45","Colorless",
+,,"Riolu","60","1","Smash Punch","30","Fighting","Common","Pokemon",,"Basic","1","xy10-46","Fighting",
+"70","Magnum Kick","Lucario","110","1","Beatdown","40","Fighting","Rare","Pokemon","Fighting, Colorless, Colorless","Stage 1","1","xy10-47","Fighting","3"
+"30","Wicked Jab","Hawlucha","70","1","Backflip","","Fighting","Uncommon","Pokemon","Fighting, Colorless","Basic","1","xy10-48","Colorless","2"
+,,"Carbink","80","3","Stone Edge","60+","Fighting","Rare","Pokemon",,"Basic","1","xy10-49","Fighting, Fighting, Colorless",
+,,"Carbink","90","2","Power Gem","40","Fighting","Common","Pokemon",,"Basic","1","xy10-50","Fighting, Colorless",
+"70","Aura Break","Zygarde","90","1","Lookout","","Fighting","Uncommon","Pokemon","Fighting, Colorless, Colorless","Basic","1","xy10-52","Fighting","3"
+"120","Geostrike","Zygarde","120","2","Rumble","30","Fighting","Rare","Pokemon","Fighting, Fighting, Colorless","Basic","2","xy10-53","Fighting, Colorless","3"
+,,"Tyranitar","160","5","Dark Mountain","150+","Darkness","Rare Holo","Pokemon",,"Stage 2","4","xy10-56","Darkness, Darkness, Darkness, Darkness, Darkness",
+"40","Cutting Wind","Vullaby","60","1","Leer","","Darkness","Common","Pokemon","Darkness, Colorless, Colorless","Basic","1","xy10-57","Colorless","3"
+"80","Cutting Wind","Mandibuzz","110","1","Bone Drop","","Darkness","Rare","Pokemon","Darkness, Colorless, Colorless","Stage 1","1","xy10-58","Colorless","3"
+"60+","Iron Head","Wormadam","100","1","Strike Back","20×","Metal","Uncommon","Pokemon","Metal, Colorless, Colorless","Stage 1","2","xy10-59","Metal","3"
+"20","Hammer In","Bronzor","60","1","Iron Defense","","Metal","Common","Pokemon","Metal, Colorless","Basic","2","xy10-60","Metal","2"
+,,"Bronzong","100","3","Guard Press","60","Metal","Rare","Pokemon",,"Stage 1","3","xy10-61","Metal, Colorless, Colorless",
+"30+","Fight Alone","Lucario","110","1","Vacuum Wave","50","Metal","Rare Holo","Pokemon","Metal, Colorless","Stage 1","2","xy10-63","Metal","2"
+"20","Rollout","Jigglypuff","70","1","Pound","10","Fairy","Common","Pokemon","Colorless, Colorless","Basic","2","xy10-65","Colorless","2"
+"60×","Double Slap","Wigglytuff","100","2","Expand","30","Fairy","Uncommon","Pokemon","Colorless, Colorless, Colorless","Stage 1","2","xy10-66","Colorless, Colorless","3"
+"20×","Juggling","Mr. Mime","80","1","Mimic","","Fairy","Rare","Pokemon","Colorless, Colorless","Basic","1","xy10-67","Fairy","2"
+,,"Snubbull","70","2","Ruckus","50","Fairy","Common","Pokemon",,"Basic","2","xy10-68","Fairy, Colorless",
+,,"Cottonee","50","1","Fairy Wind","10","Fairy","Common","Pokemon",,"Basic","1","xy10-70","Colorless",
+,,"Whimsicott","90","1","Light Steps","40","Fairy","Uncommon","Pokemon",,"Stage 1","","xy10-71","Fairy",
+,,"Meowth","70","2","Turmoil Strike","","Colorless","Common","Pokemon",,"Basic","1","xy10-74","Colorless, Colorless",
+"100","Mega Punch","Kangaskhan","120","2","Tiny Punch","40","Colorless","Uncommon","Pokemon","Colorless, Colorless, Colorless, Colorless","Basic","3","xy10-75","Colorless, Colorless","4"
+"120","Jet Draft","Aerodactyl","120","1","Bite","20","Colorless","Rare","Pokemon","Colorless, Colorless","Restored","","xy10-76","Colorless","2"
+"50","Swallow","Snorlax","140","3","Toss and Turn","30+","Colorless","Rare","Pokemon","Colorless, Colorless, Colorless, Colorless","Basic","4","xy10-77","Colorless, Colorless, Colorless","4"
+,,"Lugia","120","3","Intensifying Burn","60+","Colorless","Rare","Pokemon",,"Basic","2","xy10-78","Colorless, Colorless, Colorless",
+"10×","Round","Whismur","60","1","Pound","10","Colorless","Common","Pokemon","Colorless, Colorless","Basic","2","xy10-80","Colorless","2"
+"40+","Stomp","Loudred","90","1","Smash Kick","10","Colorless","Uncommon","Pokemon","Colorless, Colorless, Colorless","Stage 1","2","xy10-81","Colorless","3"
+"","Cacophony","Exploud","140","3","Ambush","80+","Colorless","Rare","Pokemon","Colorless, Colorless, Colorless","Stage 2","3","xy10-82","Colorless, Colorless, Colorless","3"
+,,"Minccino","60","1","Cleaning Up","","Colorless","Common","Pokemon",,"Basic","1","xy10-86","Colorless",
+,,"Minccino","50","1","Tail Smack","20","Colorless","Common","Pokemon",,"Basic","1","xy10-87","Colorless",
+"60","Last Resort","Cinccino","90","1","Covet","","Colorless","Uncommon","Pokemon","Colorless","Stage 1","1","xy10-88","Colorless","1"
+"30+","Knock Away","Cinccino","90","1","Sweeping Cure","","Colorless","Uncommon","Pokemon","Colorless, Colorless","Stage 1","1","xy10-89","Colorless","2"
+,,"Alakazam Spirit Link",,,,,"","Uncommon","Trainer",,"Pokemon Tool","","xy10-90",,
+,,"Altaria Spirit Link",,,,,"","Uncommon","Trainer",,"Pokemon Tool","","xy10-91",,
+,,"Audino Spirit Link",,,,,"","Uncommon","Trainer",,"Pokemon Tool","","xy10-92",,
+,,"Bent Spoon",,,,,"","Uncommon","Trainer",,"Pokemon Tool","","xy10-93",,
+,,"Chaos Tower",,,,,"","Uncommon","Trainer",,"Stadium","","xy10-94",,
+,,"Devolution Spray",,,,,"","Uncommon","Trainer",,"Item","","xy10-95",,
+,,"Dome Fossil Kabuto",,,,,"","Uncommon","Trainer",,"Item","","xy10-96",,
+,,"Energy Pouch",,,,,"","Uncommon","Trainer",,"Pokemon Tool","","xy10-97",,
+,,"Energy Reset",,,,,"","Uncommon","Trainer",,"Item","","xy10-98",,
+,,"Fairy Drop",,,,,"","Uncommon","Trainer",,"Item","","xy10-99",,
+,,"Fairy Garden",,,,,"","Uncommon","Trainer",,"Stadium","","xy10-100",,
+,,"Fossil Excavation Kit",,,,,"","Uncommon","Trainer",,"Item","","xy10-101",,
+,,"Helix Fossil Omanyte",,,,,"","Uncommon","Trainer",,"Item","","xy10-102",,
+,,"Lass's Special",,,,,"","Uncommon","Trainer",,"Supporter","","xy10-103",,
+,,"Mega Catcher",,,,,"","Uncommon","Trainer",,"Item","","xy10-104",,
+,,"N",,,,,"","Uncommon","Trainer",,"Supporter","","xy10-105",,
+,,"Old Amber Aerodactyl",,,,,"","Uncommon","Trainer",,"Item","","xy10-106",,
+,,"Pokemon Fan Club",,,,,"","Uncommon","Trainer",,"Supporter","","xy10-107",,
+,,"Power Memory",,"3","All Cells Burn","200","","Uncommon","Trainer",,"Pokemon Tool","","xy10-108","Fighting, Fighting, Colorless",
+,,"Random Receiver",,,,,"","Uncommon","Trainer",,"Item","","xy10-109",,
+,,"Scorched Earth",,,,,"","Uncommon","Trainer",,"Stadium","","xy10-110",,
+,,"Shauna",,,,,"","Uncommon","Trainer",,"Supporter","","xy10-111",,
+,,"Team Rocket's Handiwork",,,,,"","Uncommon","Trainer",,"Supporter","","xy10-112",,
+,,"Ultra Ball",,,,,"","Uncommon","Trainer",,"Item","","xy10-113",,
+,,"Double Colorless Energy",,,,,"","Uncommon","Energy",,"Special","","xy10-114",,
+,,"Strong Energy",,,,,"","Uncommon","Energy",,"Special","","xy10-115",,
