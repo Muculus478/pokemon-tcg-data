@@ -1,83 +1,83 @@
-"Attack2_Damage","Attack2_Name","Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Attack2_Cost","Subtypes","RetreatCost","ID","Attack1_Cost","Attack2_ConvertedEnergyCost"
-"40","Mind Shock","Dark Alakazam","60","3","Teleport Blast","30","Psychic","Rare Holo","Pokemon","Psychic, Psychic, Psychic","Stage 2","3","base5-1","Psychic, Psychic, Colorless","3"
-"10","Poison Vapor","Dark Arbok","60","2","Stare","","Grass","Rare Holo","Pokemon","Grass, Grass, Grass","Stage 1","2","base5-2","Grass, Grass","3"
-"40","Rocket Tackle","Dark Blastoise","70","2","Hydrocannon","30+","Water","Rare Holo","Pokemon","Water, Colorless, Colorless","Stage 2","2","base5-3","Water, Water","3"
-"50×","Continuous Fireball","Dark Charizard","80","1","Nail Flick","10","Fire","Rare Holo","Pokemon","Fire, Fire","Stage 2","3","base5-4","Colorless","2"
-,,"Dark Dragonite","70","4","Giant Tail","70","Colorless","Rare Holo","Pokemon",,"Stage 2","2","base5-5","Colorless, Colorless, Colorless, Colorless",
-,,"Dark Dugtrio","50","2","Knock Down","20+","Fighting","Rare Holo","Pokemon",,"Stage 1","2","base5-6","Fighting, Fighting",
-,,"Dark Golbat","50","2","Flitter","","Grass","Rare Holo","Pokemon",,"Stage 1","","base5-7","Grass, Grass",
-,,"Dark Gyarados","70","3","Ice Beam","30","Water","Rare Holo","Pokemon",,"Stage 1","2","base5-8","Water, Water, Water",
-"20×","Bench Manipulation","Dark Hypno","60","1","Psypunch","20","Psychic","Rare Holo","Pokemon","Psychic, Psychic, Colorless","Stage 1","2","base5-9","Psychic","3"
-"","Fling","Dark Machamp","70","2","Mega Punch","30","Fighting","Rare Holo","Pokemon","Fighting, Fighting, Fighting, Colorless","Stage 2","3","base5-10","Fighting, Fighting","4"
-"30","Magnetic Lines","Dark Magneton","60","2","Sonicboom","20","Lightning","Rare Holo","Pokemon","Lightning, Lightning","Stage 1","2","base5-11","Colorless, Colorless","2"
-,,"Dark Slowbro","60","2","Fickle Attack","40","Psychic","Rare Holo","Pokemon",,"Stage 1","2","base5-12","Psychic, Psychic",
-,,"Dark Vileplume","60","3","Petal Whirlwind","30×","Grass","Rare Holo","Pokemon",,"Stage 2","2","base5-13","Grass, Grass, Grass",
-"20","Stun Gas","Dark Weezing","60","2","Mass Explosion","20×","Grass","Rare Holo","Pokemon","Grass, Grass, Grass","Stage 1","1","base5-14","Grass, Colorless","3"
-,,"Here Comes Team Rocket!",,,,,"","Rare Holo","Trainer",,"","","base5-15",,
-,,"Rocket's Sneak Attack",,,,,"","Rare Holo","Trainer",,"","","base5-16",,
-,,"Rainbow Energy",,,,,"","Rare Holo","Energy",,"Special","","base5-17",,
-"40","Mind Shock","Dark Alakazam","60","3","Teleport Blast","30","Psychic","Rare","Pokemon","Psychic, Psychic, Psychic","Stage 2","3","base5-18","Psychic, Psychic, Colorless","3"
-"10","Poison Vapor","Dark Arbok","60","2","Stare","","Grass","Rare","Pokemon","Grass, Grass, Grass","Stage 1","2","base5-19","Grass, Grass","3"
-"40","Rocket Tackle","Dark Blastoise","70","2","Hydrocannon","30+","Water","Rare","Pokemon","Water, Colorless, Colorless","Stage 2","2","base5-20","Water, Water","3"
-"50×","Continuous Fireball","Dark Charizard","80","1","Nail Flick","10","Fire","Rare","Pokemon","Fire, Fire","Stage 2","3","base5-21","Colorless","2"
-,,"Dark Dragonite","70","4","Giant Tail","70","Colorless","Rare","Pokemon",,"Stage 2","2","base5-22","Colorless, Colorless, Colorless, Colorless",
-,,"Dark Dugtrio","50","2","Knock Down","20+","Fighting","Rare","Pokemon",,"Stage 1","2","base5-23","Fighting, Fighting",
-,,"Dark Golbat","50","2","Flitter","","Grass","Rare","Pokemon",,"Stage 1","","base5-24","Grass, Grass",
-,,"Dark Gyarados","70","3","Ice Beam","30","Water","Rare","Pokemon",,"Stage 1","2","base5-25","Water, Water, Water",
-"20×","Bench Manipulation","Dark Hypno","60","1","Psypunch","20","Psychic","Rare","Pokemon","Psychic, Psychic, Colorless","Stage 1","2","base5-26","Psychic","3"
-"","Fling","Dark Machamp","70","2","Mega Punch","30","Fighting","Rare","Pokemon","Fighting, Fighting, Fighting, Colorless","Stage 2","3","base5-27","Fighting, Fighting","4"
-"30","Magnetic Lines","Dark Magneton","60","2","Sonicboom","20","Lightning","Rare","Pokemon","Lightning, Lightning","Stage 1","2","base5-28","Colorless, Colorless","2"
-,,"Dark Slowbro","60","2","Fickle Attack","40","Psychic","Rare","Pokemon",,"Stage 1","2","base5-29","Psychic, Psychic",
-,,"Dark Vileplume","60","3","Petal Whirlwind","30×","Grass","Rare","Pokemon",,"Stage 2","2","base5-30","Grass, Grass, Grass",
-"20","Stun Gas","Dark Weezing","60","2","Mass Explosion","20×","Grass","Rare","Pokemon","Grass, Grass, Grass","Stage 1","1","base5-31","Grass, Colorless","3"
-"70","Fireball","Dark Charmeleon","50","2","Tail Slap","20","Fire","Uncommon","Pokemon","Fire, Fire, Fire","Stage 1","2","base5-32","Colorless, Colorless","3"
-,,"Dark Dragonair","60","3","Tail Strike","20+","Colorless","Uncommon","Pokemon",,"Stage 1","2","base5-33","Colorless, Colorless, Colorless",
-"30","Energy Bomb","Dark Electrode","60","1","Rolling Tackle","10","Lightning","Uncommon","Pokemon","Lightning, Lightning","Stage 1","1","base5-34","Colorless","2"
-"30+","Playing with Fire","Dark Flareon","50","1","Rage","10+","Fire","Uncommon","Pokemon","Fire, Fire","Stage 1","1","base5-35","Colorless","2"
-,,"Dark Gloom","50","2","Poisonpowder","10","Grass","Uncommon","Pokemon",,"Stage 1","2","base5-36","Grass, Grass",
-"50","Super Psy","Dark Golduck","60","1","Third Eye","","Water","Uncommon","Pokemon","Psychic, Psychic, Colorless","Stage 1","2","base5-37","Psychic","3"
-"30","Thunder Attack","Dark Jolteon","50","1","Lightning Flash","20","Lightning","Uncommon","Pokemon","Lightning, Lightning, Colorless","Stage 1","1","base5-38","Lightning","3"
-,,"Dark Kadabra","50","2","Mind Shock","30","Psychic","Uncommon","Pokemon",,"Stage 1","2","base5-39","Psychic, Psychic",
-"30","Knock Back","Dark Machoke","60","3","Drag Off","20","Fighting","Uncommon","Pokemon","Fighting, Fighting, Colorless","Stage 1","2","base5-40","Fighting, Fighting, Colorless","3"
-,,"Dark Muk","60","2","Sludge Punch","20","Grass","Uncommon","Pokemon",,"Stage 1","2","base5-41","Grass, Grass",
-"10","Poison Claws","Dark Persian","60","1","Fascinate","","Colorless","Uncommon","Pokemon","Colorless, Colorless","Stage 1","","base5-42","Colorless","2"
-,,"Dark Primeape","60","2","Frenzied Attack","40","Fighting","Uncommon","Pokemon",,"Stage 1","1","base5-43","Fighting, Fighting",
-"30","Flame Pillar","Dark Rapidash","60","2","Rear Kick","20","Fire","Uncommon","Pokemon","Fire, Fire","Stage 1","","base5-44","Colorless, Colorless","2"
-"20","Whirlpool","Dark Vaporeon","60","3","Bite","30","Water","Uncommon","Pokemon","Water, Water, Colorless","Stage 1","1","base5-45","Colorless, Colorless, Colorless","3"
-"","Mirror Shell","Dark Wartortle","60","1","Doubleslap","10×","Water","Uncommon","Pokemon","Water, Colorless","Stage 1","1","base5-46","Water","2"
-"","Rapid Evolution","Magikarp","30","1","Flop","10","Water","Uncommon","Pokemon","Water, Water, Water","Basic","1","base5-47","Colorless","3"
-"20","Psybeam","Porygon","40","1","Conversion 1","","Colorless","Uncommon","Pokemon","Colorless, Colorless, Colorless","Basic","","base5-48","Colorless","3"
-"10","Psyshock","Abra","40","1","Vanish","","Psychic","Common","Pokemon","Psychic","Basic","1","base5-49","Psychic","1"
-,,"Charmander","40","1","Fire Tail","20","Fire","Common","Pokemon",,"Basic","1","base5-50","Fire",
-"50","Hyper Fang","Dark Raticate","50","2","Gnaw","20","Colorless","Common","Pokemon","Colorless, Colorless, Colorless","Stage 1","1","base5-51","Colorless, Colorless","3"
-"20","Scratch","Diglett","40","1","Dig Under","","Fighting","Common","Pokemon","Fighting, Colorless","Basic","","base5-52","Fighting","2"
-,,"Dratini","40","2","Wrap","10","Colorless","Common","Pokemon",,"Basic","1","base5-53","Colorless, Colorless",
-,,"Drowzee","50","2","Nightmare","10","Psychic","Common","Pokemon",,"Basic","1","base5-54","Psychic, Colorless",
-"10","Sand-attack","Eevee","40","1","Tackle","10","Colorless","Common","Pokemon","Colorless, Colorless","Basic","1","base5-55","Colorless","2"
-"20","Poison Sting","Ekans","50","1","Bite","10","Grass","Common","Pokemon","Grass, Grass","Basic","1","base5-56","Colorless","2"
-"10+","Sticky Hands","Grimer","40","1","Poison Gas","","Grass","Common","Pokemon","Grass, Grass","Basic","1","base5-57","Grass","2"
-"20","Poison Gas","Koffing","40","1","Tackle","10","Grass","Common","Pokemon","Grass, Colorless","Basic","1","base5-58","Colorless","2"
-"30","Kick","Machop","50","2","Punch","20","Fighting","Common","Pokemon","Fighting, Colorless, Colorless","Basic","1","base5-59","Colorless, Colorless","3"
-"10+","Magnetism","Magnemite","40","2","Tackle","20","Lightning","Common","Pokemon","Lightning, Colorless","Basic","1","base5-60","Colorless, Colorless","2"
-"20+","Anger","Mankey","40","1","Mischief","","Fighting","Common","Pokemon","Fighting, Colorless","Basic","","base5-61","Colorless","2"
-,,"Meowth","40","2","Coin Hurl","","Colorless","Common","Pokemon",,"Basic","1","base5-62","Colorless, Colorless",
-"","Poisonpowder","Oddish","50","1","Sleep Powder","","Grass","Common","Pokemon","Grass","Basic","1","base5-63","Grass","1"
-,,"Ponyta","50","2","Ember","30","Fire","Common","Pokemon",,"Basic","1","base5-64","Fire, Colorless",
-"20+","Water Gun","Psyduck","50","1","Dizziness","","Water","Common","Pokemon","Water, Colorless","Basic","1","base5-65","Psychic","2"
-,,"Rattata","40","1","Quick Attack","10+","Colorless","Common","Pokemon",,"Basic","","base5-66","Colorless",
-"10","Headbutt","Slowpoke","50","1","Afternoon Nap","","Psychic","Common","Pokemon","Psychic","Basic","1","base5-67","Colorless","1"
-,,"Squirtle","50","2","Shell Attack","20","Water","Common","Pokemon",,"Basic","1","base5-68","Colorless, Colorless",
-,,"Voltorb","40","1","Speed Ball","20","Lightning","Common","Pokemon",,"Basic","1","base5-69","Lightning",
-"20","Bite","Zubat","40","1","Ram","10","Grass","Common","Pokemon","Grass, Colorless","Basic","","base5-70","Colorless","2"
-,,"Here Comes Team Rocket!",,,,,"","Rare","Trainer",,"","","base5-71",,
-,,"Rocket's Sneak Attack",,,,,"","Rare","Trainer",,"","","base5-72",,
-,,"The Boss's Way",,,,,"","Uncommon","Trainer",,"","","base5-73",,
-,,"Challenge!",,,,,"","Uncommon","Trainer",,"","","base5-74",,
-,,"Digger",,,,,"","Uncommon","Trainer",,"Rocket's Secret Machine","","base5-75",,
-,,"Imposter Oak's Revenge",,,,,"","Uncommon","Trainer",,"","","base5-76",,
-,,"Nightly Garbage Run",,,,,"","Uncommon","Trainer",,"Rocket's Secret Machine","","base5-77",,
-,,"Goop Gas Attack",,,,,"","Common","Trainer",,"","","base5-78",,
-,,"Sleep!",,,,,"","Common","Trainer",,"Rocket's Secret Machine","","base5-79",,
-,,"Rainbow Energy",,,,,"","Rare","Energy",,"Special","","base5-80",,
-,,"Full Heal Energy",,,,,"","Uncommon","Energy",,"Special","","base5-81",,
-,,"Potion Energy",,,,,"","Uncommon","Energy",,"Special","","base5-82",,
+"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
+"base5-1","Dark Alakazam","Pokemon","Stage 2","60","Psychic","3","Rare Holo"
+"base5-2","Dark Arbok","Pokemon","Stage 1","60","Grass","2","Rare Holo"
+"base5-3","Dark Blastoise","Pokemon","Stage 2","70","Water","2","Rare Holo"
+"base5-4","Dark Charizard","Pokemon","Stage 2","80","Fire","3","Rare Holo"
+"base5-5","Dark Dragonite","Pokemon","Stage 2","70","Colorless","2","Rare Holo"
+"base5-6","Dark Dugtrio","Pokemon","Stage 1","50","Fighting","2","Rare Holo"
+"base5-7","Dark Golbat","Pokemon","Stage 1","50","Grass","","Rare Holo"
+"base5-8","Dark Gyarados","Pokemon","Stage 1","70","Water","2","Rare Holo"
+"base5-9","Dark Hypno","Pokemon","Stage 1","60","Psychic","2","Rare Holo"
+"base5-10","Dark Machamp","Pokemon","Stage 2","70","Fighting","3","Rare Holo"
+"base5-11","Dark Magneton","Pokemon","Stage 1","60","Lightning","2","Rare Holo"
+"base5-12","Dark Slowbro","Pokemon","Stage 1","60","Psychic","2","Rare Holo"
+"base5-13","Dark Vileplume","Pokemon","Stage 2","60","Grass","2","Rare Holo"
+"base5-14","Dark Weezing","Pokemon","Stage 1","60","Grass","1","Rare Holo"
+"base5-15","Here Comes Team Rocket!","Trainer","",,"","","Rare Holo"
+"base5-16","Rocket's Sneak Attack","Trainer","",,"","","Rare Holo"
+"base5-17","Rainbow Energy","Energy","Special",,"","","Rare Holo"
+"base5-18","Dark Alakazam","Pokemon","Stage 2","60","Psychic","3","Rare"
+"base5-19","Dark Arbok","Pokemon","Stage 1","60","Grass","2","Rare"
+"base5-20","Dark Blastoise","Pokemon","Stage 2","70","Water","2","Rare"
+"base5-21","Dark Charizard","Pokemon","Stage 2","80","Fire","3","Rare"
+"base5-22","Dark Dragonite","Pokemon","Stage 2","70","Colorless","2","Rare"
+"base5-23","Dark Dugtrio","Pokemon","Stage 1","50","Fighting","2","Rare"
+"base5-24","Dark Golbat","Pokemon","Stage 1","50","Grass","","Rare"
+"base5-25","Dark Gyarados","Pokemon","Stage 1","70","Water","2","Rare"
+"base5-26","Dark Hypno","Pokemon","Stage 1","60","Psychic","2","Rare"
+"base5-27","Dark Machamp","Pokemon","Stage 2","70","Fighting","3","Rare"
+"base5-28","Dark Magneton","Pokemon","Stage 1","60","Lightning","2","Rare"
+"base5-29","Dark Slowbro","Pokemon","Stage 1","60","Psychic","2","Rare"
+"base5-30","Dark Vileplume","Pokemon","Stage 2","60","Grass","2","Rare"
+"base5-31","Dark Weezing","Pokemon","Stage 1","60","Grass","1","Rare"
+"base5-32","Dark Charmeleon","Pokemon","Stage 1","50","Fire","2","Uncommon"
+"base5-33","Dark Dragonair","Pokemon","Stage 1","60","Colorless","2","Uncommon"
+"base5-34","Dark Electrode","Pokemon","Stage 1","60","Lightning","1","Uncommon"
+"base5-35","Dark Flareon","Pokemon","Stage 1","50","Fire","1","Uncommon"
+"base5-36","Dark Gloom","Pokemon","Stage 1","50","Grass","2","Uncommon"
+"base5-37","Dark Golduck","Pokemon","Stage 1","60","Water","2","Uncommon"
+"base5-38","Dark Jolteon","Pokemon","Stage 1","50","Lightning","1","Uncommon"
+"base5-39","Dark Kadabra","Pokemon","Stage 1","50","Psychic","2","Uncommon"
+"base5-40","Dark Machoke","Pokemon","Stage 1","60","Fighting","2","Uncommon"
+"base5-41","Dark Muk","Pokemon","Stage 1","60","Grass","2","Uncommon"
+"base5-42","Dark Persian","Pokemon","Stage 1","60","Colorless","","Uncommon"
+"base5-43","Dark Primeape","Pokemon","Stage 1","60","Fighting","1","Uncommon"
+"base5-44","Dark Rapidash","Pokemon","Stage 1","60","Fire","","Uncommon"
+"base5-45","Dark Vaporeon","Pokemon","Stage 1","60","Water","1","Uncommon"
+"base5-46","Dark Wartortle","Pokemon","Stage 1","60","Water","1","Uncommon"
+"base5-47","Magikarp","Pokemon","Basic","30","Water","1","Uncommon"
+"base5-48","Porygon","Pokemon","Basic","40","Colorless","","Uncommon"
+"base5-49","Abra","Pokemon","Basic","40","Psychic","1","Common"
+"base5-50","Charmander","Pokemon","Basic","40","Fire","1","Common"
+"base5-51","Dark Raticate","Pokemon","Stage 1","50","Colorless","1","Common"
+"base5-52","Diglett","Pokemon","Basic","40","Fighting","","Common"
+"base5-53","Dratini","Pokemon","Basic","40","Colorless","1","Common"
+"base5-54","Drowzee","Pokemon","Basic","50","Psychic","1","Common"
+"base5-55","Eevee","Pokemon","Basic","40","Colorless","1","Common"
+"base5-56","Ekans","Pokemon","Basic","50","Grass","1","Common"
+"base5-57","Grimer","Pokemon","Basic","40","Grass","1","Common"
+"base5-58","Koffing","Pokemon","Basic","40","Grass","1","Common"
+"base5-59","Machop","Pokemon","Basic","50","Fighting","1","Common"
+"base5-60","Magnemite","Pokemon","Basic","40","Lightning","1","Common"
+"base5-61","Mankey","Pokemon","Basic","40","Fighting","","Common"
+"base5-62","Meowth","Pokemon","Basic","40","Colorless","1","Common"
+"base5-63","Oddish","Pokemon","Basic","50","Grass","1","Common"
+"base5-64","Ponyta","Pokemon","Basic","50","Fire","1","Common"
+"base5-65","Psyduck","Pokemon","Basic","50","Water","1","Common"
+"base5-66","Rattata","Pokemon","Basic","40","Colorless","","Common"
+"base5-67","Slowpoke","Pokemon","Basic","50","Psychic","1","Common"
+"base5-68","Squirtle","Pokemon","Basic","50","Water","1","Common"
+"base5-69","Voltorb","Pokemon","Basic","40","Lightning","1","Common"
+"base5-70","Zubat","Pokemon","Basic","40","Grass","","Common"
+"base5-71","Here Comes Team Rocket!","Trainer","",,"","","Rare"
+"base5-72","Rocket's Sneak Attack","Trainer","",,"","","Rare"
+"base5-73","The Boss's Way","Trainer","",,"","","Uncommon"
+"base5-74","Challenge!","Trainer","",,"","","Uncommon"
+"base5-75","Digger","Trainer","Rocket's Secret Machine",,"","","Uncommon"
+"base5-76","Imposter Oak's Revenge","Trainer","",,"","","Uncommon"
+"base5-77","Nightly Garbage Run","Trainer","Rocket's Secret Machine",,"","","Uncommon"
+"base5-78","Goop Gas Attack","Trainer","",,"","","Common"
+"base5-79","Sleep!","Trainer","Rocket's Secret Machine",,"","","Common"
+"base5-80","Rainbow Energy","Energy","Special",,"","","Rare"
+"base5-81","Full Heal Energy","Energy","Special",,"","","Uncommon"
+"base5-82","Potion Energy","Energy","Special",,"","","Uncommon"

@@ -1,26 +1,26 @@
-"Attack2_Damage","Attack2_Name","Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Attack2_Cost","Subtypes","RetreatCost","ID","Attack1_Cost","Attack2_ConvertedEnergyCost"
-"","Sacred Fire","Ho-Oh","80","1","Combustion","20","Fire","Promo","Pokemon","Fire, Fire, Colorless, Colorless","Basic","3","hsp-HGSS01","Fire","4"
-"50+","Aeroblast","Lugia","90","1","Wave Splash","20","Water","Promo","Pokemon","Water, Water, Colorless, Colorless","Basic","2","hsp-HGSS02","Water","4"
-"100","Thunderbolt","Pikachu","70","1","Recharge","","Lightning","Promo","Pokemon","Lightning, Lightning, Colorless, Colorless","Basic","1","hsp-HGSS03","Colorless","4"
-,,"Wobbuffet","90","2","Trip Over","20+","Psychic","Promo","Pokemon",,"Basic","3","hsp-HGSS04","Psychic, Colorless",
-,,"Hoothoot","50","1","Peck","10","Colorless","Promo","Pokemon",,"Basic","1","hsp-HGSS05","Colorless",
-,,"Noctowl","90","3","Hypnoblast","30","Colorless","Promo","Pokemon",,"Stage 1","1","hsp-HGSS06","Colorless, Colorless, Colorless",
-,,"Feraligatr","140","4","Hydro Crunch","60+","Water","Promo","Pokemon",,"Stage 2, Prime","3","hsp-HGSS07","Water, Water, Water, Water",
-,,"Meganium","150","4","Solarbeam","80","Grass","Promo","Pokemon",,"Stage 2, Prime","2","hsp-HGSS08","Grass, Grass, Colorless, Colorless",
-,,"Typhlosion","140","3","Flare Destroy","70","Fire","Promo","Pokemon",,"Stage 2, Prime","2","hsp-HGSS09","Fire, Fire, Colorless",
-"40","Infinite Wind","Latias","80","1","Energy Assist","10","Colorless","Promo","Pokemon","Colorless, Colorless, Colorless","Basic","1","hsp-HGSS10","Colorless","3"
-,,"Latios","90","4","Infinite Wing","80","Colorless","Promo","Pokemon",,"Basic","2","hsp-HGSS11","Colorless, Colorless, Colorless, Colorless",
-,,"Cleffa","30","0","Eeeeeeek","","Colorless","Promo","Pokemon",,"Basic","","hsp-HGSS12","",
-,,"Smoochum","30","0","Energy Antics","","Psychic","Promo","Pokemon",,"Basic","","hsp-HGSS13","",
-"40","Surf","Lapras","90","1","Ferry","","Water","Promo","Pokemon","Water, Water, Colorless","Basic","2","hsp-HGSS14","Water","3"
-,,"Shuckle","60","2","Shell Stunner","20","Fighting","Promo","Pokemon",,"Basic","1","hsp-HGSS15","Grass, Colorless",
-"20","Thunder Jolt","Plusle","60","1","Collect","","Lightning","Promo","Pokemon","Lightning","Basic","1","hsp-HGSS16","Colorless","1"
-"10+","Tag Team Boost","Minun","60","1","Call for Family","","Lightning","Promo","Pokemon","Lightning","Basic","1","hsp-HGSS17","Colorless","1"
-,,"Tropical Tidal Wave",,,,,"","Promo","Trainer",,"Item","","hsp-HGSS18",,
-,,"Raikou","80","3","Zap Cannon","70","Lightning","Promo","Pokemon",,"Basic","1","hsp-HGSS19","Lightning, Lightning, Colorless",
-,,"Entei","80","3","Flare Blitz","80","Fire","Promo","Pokemon",,"Basic","1","hsp-HGSS20","Fire, Fire, Colorless",
-,,"Suicune","80","3","Sheer Cold","50","Water","Promo","Pokemon",,"Basic","1","hsp-HGSS21","Water, Water, Colorless",
-"","Version Update","Porygon","50","1","Stiffen","","Colorless","Promo","Pokemon","Colorless, Colorless","Basic","1","hsp-HGSS22","Colorless","2"
-,,"Porygon2","80","3","Reckless Charge","50","Colorless","Promo","Pokemon",,"Stage 1","2","hsp-HGSS23","Colorless, Colorless, Colorless",
-"30","Sky Uppercut","Hitmonchan","70","1","Detect","","Fighting","Promo","Pokemon","Fighting, Colorless","Basic","1","hsp-HGSS24","Colorless","2"
-"60","High Jump Kick","Hitmonlee","80","1","Kick","20","Fighting","Promo","Pokemon","Fighting, Fighting, Colorless","Basic","2","hsp-HGSS25","Fighting","3"
+"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
+"hsp-HGSS01","Ho-Oh","Pokemon","Basic","80","Fire","3","Promo"
+"hsp-HGSS02","Lugia","Pokemon","Basic","90","Water","2","Promo"
+"hsp-HGSS03","Pikachu","Pokemon","Basic","70","Lightning","1","Promo"
+"hsp-HGSS04","Wobbuffet","Pokemon","Basic","90","Psychic","3","Promo"
+"hsp-HGSS05","Hoothoot","Pokemon","Basic","50","Colorless","1","Promo"
+"hsp-HGSS06","Noctowl","Pokemon","Stage 1","90","Colorless","1","Promo"
+"hsp-HGSS07","Feraligatr","Pokemon","Stage 2, Prime","140","Water","3","Promo"
+"hsp-HGSS08","Meganium","Pokemon","Stage 2, Prime","150","Grass","2","Promo"
+"hsp-HGSS09","Typhlosion","Pokemon","Stage 2, Prime","140","Fire","2","Promo"
+"hsp-HGSS10","Latias","Pokemon","Basic","80","Colorless","1","Promo"
+"hsp-HGSS11","Latios","Pokemon","Basic","90","Colorless","2","Promo"
+"hsp-HGSS12","Cleffa","Pokemon","Basic","30","Colorless","","Promo"
+"hsp-HGSS13","Smoochum","Pokemon","Basic","30","Psychic","","Promo"
+"hsp-HGSS14","Lapras","Pokemon","Basic","90","Water","2","Promo"
+"hsp-HGSS15","Shuckle","Pokemon","Basic","60","Fighting","1","Promo"
+"hsp-HGSS16","Plusle","Pokemon","Basic","60","Lightning","1","Promo"
+"hsp-HGSS17","Minun","Pokemon","Basic","60","Lightning","1","Promo"
+"hsp-HGSS18","Tropical Tidal Wave","Trainer","Item",,"","","Promo"
+"hsp-HGSS19","Raikou","Pokemon","Basic","80","Lightning","1","Promo"
+"hsp-HGSS20","Entei","Pokemon","Basic","80","Fire","1","Promo"
+"hsp-HGSS21","Suicune","Pokemon","Basic","80","Water","1","Promo"
+"hsp-HGSS22","Porygon","Pokemon","Basic","50","Colorless","1","Promo"
+"hsp-HGSS23","Porygon2","Pokemon","Stage 1","80","Colorless","2","Promo"
+"hsp-HGSS24","Hitmonchan","Pokemon","Basic","70","Fighting","1","Promo"
+"hsp-HGSS25","Hitmonlee","Pokemon","Basic","80","Fighting","2","Promo"

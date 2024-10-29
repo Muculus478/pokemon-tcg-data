@@ -1,18 +1,18 @@
-"Attack2_Damage","Attack2_Name","Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Attack2_Cost","Subtypes","RetreatCost","ID","Attack1_Cost","Attack2_ConvertedEnergyCost"
-"50","Fire Spin","Entei","70","2","Stomp","10+","Fire","Rare","Pokemon","Fire, Fire, Colorless","Basic","1","pop2-1","Colorless, Colorless","3"
-,,"Pidgeot","80","3","Sharp Beak","20+","Colorless","Rare","Pokemon",,"Stage 2","","pop2-2","Colorless, Colorless, Colorless",
-"50","Thunder","Raikou","70","1","Roar","","Lightning","Rare","Pokemon","Lightning, Lightning, Colorless","Basic","1","pop2-3","Colorless","3"
-,,"Suicune","70","2","Bubblebeam","20","Water","Rare","Pokemon",,"Basic","1","pop2-4","Water, Colorless",
-"40","Take Down","Tauros","70","2","Rage","10+","Colorless","Rare","Pokemon","Colorless, Colorless, Colorless","Basic","1","pop2-5","Colorless, Colorless","3"
-"80","Hard Plant","Venusaur","120","3","Wide Solarbeam","20","Grass","Rare","Pokemon","Grass, Grass, Grass, Colorless","Stage 2","3","pop2-6","Grass, Grass, Colorless","4"
-"50","Razor Leaf","Ivysaur","80","1","Poison Seed","","Grass","Uncommon","Pokemon","Grass, Grass, Colorless","Stage 1","1","pop2-7","Colorless","3"
-,,"Mr. Briney's Compassion",,,,,"","Uncommon","Trainer",,"Supporter","","pop2-8",,
-,,"Multi Technical Machine 01",,"1","Paralyzing Gaze","","","Uncommon","Trainer",,"Technical Machine","","pop2-9","Colorless",
-,,"Pokemon Park",,,,,"","Uncommon","Trainer",,"Stadium","","pop2-10",,
-,,"TV Reporter",,,,,"","Uncommon","Trainer",,"Supporter","","pop2-11",,
-"20","Razor Leaf","Bulbasaur","40","1","Bite","10","Grass","Common","Pokemon","Grass, Colorless","Basic","1","pop2-12","Colorless","2"
-,,"Cacnea","40","1","Sand Attack","10","Grass","Common","Pokemon",,"Basic","1","pop2-13","Colorless",
-"20","Fast Stream","Luvdisc","60","1","Paralyzing Kiss","","Water","Common","Pokemon","Water, Colorless","Basic","1","pop2-14","Colorless","2"
-"10","Body Slam","Phanpy","50","1","Double Spin","10×","Fighting","Common","Pokemon","Colorless, Colorless","Basic","1","pop2-15","Fighting","2"
-"30","Thunder Jolt","Pikachu","40","1","Gnaw","10","Lightning","Common","Pokemon","Lightning, Colorless","Basic","1","pop2-16","Colorless","2"
-,,"Celebi ex","80","2","Psychic Shield","30","Psychic","Rare","Pokemon",,"Basic, ex","1","pop2-17","Psychic, Colorless",
+"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
+"pop2-1","Entei","Pokemon","Basic","70","Fire","1","Rare"
+"pop2-2","Pidgeot","Pokemon","Stage 2","80","Colorless","","Rare"
+"pop2-3","Raikou","Pokemon","Basic","70","Lightning","1","Rare"
+"pop2-4","Suicune","Pokemon","Basic","70","Water","1","Rare"
+"pop2-5","Tauros","Pokemon","Basic","70","Colorless","1","Rare"
+"pop2-6","Venusaur","Pokemon","Stage 2","120","Grass","3","Rare"
+"pop2-7","Ivysaur","Pokemon","Stage 1","80","Grass","1","Uncommon"
+"pop2-8","Mr. Briney's Compassion","Trainer","Supporter",,"","","Uncommon"
+"pop2-9","Multi Technical Machine 01","Trainer","Technical Machine",,"","","Uncommon"
+"pop2-10","Pokemon Park","Trainer","Stadium",,"","","Uncommon"
+"pop2-11","TV Reporter","Trainer","Supporter",,"","","Uncommon"
+"pop2-12","Bulbasaur","Pokemon","Basic","40","Grass","1","Common"
+"pop2-13","Cacnea","Pokemon","Basic","40","Grass","1","Common"
+"pop2-14","Luvdisc","Pokemon","Basic","60","Water","1","Common"
+"pop2-15","Phanpy","Pokemon","Basic","50","Fighting","1","Common"
+"pop2-16","Pikachu","Pokemon","Basic","40","Lightning","1","Common"
+"pop2-17","Celebi ex","Pokemon","Basic, ex","80","Psychic","1","Rare"

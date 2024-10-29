@@ -1,10 +1,10 @@
-"Attack2_Damage","Attack2_Name","Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Attack2_Cost","Subtypes","RetreatCost","ID","Attack1_Cost","Attack2_ConvertedEnergyCost"
-"30+","Thunderpunch","Electabuzz","70","1","Thundershock","10","Lightning","Promo","Pokemon","Lightning, Colorless","Basic","2","bp-1","Lightning","2"
-"40","Special Punch","Hitmonchan","70","1","Jab","20","Fighting","Promo","Pokemon","Fighting, Fighting, Colorless","Basic","2","bp-2","Fighting","3"
-,,"Professor Elm",,,,,"","Promo","Trainer",,"","","bp-3",,
-"20","Agility","Rocket's Scizor","60","1","Focus","","Metal","Promo","Pokemon","Metal, Colorless, Colorless","Basic","2","bp-4","Colorless","3"
-"10×","Continuous Scratch","Rocket's Sneasel","60","1","Entrap","","Darkness","Promo","Pokemon","Colorless, Colorless","Basic","1","bp-5","Darkness","2"
-,,"Dark Ivysaur","50","2","Fury Strikes","","Grass","Promo","Pokemon",,"Stage 1","2","bp-6","Grass, Grass",
-,,"Dark Venusaur","70","3","Horrid Pollen","30","Grass","Promo","Pokemon",,"Stage 2","2","bp-7","Grass, Grass, Grass",
-"20","Hypnoblast","Rocket's Mewtwo","70","1","Juxtapose","","Psychic","Promo","Pokemon","Psychic, Psychic","Basic","2","bp-8","Psychic","2"
-"50","Magnum Punch","Rocket's Hitmonchan","60","1","Crosscounter","","Fighting","Promo","Pokemon","Fighting, Fighting, Colorless","Basic","1","bp-9","Fighting","3"
+"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
+"bp-1","Electabuzz","Pokemon","Basic","70","Lightning","2","Promo"
+"bp-2","Hitmonchan","Pokemon","Basic","70","Fighting","2","Promo"
+"bp-3","Professor Elm","Trainer","",,"","","Promo"
+"bp-4","Rocket's Scizor","Pokemon","Basic","60","Metal","2","Promo"
+"bp-5","Rocket's Sneasel","Pokemon","Basic","60","Darkness","1","Promo"
+"bp-6","Dark Ivysaur","Pokemon","Stage 1","50","Grass","2","Promo"
+"bp-7","Dark Venusaur","Pokemon","Stage 2","70","Grass","2","Promo"
+"bp-8","Rocket's Mewtwo","Pokemon","Basic","70","Psychic","2","Promo"
+"bp-9","Rocket's Hitmonchan","Pokemon","Basic","60","Fighting","1","Promo"

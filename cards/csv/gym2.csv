@@ -1,127 +1,127 @@
-"Attack2_Damage","Attack2_Name","Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Attack2_Cost","Subtypes","RetreatCost","ID","Attack1_Cost","Attack2_ConvertedEnergyCost"
-"120","Firestorm","Blaine's Arcanine","90","3","Heat Tackle","40","Fire","Rare Holo","Pokemon","Fire, Fire, Fire, Fire","Stage 1","3","gym2-1","Fire, Colorless, Colorless","4"
-"","Flame Jet","Blaine's Charizard","100","1","Roaring Flames","20+","Fire","Rare Holo","Pokemon","Fire, Fire","Stage 2","3","gym2-2","Fire","2"
-,,"Brock's Ninetales","70","2","Will-o'-the-wisp","30","Fire","Rare Holo","Pokemon",,"Stage 1","1","gym2-3","Fire, Fire",
-"20","Wide Solarbeam","Erika's Venusaur","90","1","Growth","","Grass","Rare Holo","Pokemon","Grass, Grass, Grass, Grass","Stage 2","2","gym2-4","Grass","4"
-"40","Dragon Tornado","Giovanni's Gyarados","90","1","Summon Storm","","Water","Rare Holo","Pokemon","Water, Water, Colorless, Colorless","Stage 1","3","gym2-5","Water","4"
-,,"Giovanni's Machamp","100","4","Hurricane Punch","30×","Fighting","Rare Holo","Pokemon",,"Stage 2","3","gym2-6","Fighting, Fighting, Fighting, Colorless",
-"40+","Tumbling Attack","Giovanni's Nidoking","120","1","Intimidate","","Grass","Rare Holo","Pokemon","Grass, Grass, Grass, Colorless","Stage 2","3","gym2-7","Grass","4"
-,,"Giovanni's Persian","60","3","Ambush","20+","Colorless","Rare Holo","Pokemon",,"Stage 1","","gym2-8","Colorless, Colorless, Colorless",
-"70","Hyper Needle","Koga's Beedrill","80","2","Nerve Poison","20","Grass","Rare Holo","Pokemon","Colorless, Colorless, Colorless","Stage 2","","gym2-9","Grass, Grass","3"
-"10","Pound","Koga's Ditto","40","1","Giant Growth","","Colorless","Rare Holo","Pokemon","Colorless","Basic","1","gym2-10","Colorless","1"
-"40","Thundertackle","Lt. Surge's Raichu","80","2","Kerzap","20+","Lightning","Rare Holo","Pokemon","Lightning, Lightning, Colorless, Colorless","Stage 1","2","gym2-11","Lightning, Lightning","4"
-"","Super Removal","Misty's Golduck","70","2","Electro Beam","40","Water","Rare Holo","Pokemon","Psychic, Colorless","Stage 1","1","gym2-12","Water, Colorless","2"
-,,"Misty's Gyarados","100","4","Tidal Wave","70","Water","Rare Holo","Pokemon",,"Stage 1","3","gym2-13","Water, Water, Water, Water",
-"20","Hypnoblast","Rocket's Mewtwo","70","1","Juxtapose","","Psychic","Rare Holo","Pokemon","Psychic, Psychic","Basic","2","gym2-14","Psychic","2"
-"70","Electroburn","Rocket's Zapdos","70","1","Plasma","20","Lightning","Rare Holo","Pokemon","Lightning, Lightning, Lightning, Colorless","Basic","2","gym2-15","Lightning","4"
-,,"Sabrina's Alakazam","80","4","Mega Burn","60","Psychic","Rare Holo","Pokemon",,"Stage 2","3","gym2-16","Psychic, Colorless, Colorless, Colorless",
-,,"Blaine",,,,,"","Rare Holo","Trainer",,"","","gym2-17",,
-,,"Giovanni",,,,,"","Rare Holo","Trainer",,"","","gym2-18",,
-,,"Koga",,,,,"","Rare Holo","Trainer",,"","","gym2-19",,
-,,"Sabrina",,,,,"","Rare Holo","Trainer",,"","","gym2-20",,
-,,"Blaine's Ninetales","60","2","Burn Up","50","Fire","Rare","Pokemon",,"Stage 1","2","gym2-21","Fire, Fire",
-"60","Earthdrill","Brock's Dugtrio","60","1","Lie Low","","Fighting","Rare","Pokemon","Fighting, Fighting, Colorless","Stage 1","1","gym2-22","Fighting","3"
-"50+","Love Lariat","Giovanni's Nidoqueen","100","3","Mega Kick","40","Grass","Rare","Pokemon","Grass, Grass, Colorless, Colorless","Stage 2","3","gym2-23","Grass, Grass, Colorless","4"
-"40","Overhead Toss","Giovanni's Pinsir","70","2","Snapping Pincers","10+","Grass","Rare","Pokemon","Grass, Colorless, Colorless","Basic","2","gym2-24","Grass, Colorless","3"
-"20","Poison Power","Koga's Arbok","90","1","Poison Buildup","","Grass","Rare","Pokemon","Grass, Grass","Stage 1","2","gym2-25","Grass","2"
-,,"Koga's Muk","80","3","Sludge Whirlpool","40","Grass","Rare","Pokemon",,"Stage 1","3","gym2-26","Grass, Grass, Colorless",
-"10+","Aerial Maneuvers","Koga's Pidgeotto","60","3","Quick Turn","30×","Colorless","Rare","Pokemon","Colorless, Colorless, Colorless, Colorless","Stage 1","","gym2-27","Colorless, Colorless, Colorless","4"
-"30+","Thunder Flare","Lt. Surge's Jolteon","70","2","High Voltage","20","Lightning","Rare","Pokemon","Lightning, Lightning, Lightning","Stage 1","1","gym2-28","Lightning, Colorless","3"
-"40","Shadow Bind","Sabrina's Gengar","90","2","Dark Wave","20","Psychic","Rare","Pokemon","Psychic, Psychic, Psychic","Stage 2","2","gym2-29","Psychic, Psychic","3"
-"20+","Water Spray","Sabrina's Golduck","70","2","Damage Shift","","Water","Rare","Pokemon","Water, Colorless, Colorless","Stage 1","2","gym2-30","Psychic, Psychic","3"
-"","Bonfire","Blaine's Charmeleon","70","2","Fire Claws","30","Fire","Uncommon","Pokemon","Fire, Fire, Fire","Stage 1","2","gym2-31","Fire, Fire","3"
-,,"Blaine's Dodrio","70","2","Mega Peck","50","Colorless","Uncommon","Pokemon",,"Stage 1","1","gym2-32","Colorless, Colorless",
-"30+","Stamp","Blaine's Rapidash","70","1","Fire Mane","20","Fire","Uncommon","Pokemon","Fire, Colorless, Colorless","Stage 1","","gym2-33","Fire","3"
-"50","Detonate","Brock's Graveler","70","2","Tackle","20","Fighting","Uncommon","Pokemon","Fighting, Fighting, Fighting","Stage 1","2","gym2-34","Colorless, Colorless","3"
-,,"Brock's Primeape","70","3","Mega Thrash","60","Fighting","Uncommon","Pokemon",,"Stage 1","1","gym2-35","Fighting, Fighting, Fighting",
-"30","Needle Ball","Brock's Sandslash","70","2","Swift","20","Fighting","Uncommon","Pokemon","Fighting, Fighting","Stage 1","1","gym2-36","Fighting, Colorless","2"
-"20","Fire Ring","Brock's Vulpix","50","1","Hypnotic Gaze","","Fire","Uncommon","Pokemon","Fire, Fire","Basic","1","gym2-37","Colorless","2"
-,,"Erika's Bellsprout","40","1","Stretch Vine","","Grass","Uncommon","Pokemon",,"Basic","1","gym2-38","Grass",
-"","Errand-Running","Erika's Bulbasaur","50","1","Sleep Seed","10","Grass","Uncommon","Pokemon","Grass, Grass","Basic","1","gym2-39","Grass","2"
-"20","Moon Kick","Erika's Clefairy","50","1","Lunar Power","","Colorless","Uncommon","Pokemon","Colorless, Colorless","Basic","1","gym2-40","Colorless","2"
-,,"Erika's Ivysaur","60","3","Double Razor Leaf","40×","Grass","Uncommon","Pokemon",,"Stage 1","2","gym2-41","Grass, Grass, Grass",
-"20+","Headlock","Giovanni's Machoke","80","1","Risky Attack","60","Fighting","Uncommon","Pokemon","Fighting, Fighting, Colorless","Stage 1","2","gym2-42","Fighting","3"
-"20×","Double Scratch","Giovanni's Meowth","40","1","False Charity","","Colorless","Uncommon","Pokemon","Colorless, Colorless","Basic","1","gym2-43","Colorless","2"
-"20","Body Slam","Giovanni's Nidorina","80","2","Poison Sting Tackle","30","Grass","Uncommon","Pokemon","Grass, Colorless, Colorless","Stage 1","2","gym2-44","Grass, Colorless","3"
-,,"Giovanni's Nidorino","70","3","Rend","20+","Grass","Uncommon","Pokemon",,"Stage 1","2","gym2-45","Grass, Colorless, Colorless",
-"30","Sonic Scream","Koga's Golbat","60","2","Bite","20","Grass","Uncommon","Pokemon","Grass, Grass, Grass","Stage 1","","gym2-46","Colorless, Colorless","3"
-,,"Koga's Kakuna","60","1","Toxic Secretion","","Grass","Uncommon","Pokemon",,"Stage 1","2","gym2-47","Grass",
-"30","Obscuring Gas","Koga's Koffing","50","1","Smokescreen","10","Grass","Uncommon","Pokemon","Grass, Colorless","Basic","1","gym2-48","Grass","2"
-"20","Wing Attack","Koga's Pidgey","40","1","Messenger","","Colorless","Uncommon","Pokemon","Colorless, Colorless","Basic","1","gym2-49","Colorless","2"
-"20","Toxic Cloud","Koga's Weezing","70","2","Spontaneous Explosion","10+","Grass","Uncommon","Pokemon","Grass, Grass, Colorless","Stage 1","2","gym2-50","Grass, Grass","3"
-"20","Scratch","Lt. Surge's Eevee","40","1","Surprise","","Colorless","Uncommon","Pokemon","Colorless, Colorless","Basic","1","gym2-51","Colorless","2"
-,,"Lt. Surge's Electrode","70","3","Power Ball","30+","Lightning","Uncommon","Pokemon",,"Stage 1","2","gym2-52","Lightning, Lightning, Colorless",
-"40","Double-edge","Lt. Surge's Raticate","60","1","Focus Energy","","Colorless","Uncommon","Pokemon","Colorless, Colorless","Stage 1","1","gym2-53","Colorless","2"
-"60","Take Down","Misty's Dewgong","80","2","Ice Throw","20","Water","Uncommon","Pokemon","Water, Colorless, Colorless, Colorless","Stage 1","2","gym2-54","Water, Water","4"
-"","Shadow Attack","Sabrina's Haunter","70","2","Nightmare","20","Psychic","Uncommon","Pokemon","Psychic, Psychic, Psychic","Stage 1","","gym2-55","Psychic, Psychic","3"
-"20×","Pendulum Curse","Sabrina's Hypno","70","1","Invigorate","","Psychic","Uncommon","Pokemon","Psychic, Psychic","Stage 1","2","gym2-56","Psychic","2"
-"20","Hug","Sabrina's Jynx","60","1","Helping Hand","","Psychic","Uncommon","Pokemon","Psychic, Colorless","Basic","1","gym2-57","Psychic","2"
-"30","Psyshot","Sabrina's Kadabra","70","1","Life Drain","","Psychic","Uncommon","Pokemon","Psychic, Colorless, Colorless","Stage 1","1","gym2-58","Psychic","3"
-,,"Sabrina's Mr. Mime","60","2","Magic Darts","","Psychic","Uncommon","Pokemon",,"Basic","1","gym2-59","Psychic, Colorless",
-,,"Blaine's Charmander","50","1","Fire Tail Slap","20","Fire","Common","Pokemon",,"Basic","1","gym2-60","Fire",
-"10×","Retaliate","Blaine's Doduo","50","1","Wild Kick","20","Colorless","Common","Pokemon","Colorless, Colorless","Basic","","gym2-61","Colorless","2"
-"20","Body Slam","Blaine's Growlithe","60","1","Stoke","","Fire","Common","Pokemon","Fire, Colorless, Colorless","Basic","1","gym2-62","Fire","3"
-"10×","Fury Swipes","Blaine's Mankey","40","1","Pranks","","Fighting","Common","Pokemon","Fighting","Basic","","gym2-63","Colorless","1"
-,,"Blaine's Ponyta","50","2","Hind Kick","20","Fire","Common","Pokemon",,"Basic","1","gym2-64","Colorless, Colorless",
-"20","Overrun","Blaine's Rhyhorn","60","1","Horn Charge","30","Fighting","Common","Pokemon","Colorless, Colorless, Colorless","Basic","2","gym2-65","Fighting","3"
-"","Call Will-o'-the-wisp","Blaine's Vulpix","50","1","Bite","10","Fire","Common","Pokemon","Fire","Basic","1","gym2-66","Colorless","1"
-"40","Tremor","Brock's Diglett","40","1","Surprise Attack","20","Fighting","Common","Pokemon","Fighting, Colorless","Basic","1","gym2-67","Fighting","2"
-,,"Brock's Geodude","50","1","Rock Toss","10×","Fighting","Common","Pokemon",,"Basic","1","gym2-68","Fighting",
-"40-","Pulled Punch","Erika's Jigglypuff","50","1","Group Therapy","","Colorless","Common","Pokemon","Colorless, Colorless","Basic","1","gym2-69","Colorless","2"
-,,"Erika's Oddish","40","1","Strange Powder","10","Grass","Common","Pokemon",,"Basic","1","gym2-70","Grass",
-"","Poison Spore","Erika's Paras","50","1","Irongrip","10","Grass","Common","Pokemon","Grass, Grass","Basic","1","gym2-71","Colorless","2"
-"20×","Fury Punch","Giovanni's Machop","50","1","Chop","10","Fighting","Common","Pokemon","Fighting, Fighting","Basic","1","gym2-72","Colorless","2"
-"10×","Flail Around","Giovanni's Magikarp","30","1","Ancestral Memory","40","Water","Common","Pokemon","Water, Colorless","Basic","1","gym2-73","Water","2"
-"30","Cat Kick","Giovanni's Meowth","50","1","Cat Fleas","","Colorless","Common","Pokemon","Colorless, Colorless, Colorless","Basic","2","gym2-74","Colorless","3"
-"30","Double-edge","Giovanni's Nidoran ♀","50","1","Horn Thrust","20","Grass","Common","Pokemon","Colorless, Colorless","Basic","1","gym2-75","Grass","2"
-"30","Retaliation","Giovanni's Nidoran ♂","40","1","Double Kick","10×","Grass","Common","Pokemon","Grass","Basic","1","gym2-76","Colorless","1"
-,,"Koga's Ekans","50","1","Fast-Acting Poison","10","Grass","Common","Pokemon",,"Basic","1","gym2-77","Grass",
-"20","Sludge Toss","Koga's Grimer","50","1","Sludge Grip","","Grass","Common","Pokemon","Grass, Colorless","Basic","1","gym2-78","Grass","2"
-,,"Koga's Koffing","40","1","Smelly Gas","10","Grass","Common","Pokemon",,"Basic","1","gym2-79","Grass",
-"20","Sand-attack","Koga's Pidgey","50","1","Peck","10","Colorless","Common","Pokemon","Colorless, Colorless, Colorless","Basic","1","gym2-80","Colorless","3"
-"","Grasping Vine","Koga's Tangela","50","1","Sleep Powder","10","Grass","Common","Pokemon","Grass, Colorless","Basic","2","gym2-81","Grass","2"
-"10","Sharp Stinger","Koga's Weedle","40","1","Sting","10","Grass","Common","Pokemon","Grass, Colorless","Basic","1","gym2-82","Colorless","2"
-,,"Koga's Zubat","40","2","Group Attack","10×","Grass","Common","Pokemon",,"Basic","","gym2-83","Grass, Colorless",
-,,"Lt. Surge's Pikachu","40","2","Quick Attack","10+","Lightning","Common","Pokemon",,"Basic","","gym2-84","Colorless, Colorless",
-"10+","Quick Attack","Lt. Surge's Rattata","30","1","Focus Energy","","Colorless","Common","Pokemon","Colorless, Colorless","Basic","","gym2-85","Colorless","2"
-,,"Lt. Surge's Voltorb","50","2","Bouncing Ball","30","Lightning","Common","Pokemon",,"Basic","1","gym2-86","Lightning, Colorless",
-,,"Misty's Horsea","50","2","Ink Spurt","20","Water","Common","Pokemon",,"Basic","","gym2-87","Water, Water",
-"10","Leap","Misty's Magikarp","30","1","Play Dead","","Water","Common","Pokemon","Colorless","Basic","1","gym2-88","Colorless","1"
-"","Amnesia","Misty's Poliwag","50","1","Bubbles","20","Water","Common","Pokemon","Water, Water","Basic","1","gym2-89","Water","2"
-,,"Misty's Psyduck","60","1","ESP","","Water","Common","Pokemon",,"Basic","1","gym2-90","Psychic",
-"10","Mirage","Misty's Seel","50","1","Frostbite","10","Water","Common","Pokemon","Water, Colorless","Basic","1","gym2-91","Water","2"
-,,"Misty's Staryu","40","1","Star Boomerang","20","Water","Common","Pokemon",,"Basic","1","gym2-92","Water",
-"40","Synchronize","Sabrina's Abra","40","1","Pound","10","Psychic","Common","Pokemon","Psychic, Colorless","Basic","","gym2-93","Colorless","2"
-"10+","Quick Attack","Sabrina's Abra","50","1","Psyscan","","Psychic","Common","Pokemon","Psychic","Basic","1","gym2-94","Psychic","1"
-"20","Mind Shock","Sabrina's Drowzee","50","1","Energy Support","","Psychic","Common","Pokemon","Psychic, Colorless","Basic","1","gym2-95","Psychic","2"
-"30","Fade Out","Sabrina's Gastly","30","1","Lick","10","Psychic","Common","Pokemon","Psychic, Psychic","Basic","","gym2-96","Psychic","2"
-,,"Sabrina's Gastly","40","2","Suffocating Gas","30","Psychic","Common","Pokemon",,"Basic","1","gym2-97","Psychic, Psychic",
-"20","Barrier Attack","Sabrina's Porygon","40","1","Sharp Point","10","Colorless","Common","Pokemon","Colorless, Colorless","Basic","1","gym2-98","Colorless","2"
-"20","Random ESP","Sabrina's Psyduck","50","1","Scratch","10","Water","Common","Pokemon","Psychic","Basic","1","gym2-99","Colorless","1"
-,,"Blaine",,,,,"","Rare","Trainer",,"","","gym2-100",,
-,,"Brock's Protection",,,,,"","Rare","Trainer",,"","","gym2-101",,
-,,"Chaos Gym",,,,,"","Rare","Trainer",,"Stadium","","gym2-102",,
-,,"Erika's Kindness",,,,,"","Rare","Trainer",,"","","gym2-103",,
-,,"Giovanni",,,,,"","Rare","Trainer",,"","","gym2-104",,
-,,"Giovanni's Last Resort",,,,,"","Rare","Trainer",,"","","gym2-105",,
-,,"Koga",,,,,"","Rare","Trainer",,"","","gym2-106",,
-,,"Lt. Surge's Secret Plan",,,,,"","Rare","Trainer",,"","","gym2-107",,
-,,"Misty's Wish",,,,,"","Rare","Trainer",,"","","gym2-108",,
-,,"Resistance Gym",,,,,"","Rare","Trainer",,"Stadium","","gym2-109",,
-,,"Sabrina",,,,,"","Rare","Trainer",,"","","gym2-110",,
-,,"Blaine's Quiz #2",,,,,"","Uncommon","Trainer",,"","","gym2-111",,
-,,"Blaine's Quiz #3",,,,,"","Uncommon","Trainer",,"","","gym2-112",,
-,,"Cinnabar City Gym",,,,,"","Uncommon","Trainer",,"Stadium","","gym2-113",,
-,,"Fuchsia City Gym",,,,,"","Uncommon","Trainer",,"Stadium","","gym2-114",,
-,,"Koga's Ninja Trick",,,,,"","Uncommon","Trainer",,"","","gym2-115",,
-,,"Master Ball",,,,,"","Uncommon","Trainer",,"","","gym2-116",,
-,,"Max Revive",,,,,"","Uncommon","Trainer",,"","","gym2-117",,
-,,"Misty's Tears",,,,,"","Uncommon","Trainer",,"","","gym2-118",,
-,,"Rocket's Minefield Gym",,,,,"","Uncommon","Trainer",,"Stadium","","gym2-119",,
-,,"Rocket's Secret Experiment",,,,,"","Uncommon","Trainer",,"","","gym2-120",,
-,,"Sabrina's Psychic Control",,,,,"","Uncommon","Trainer",,"","","gym2-121",,
-,,"Saffron City Gym",,,,,"","Uncommon","Trainer",,"Stadium","","gym2-122",,
-,,"Viridian City Gym",,,,,"","Uncommon","Trainer",,"Stadium","","gym2-123",,
-,,"Fervor",,,,,"","Common","Trainer",,"","","gym2-124",,
-,,"Transparent Walls",,,,,"","Common","Trainer",,"","","gym2-125",,
-,,"Warp Point",,,,,"","Common","Trainer",,"","","gym2-126",,
+"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
+"gym2-1","Blaine's Arcanine","Pokemon","Stage 1","90","Fire","3","Rare Holo"
+"gym2-2","Blaine's Charizard","Pokemon","Stage 2","100","Fire","3","Rare Holo"
+"gym2-3","Brock's Ninetales","Pokemon","Stage 1","70","Fire","1","Rare Holo"
+"gym2-4","Erika's Venusaur","Pokemon","Stage 2","90","Grass","2","Rare Holo"
+"gym2-5","Giovanni's Gyarados","Pokemon","Stage 1","90","Water","3","Rare Holo"
+"gym2-6","Giovanni's Machamp","Pokemon","Stage 2","100","Fighting","3","Rare Holo"
+"gym2-7","Giovanni's Nidoking","Pokemon","Stage 2","120","Grass","3","Rare Holo"
+"gym2-8","Giovanni's Persian","Pokemon","Stage 1","60","Colorless","","Rare Holo"
+"gym2-9","Koga's Beedrill","Pokemon","Stage 2","80","Grass","","Rare Holo"
+"gym2-10","Koga's Ditto","Pokemon","Basic","40","Colorless","1","Rare Holo"
+"gym2-11","Lt. Surge's Raichu","Pokemon","Stage 1","80","Lightning","2","Rare Holo"
+"gym2-12","Misty's Golduck","Pokemon","Stage 1","70","Water","1","Rare Holo"
+"gym2-13","Misty's Gyarados","Pokemon","Stage 1","100","Water","3","Rare Holo"
+"gym2-14","Rocket's Mewtwo","Pokemon","Basic","70","Psychic","2","Rare Holo"
+"gym2-15","Rocket's Zapdos","Pokemon","Basic","70","Lightning","2","Rare Holo"
+"gym2-16","Sabrina's Alakazam","Pokemon","Stage 2","80","Psychic","3","Rare Holo"
+"gym2-17","Blaine","Trainer","",,"","","Rare Holo"
+"gym2-18","Giovanni","Trainer","",,"","","Rare Holo"
+"gym2-19","Koga","Trainer","",,"","","Rare Holo"
+"gym2-20","Sabrina","Trainer","",,"","","Rare Holo"
+"gym2-21","Blaine's Ninetales","Pokemon","Stage 1","60","Fire","2","Rare"
+"gym2-22","Brock's Dugtrio","Pokemon","Stage 1","60","Fighting","1","Rare"
+"gym2-23","Giovanni's Nidoqueen","Pokemon","Stage 2","100","Grass","3","Rare"
+"gym2-24","Giovanni's Pinsir","Pokemon","Basic","70","Grass","2","Rare"
+"gym2-25","Koga's Arbok","Pokemon","Stage 1","90","Grass","2","Rare"
+"gym2-26","Koga's Muk","Pokemon","Stage 1","80","Grass","3","Rare"
+"gym2-27","Koga's Pidgeotto","Pokemon","Stage 1","60","Colorless","","Rare"
+"gym2-28","Lt. Surge's Jolteon","Pokemon","Stage 1","70","Lightning","1","Rare"
+"gym2-29","Sabrina's Gengar","Pokemon","Stage 2","90","Psychic","2","Rare"
+"gym2-30","Sabrina's Golduck","Pokemon","Stage 1","70","Water","2","Rare"
+"gym2-31","Blaine's Charmeleon","Pokemon","Stage 1","70","Fire","2","Uncommon"
+"gym2-32","Blaine's Dodrio","Pokemon","Stage 1","70","Colorless","1","Uncommon"
+"gym2-33","Blaine's Rapidash","Pokemon","Stage 1","70","Fire","","Uncommon"
+"gym2-34","Brock's Graveler","Pokemon","Stage 1","70","Fighting","2","Uncommon"
+"gym2-35","Brock's Primeape","Pokemon","Stage 1","70","Fighting","1","Uncommon"
+"gym2-36","Brock's Sandslash","Pokemon","Stage 1","70","Fighting","1","Uncommon"
+"gym2-37","Brock's Vulpix","Pokemon","Basic","50","Fire","1","Uncommon"
+"gym2-38","Erika's Bellsprout","Pokemon","Basic","40","Grass","1","Uncommon"
+"gym2-39","Erika's Bulbasaur","Pokemon","Basic","50","Grass","1","Uncommon"
+"gym2-40","Erika's Clefairy","Pokemon","Basic","50","Colorless","1","Uncommon"
+"gym2-41","Erika's Ivysaur","Pokemon","Stage 1","60","Grass","2","Uncommon"
+"gym2-42","Giovanni's Machoke","Pokemon","Stage 1","80","Fighting","2","Uncommon"
+"gym2-43","Giovanni's Meowth","Pokemon","Basic","40","Colorless","1","Uncommon"
+"gym2-44","Giovanni's Nidorina","Pokemon","Stage 1","80","Grass","2","Uncommon"
+"gym2-45","Giovanni's Nidorino","Pokemon","Stage 1","70","Grass","2","Uncommon"
+"gym2-46","Koga's Golbat","Pokemon","Stage 1","60","Grass","","Uncommon"
+"gym2-47","Koga's Kakuna","Pokemon","Stage 1","60","Grass","2","Uncommon"
+"gym2-48","Koga's Koffing","Pokemon","Basic","50","Grass","1","Uncommon"
+"gym2-49","Koga's Pidgey","Pokemon","Basic","40","Colorless","1","Uncommon"
+"gym2-50","Koga's Weezing","Pokemon","Stage 1","70","Grass","2","Uncommon"
+"gym2-51","Lt. Surge's Eevee","Pokemon","Basic","40","Colorless","1","Uncommon"
+"gym2-52","Lt. Surge's Electrode","Pokemon","Stage 1","70","Lightning","2","Uncommon"
+"gym2-53","Lt. Surge's Raticate","Pokemon","Stage 1","60","Colorless","1","Uncommon"
+"gym2-54","Misty's Dewgong","Pokemon","Stage 1","80","Water","2","Uncommon"
+"gym2-55","Sabrina's Haunter","Pokemon","Stage 1","70","Psychic","","Uncommon"
+"gym2-56","Sabrina's Hypno","Pokemon","Stage 1","70","Psychic","2","Uncommon"
+"gym2-57","Sabrina's Jynx","Pokemon","Basic","60","Psychic","1","Uncommon"
+"gym2-58","Sabrina's Kadabra","Pokemon","Stage 1","70","Psychic","1","Uncommon"
+"gym2-59","Sabrina's Mr. Mime","Pokemon","Basic","60","Psychic","1","Uncommon"
+"gym2-60","Blaine's Charmander","Pokemon","Basic","50","Fire","1","Common"
+"gym2-61","Blaine's Doduo","Pokemon","Basic","50","Colorless","","Common"
+"gym2-62","Blaine's Growlithe","Pokemon","Basic","60","Fire","1","Common"
+"gym2-63","Blaine's Mankey","Pokemon","Basic","40","Fighting","","Common"
+"gym2-64","Blaine's Ponyta","Pokemon","Basic","50","Fire","1","Common"
+"gym2-65","Blaine's Rhyhorn","Pokemon","Basic","60","Fighting","2","Common"
+"gym2-66","Blaine's Vulpix","Pokemon","Basic","50","Fire","1","Common"
+"gym2-67","Brock's Diglett","Pokemon","Basic","40","Fighting","1","Common"
+"gym2-68","Brock's Geodude","Pokemon","Basic","50","Fighting","1","Common"
+"gym2-69","Erika's Jigglypuff","Pokemon","Basic","50","Colorless","1","Common"
+"gym2-70","Erika's Oddish","Pokemon","Basic","40","Grass","1","Common"
+"gym2-71","Erika's Paras","Pokemon","Basic","50","Grass","1","Common"
+"gym2-72","Giovanni's Machop","Pokemon","Basic","50","Fighting","1","Common"
+"gym2-73","Giovanni's Magikarp","Pokemon","Basic","30","Water","1","Common"
+"gym2-74","Giovanni's Meowth","Pokemon","Basic","50","Colorless","2","Common"
+"gym2-75","Giovanni's Nidoran ♀","Pokemon","Basic","50","Grass","1","Common"
+"gym2-76","Giovanni's Nidoran ♂","Pokemon","Basic","40","Grass","1","Common"
+"gym2-77","Koga's Ekans","Pokemon","Basic","50","Grass","1","Common"
+"gym2-78","Koga's Grimer","Pokemon","Basic","50","Grass","1","Common"
+"gym2-79","Koga's Koffing","Pokemon","Basic","40","Grass","1","Common"
+"gym2-80","Koga's Pidgey","Pokemon","Basic","50","Colorless","1","Common"
+"gym2-81","Koga's Tangela","Pokemon","Basic","50","Grass","2","Common"
+"gym2-82","Koga's Weedle","Pokemon","Basic","40","Grass","1","Common"
+"gym2-83","Koga's Zubat","Pokemon","Basic","40","Grass","","Common"
+"gym2-84","Lt. Surge's Pikachu","Pokemon","Basic","40","Lightning","","Common"
+"gym2-85","Lt. Surge's Rattata","Pokemon","Basic","30","Colorless","","Common"
+"gym2-86","Lt. Surge's Voltorb","Pokemon","Basic","50","Lightning","1","Common"
+"gym2-87","Misty's Horsea","Pokemon","Basic","50","Water","","Common"
+"gym2-88","Misty's Magikarp","Pokemon","Basic","30","Water","1","Common"
+"gym2-89","Misty's Poliwag","Pokemon","Basic","50","Water","1","Common"
+"gym2-90","Misty's Psyduck","Pokemon","Basic","60","Water","1","Common"
+"gym2-91","Misty's Seel","Pokemon","Basic","50","Water","1","Common"
+"gym2-92","Misty's Staryu","Pokemon","Basic","40","Water","1","Common"
+"gym2-93","Sabrina's Abra","Pokemon","Basic","40","Psychic","","Common"
+"gym2-94","Sabrina's Abra","Pokemon","Basic","50","Psychic","1","Common"
+"gym2-95","Sabrina's Drowzee","Pokemon","Basic","50","Psychic","1","Common"
+"gym2-96","Sabrina's Gastly","Pokemon","Basic","30","Psychic","","Common"
+"gym2-97","Sabrina's Gastly","Pokemon","Basic","40","Psychic","1","Common"
+"gym2-98","Sabrina's Porygon","Pokemon","Basic","40","Colorless","1","Common"
+"gym2-99","Sabrina's Psyduck","Pokemon","Basic","50","Water","1","Common"
+"gym2-100","Blaine","Trainer","",,"","","Rare"
+"gym2-101","Brock's Protection","Trainer","",,"","","Rare"
+"gym2-102","Chaos Gym","Trainer","Stadium",,"","","Rare"
+"gym2-103","Erika's Kindness","Trainer","",,"","","Rare"
+"gym2-104","Giovanni","Trainer","",,"","","Rare"
+"gym2-105","Giovanni's Last Resort","Trainer","",,"","","Rare"
+"gym2-106","Koga","Trainer","",,"","","Rare"
+"gym2-107","Lt. Surge's Secret Plan","Trainer","",,"","","Rare"
+"gym2-108","Misty's Wish","Trainer","",,"","","Rare"
+"gym2-109","Resistance Gym","Trainer","Stadium",,"","","Rare"
+"gym2-110","Sabrina","Trainer","",,"","","Rare"
+"gym2-111","Blaine's Quiz #2","Trainer","",,"","","Uncommon"
+"gym2-112","Blaine's Quiz #3","Trainer","",,"","","Uncommon"
+"gym2-113","Cinnabar City Gym","Trainer","Stadium",,"","","Uncommon"
+"gym2-114","Fuchsia City Gym","Trainer","Stadium",,"","","Uncommon"
+"gym2-115","Koga's Ninja Trick","Trainer","",,"","","Uncommon"
+"gym2-116","Master Ball","Trainer","",,"","","Uncommon"
+"gym2-117","Max Revive","Trainer","",,"","","Uncommon"
+"gym2-118","Misty's Tears","Trainer","",,"","","Uncommon"
+"gym2-119","Rocket's Minefield Gym","Trainer","Stadium",,"","","Uncommon"
+"gym2-120","Rocket's Secret Experiment","Trainer","",,"","","Uncommon"
+"gym2-121","Sabrina's Psychic Control","Trainer","",,"","","Uncommon"
+"gym2-122","Saffron City Gym","Trainer","Stadium",,"","","Uncommon"
+"gym2-123","Viridian City Gym","Trainer","Stadium",,"","","Uncommon"
+"gym2-124","Fervor","Trainer","",,"","","Common"
+"gym2-125","Transparent Walls","Trainer","",,"","","Common"
+"gym2-126","Warp Point","Trainer","",,"","","Common"

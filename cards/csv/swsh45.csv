@@ -1,47 +1,47 @@
-"Attack2_Damage","Attack2_Name","Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Attack2_Cost","Subtypes","RetreatCost","ID","Attack1_Cost","Attack2_ConvertedEnergyCost"
-"30","Wing Attack","Yanma","80","1","Tackle","10","Grass","Common","Pokemon","Grass, Colorless","Basic","1","swsh45-1","Grass","2"
-"120","Nosedive","Yanmega","120","1","Bug Bite","30","Grass","Rare","Pokemon","Grass, Colorless","Stage 1","","swsh45-2","Grass","2"
-,,"Celebi","70","3","Leaf Step","40","Grass","Rare","Pokemon",,"Basic","1","swsh45-3","Grass, Colorless, Colorless",
-,,"Cacnea","70","2","Pierce","50","Grass","Common","Pokemon",,"Basic","2","swsh45-4","Grass, Grass",
-"30","Gust","Tropius","110","1","Attach Leaves","","Grass","Uncommon","Pokemon","Grass, Colorless","Basic","1","swsh45-5","Colorless","2"
-,,"Rowlet","50","3","Wind Shard","","Grass","Common","Pokemon",,"Basic","1","swsh45-6","Colorless, Colorless, Colorless",
-,,"Dartrix","80","1","Razor Leaf","40","Grass","Uncommon","Pokemon",,"Stage 1","1","swsh45-7","Grass",
-,,"Decidueye","140","2","Splitting Arrow","90","Grass","Rare Holo","Pokemon",,"Stage 2","2","swsh45-8","Grass, Colorless",
-,,"Grookey","60","1","Fury Swipes","10×","Grass","Common","Pokemon",,"Basic","1","swsh45-11","Colorless",
-,,"Thwackey","90","1","Branch Poke","20","Grass","Uncommon","Pokemon",,"Stage 1","2","swsh45-12","Grass",
-,,"Rillaboom","170","4","Hammer In","140","Grass","Rare Holo","Pokemon",,"Stage 2","3","swsh45-13","Grass, Grass, Grass, Colorless",
-,,"Gossifleur","60","1","Leafage","10","Grass","Common","Pokemon",,"Basic","1","swsh45-14","Colorless",
-"50","Surprise Attack","Eldegoss","90","1","Enriching Seeds","","Grass","Uncommon","Pokemon","Grass","Stage 1","1","swsh45-15","Colorless","1"
-"110","Jungle Blast","Zarude","120","2","Suctioning Vines","30","Grass","Rare","Pokemon","Grass, Grass, Colorless","Basic","2","swsh45-16","Grass, Colorless","3"
-,,"Horsea","40","1","Water Gun","10","Water","Common","Pokemon",,"Basic","","swsh45-20","Water",
-,,"Buizel","70","1","Rain Splash","20","Water","Common","Pokemon",,"Basic","1","swsh45-22","Water",
-,,"Floatzel","110","1","Surf","50","Water","Uncommon","Pokemon",,"Stage 1","1","swsh45-23","Water",
-,,"Manaphy","70","2","Wave Splash","30","Water","Rare","Pokemon",,"Basic","1","swsh45-24","Water, Colorless",
-"120×","Dynamite Steam","Volcanion","130","2","Hammer In","50","Water","Rare","Pokemon","Water, Water, Water, Colorless","Basic","3","swsh45-25","Water, Colorless","4"
-"30","Bite","Chewtle","80","1","Tackle","10","Water","Common","Pokemon","Water, Colorless","Basic","2","swsh45-26","Water","2"
-,,"Drednaw","140","3","Skull Bash","130","Water","Rare","Pokemon",,"Stage 1","3","swsh45-27","Water, Water, Colorless",
-,,"Cramorant","90","2","Spit-Out Shot","","Water","Uncommon","Pokemon",,"Basic","1","swsh45-28","Water, Water",
-,,"Snom","50","1","Call for Family","","Water","Common","Pokemon",,"Basic","2","swsh45-29","Water",
-,,"Frosmoth","90","2","Aurora Beam","30","Water","Rare Holo","Pokemon",,"Stage 1","2","swsh45-30","Water, Colorless",
-,,"Shinx","60","1","Under Pressure","10+","Lightning","Common","Pokemon",,"Basic","1","swsh45-31","Lightning",
-,,"Luxio","90","1","Zap Kick","30","Lightning","Uncommon","Pokemon",,"Stage 1","1","swsh45-32","Lightning",
-"120","Head Bolt","Luxray","160","1","Raid","60+","Lightning","Rare Holo","Pokemon","Lightning, Colorless","Stage 2","1","swsh45-33","Lightning","2"
-,,"Rotom","80","2","Thunder Shock","30","Lightning","Uncommon","Pokemon",,"Basic","1","swsh45-34","Lightning, Colorless",
-"40","Thunder Shock","Morpeko","80","1","Famished","","Lightning","Common","Pokemon","Lightning, Colorless","Basic","1","swsh45-35","Colorless","2"
-"40","Thunder Shock","Morpeko","80","1","Famished","","Lightning","Common","Pokemon","Lightning, Colorless","Basic","1","swsh45-36","Colorless","2"
-,,"Trapinch","60","1","Land's Pulse","10+","Fighting","Common","Pokemon",,"Basic","1","swsh45-40","Fighting",
-,,"Koffing","60","1","Ascension","","Darkness","Common","Pokemon",,"Basic","1","swsh45-41","Darkness",
-,,"Galarian Weezing","130","1","Severe Poison","","Darkness","Rare Holo","Pokemon",,"Stage 1","3","swsh45-42","Darkness",
-"20","Sting","Spinarak","60","1","Hang Down","10","Darkness","Common","Pokemon","Darkness, Colorless","Basic","1","swsh45-43","Darkness","2"
-,,"Nickit","70","1","Instigate","","Darkness","Common","Pokemon",,"Basic","1","swsh45-47","Darkness",
-"80","Corner","Thievul","100","1","Call for Goons","","Darkness","Rare Holo","Pokemon","Darkness, Colorless, Colorless","Stage 1","1","swsh45-48","Colorless","3"
-,,"Cufant","100","3","Strength","60","Metal","Common","Pokemon",,"Basic","3","swsh45-49","Metal, Colorless, Colorless",
-"30","Wild Kick","Eevee","60","1","Signs of Evolution","","Colorless","Common","Pokemon","Colorless, Colorless","Basic","1","swsh45-52","Colorless","2"
-"20+","Psychic","Indeedee","100","1","Helping Hand","","Colorless","Rare Holo","Pokemon","Colorless, Colorless","Basic","1","swsh45-56","Colorless","2"
-,,"Ball Guy",,,,,"","Uncommon","Trainer",,"Supporter","","swsh45-57",,
-,,"Boss's Orders",,,,,"","Rare","Trainer",,"Supporter","","swsh45-58",,
-,,"Gym Trainer",,,,,"","Uncommon","Trainer",,"Supporter","","swsh45-59",,
-,,"Professor's Research",,,,,"","Rare","Trainer",,"Supporter","","swsh45-60",,
-,,"Rusted Shield",,,,,"","Uncommon","Trainer",,"Pokemon Tool","","swsh45-61",,
-,,"Rusted Sword",,,,,"","Uncommon","Trainer",,"Pokemon Tool","","swsh45-62",,
-,,"Team Yell Towel",,,,,"","Uncommon","Trainer",,"Item","","swsh45-63",,
+"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
+"swsh45-1","Yanma","Pokemon","Basic","80","Grass","1","Common"
+"swsh45-2","Yanmega","Pokemon","Stage 1","120","Grass","","Rare"
+"swsh45-3","Celebi","Pokemon","Basic","70","Grass","1","Rare"
+"swsh45-4","Cacnea","Pokemon","Basic","70","Grass","2","Common"
+"swsh45-5","Tropius","Pokemon","Basic","110","Grass","1","Uncommon"
+"swsh45-6","Rowlet","Pokemon","Basic","50","Grass","1","Common"
+"swsh45-7","Dartrix","Pokemon","Stage 1","80","Grass","1","Uncommon"
+"swsh45-8","Decidueye","Pokemon","Stage 2","140","Grass","2","Rare Holo"
+"swsh45-11","Grookey","Pokemon","Basic","60","Grass","1","Common"
+"swsh45-12","Thwackey","Pokemon","Stage 1","90","Grass","2","Uncommon"
+"swsh45-13","Rillaboom","Pokemon","Stage 2","170","Grass","3","Rare Holo"
+"swsh45-14","Gossifleur","Pokemon","Basic","60","Grass","1","Common"
+"swsh45-15","Eldegoss","Pokemon","Stage 1","90","Grass","1","Uncommon"
+"swsh45-16","Zarude","Pokemon","Basic","120","Grass","2","Rare"
+"swsh45-20","Horsea","Pokemon","Basic","40","Water","","Common"
+"swsh45-22","Buizel","Pokemon","Basic","70","Water","1","Common"
+"swsh45-23","Floatzel","Pokemon","Stage 1","110","Water","1","Uncommon"
+"swsh45-24","Manaphy","Pokemon","Basic","70","Water","1","Rare"
+"swsh45-25","Volcanion","Pokemon","Basic","130","Water","3","Rare"
+"swsh45-26","Chewtle","Pokemon","Basic","80","Water","2","Common"
+"swsh45-27","Drednaw","Pokemon","Stage 1","140","Water","3","Rare"
+"swsh45-28","Cramorant","Pokemon","Basic","90","Water","1","Uncommon"
+"swsh45-29","Snom","Pokemon","Basic","50","Water","2","Common"
+"swsh45-30","Frosmoth","Pokemon","Stage 1","90","Water","2","Rare Holo"
+"swsh45-31","Shinx","Pokemon","Basic","60","Lightning","1","Common"
+"swsh45-32","Luxio","Pokemon","Stage 1","90","Lightning","1","Uncommon"
+"swsh45-33","Luxray","Pokemon","Stage 2","160","Lightning","1","Rare Holo"
+"swsh45-34","Rotom","Pokemon","Basic","80","Lightning","1","Uncommon"
+"swsh45-35","Morpeko","Pokemon","Basic","80","Lightning","1","Common"
+"swsh45-36","Morpeko","Pokemon","Basic","80","Lightning","1","Common"
+"swsh45-40","Trapinch","Pokemon","Basic","60","Fighting","1","Common"
+"swsh45-41","Koffing","Pokemon","Basic","60","Darkness","1","Common"
+"swsh45-42","Galarian Weezing","Pokemon","Stage 1","130","Darkness","3","Rare Holo"
+"swsh45-43","Spinarak","Pokemon","Basic","60","Darkness","1","Common"
+"swsh45-47","Nickit","Pokemon","Basic","70","Darkness","1","Common"
+"swsh45-48","Thievul","Pokemon","Stage 1","100","Darkness","1","Rare Holo"
+"swsh45-49","Cufant","Pokemon","Basic","100","Metal","3","Common"
+"swsh45-52","Eevee","Pokemon","Basic","60","Colorless","1","Common"
+"swsh45-56","Indeedee","Pokemon","Basic","100","Colorless","1","Rare Holo"
+"swsh45-57","Ball Guy","Trainer","Supporter",,"","","Uncommon"
+"swsh45-58","Boss's Orders","Trainer","Supporter",,"","","Rare"
+"swsh45-59","Gym Trainer","Trainer","Supporter",,"","","Uncommon"
+"swsh45-60","Professor's Research","Trainer","Supporter",,"","","Rare"
+"swsh45-61","Rusted Shield","Trainer","Pokemon Tool",,"","","Uncommon"
+"swsh45-62","Rusted Sword","Trainer","Pokemon Tool",,"","","Uncommon"
+"swsh45-63","Team Yell Towel","Trainer","Item",,"","","Uncommon"

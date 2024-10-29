@@ -34,10 +34,10 @@ foreach ($jsonFile in $jsonFiles) {
                     $attack = $card.attacks[$i]
                     $attackNumber = $i + 1
 
-                    $csvRow["Attack${attackNumber}_Name"]                   = $attack.name
-                    $csvRow["Attack${attackNumber}_Cost"]                   = ($attack.cost -join ", ")
                     $csvRow["Attack${attackNumber}_ConvertedEnergyCost"]    = $attack.convertedEnergyCost
+                    $csvRow["Attack${attackNumber}_Name"]                   = $attack.name
                     $csvRow["Attack${attackNumber}_Damage"]                 = $attack.damage
+                    $csvRow["Attack${attackNumber}_Cost"]                   = ($attack.cost -join ", ")
                 }
             }
             $csvRows += [PSCustomObject]$csvRow

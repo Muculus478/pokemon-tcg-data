@@ -1,19 +1,19 @@
-"Attack2_Damage","Attack2_Name","Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Attack2_Cost","Subtypes","RetreatCost","ID","Attack1_Cost","Attack2_ConvertedEnergyCost"
-"120","Fire Blast","Ho-Oh","130","2","Sacred Fire","","Fire","Rare","Pokemon","Fire, Fire, Colorless","Basic","2","cel25-1","Fire, Colorless","3"
-"80+","Black Flame","Reshiram","130","2","Scorching Wind","","Fire","Rare","Pokemon","Fire, Fire, Colorless","Basic","3","cel25-2","Colorless, Colorless","3"
-"120","Surf","Kyogre","130","3","Aqua Storm","","Water","Rare","Pokemon","Water, Water, Colorless, Colorless","Basic","3","cel25-3","Water, Water, Colorless","4"
-,,"Palkia","130","3","Overdrive Smash","80+","Water","Rare","Pokemon",,"Basic","2","cel25-4","Water, Colorless, Colorless",
-"30","Thunder Jolt","Pikachu","60","1","Gnaw","10","Lightning","Rare Holo","Pokemon","Lightning, Colorless","Basic","1","cel25-5","Colorless","2"
-"80+","White Thunder","Zekrom","130","2","Field Crush","30","Lightning","Rare","Pokemon","Lightning, Lightning, Colorless","Basic","3","cel25-10","Colorless, Colorless","3"
-,,"Mew","60","2","Psyshot","30","Psychic","Rare Holo","Pokemon",,"Basic","1","cel25-11","Psychic, Colorless",
-"100","Aurora Horns","Xerneas","120","2","Breath of Life","","Psychic","Rare","Pokemon","Psychic, Colorless, Colorless","Basic","2","cel25-12","Colorless, Colorless","3"
-,,"Cosmog","60","1","Star Protection","","Psychic","Rare","Pokemon",,"Basic","1","cel25-13","Colorless",
-,,"Cosmoem","90","1","Star Protection","","Psychic","Rare","Pokemon",,"Stage 1","3","cel25-14","Colorless",
-"130","Psychic Shot","Lunala","160","2","Lunar Pain","","Psychic","Rare Holo","Pokemon","Psychic, Colorless, Colorless","Stage 2","2","cel25-15","Colorless, Colorless","3"
-"120","Massive Rend","Groudon","130","3","Magma Volcano","80×","Fighting","Rare","Pokemon","Fighting, Fighting, Colorless, Colorless","Basic","3","cel25-17","Fighting, Fighting, Colorless","4"
-"100","Dark Feather","Yveltal","120","2","Cry of Destruction","","Darkness","Rare","Pokemon","Darkness, Colorless, Colorless","Basic","2","cel25-19","Colorless, Colorless","3"
-"60+","Metal Blast","Dialga","130","1","Temporal Backflow","","Metal","Rare","Pokemon","Colorless, Colorless, Colorless","Basic","2","cel25-20","Metal","3"
-,,"Solgaleo","170","2","Solar Geyser","100","Metal","Rare Holo","Pokemon",,"Stage 2","2","cel25-21","Colorless, Colorless",
-"160","Deep Crush","Lugia","130","2","Aero Ball","20×","Colorless","Rare","Pokemon","Colorless, Colorless, Colorless, Colorless","Basic","2","cel25-22","Colorless, Colorless","4"
-,,"Professor's Research (Professor Oak)",,,,,"","Rare Holo","Trainer",,"Supporter","","cel25-23",,
-,,"Mew","60","2","Psyshot","30","Psychic","Rare Holo","Pokemon",,"Basic","1","cel25-25","Psychic, Colorless",
+"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
+"cel25-1","Ho-Oh","Pokemon","Basic","130","Fire","2","Rare"
+"cel25-2","Reshiram","Pokemon","Basic","130","Fire","3","Rare"
+"cel25-3","Kyogre","Pokemon","Basic","130","Water","3","Rare"
+"cel25-4","Palkia","Pokemon","Basic","130","Water","2","Rare"
+"cel25-5","Pikachu","Pokemon","Basic","60","Lightning","1","Rare Holo"
+"cel25-10","Zekrom","Pokemon","Basic","130","Lightning","3","Rare"
+"cel25-11","Mew","Pokemon","Basic","60","Psychic","1","Rare Holo"
+"cel25-12","Xerneas","Pokemon","Basic","120","Psychic","2","Rare"
+"cel25-13","Cosmog","Pokemon","Basic","60","Psychic","1","Rare"
+"cel25-14","Cosmoem","Pokemon","Stage 1","90","Psychic","3","Rare"
+"cel25-15","Lunala","Pokemon","Stage 2","160","Psychic","2","Rare Holo"
+"cel25-17","Groudon","Pokemon","Basic","130","Fighting","3","Rare"
+"cel25-19","Yveltal","Pokemon","Basic","120","Darkness","2","Rare"
+"cel25-20","Dialga","Pokemon","Basic","130","Metal","2","Rare"
+"cel25-21","Solgaleo","Pokemon","Stage 2","170","Metal","2","Rare Holo"
+"cel25-22","Lugia","Pokemon","Basic","130","Colorless","2","Rare"
+"cel25-23","Professor's Research (Professor Oak)","Trainer","Supporter",,"","","Rare Holo"
+"cel25-25","Mew","Pokemon","Basic","60","Psychic","1","Rare Holo"

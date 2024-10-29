@@ -1,2 +1,2 @@
-"Attack2_Damage","Attack2_Name","Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Attack2_Cost","Subtypes","RetreatCost","ID","Attack1_Cost","Attack2_ConvertedEnergyCost"
-"40+","Damage Burn","Charmeleon","70","2","Flare","30","Fire","Uncommon","Pokemon","Fire, Colorless, Colorless","Stage 1","1","tk2b-3","Fire, Colorless","3"
+"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
+"tk2b-3","Charmeleon","Pokemon","Stage 1","70","Fire","1","Uncommon"

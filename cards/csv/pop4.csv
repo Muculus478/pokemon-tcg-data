@@ -1,18 +1,18 @@
-"Attack2_Damage","Attack2_Name","Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Attack2_Cost","Subtypes","RetreatCost","ID","Attack1_Cost","Attack2_ConvertedEnergyCost"
-"30","Sonicboom","Chimecho δ","60","1","Wrap","","Metal","Rare","Pokemon","Metal, Colorless","Basic","1","pop4-1","Colorless","2"
-,,"Deoxys δ","70","2","Crystal Laser","20","Colorless","Rare","Pokemon",,"Basic","1","pop4-2","Colorless, Colorless",
-"70","Sand Pit","Flygon","120","2","Bite","30","Fighting","Rare","Pokemon","Fighting, Colorless, Colorless, Colorless","Stage 2","2","pop4-3","Fighting, Colorless","4"
-,,"Mew","70","2","Psyshock","20","Psychic","Rare","Pokemon",,"Basic","1","pop4-4","Psychic, Colorless",
-,,"Sceptile","100","3","Tail Rap","50×","Grass","Rare","Pokemon",,"Stage 2","3","pop4-5","Grass, Colorless, Colorless",
-"40","Sky Uppercut","Combusken","70","1","Smokescreen","10","Fire","Uncommon","Pokemon","Fire, Colorless, Colorless","Stage 1","1","pop4-6","Fire","3"
-"20","Blot","Grovyle","70","1","Quick Attack","10+","Grass","Uncommon","Pokemon","Grass, Colorless","Stage 1","1","pop4-7","Colorless","2"
-,,"Heal Energy",,,,,"","Uncommon","Energy",,"Special","","pop4-8",,
-,,"Pokemon Fan Club",,,,,"","Uncommon","Trainer",,"Supporter","","pop4-9",,
-,,"Scramble Energy",,,,,"","Uncommon","Energy",,"Special","","pop4-10",,
-,,"Mudkip","50","2","Super Hypno Wave","20","Water","Common","Pokemon",,"Basic","1","pop4-11","Water, Colorless",
-,,"Pidgey","40","2","Quick Attack","20+","Colorless","Common","Pokemon",,"Basic","1","pop4-12","Colorless, Colorless",
-,,"Pikachu","50","2","Spark","20","Lightning","Common","Pokemon",,"Basic","1","pop4-13","Lightning, Colorless",
-,,"Squirtle","50","1","Tackle","10","Water","Common","Pokemon",,"Basic","1","pop4-14","Colorless",
-"10","Shining Claws","Treecko δ","40","1","Pound","10","Psychic","Common","Pokemon","Psychic","Basic","1","pop4-15","Colorless","1"
-"20","Expand","Wobbuffet","80","1","Nap","","Psychic","Common","Pokemon","Psychic, Colorless","Basic","2","pop4-16","Colorless","2"
-,,"Deoxys ex","110","3","Fastwave","50","Psychic","Rare","Pokemon",,"Basic, ex","1","pop4-17","Colorless, Colorless, Colorless",
+"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
+"pop4-1","Chimecho δ","Pokemon","Basic","60","Metal","1","Rare"
+"pop4-2","Deoxys δ","Pokemon","Basic","70","Colorless","1","Rare"
+"pop4-3","Flygon","Pokemon","Stage 2","120","Fighting","2","Rare"
+"pop4-4","Mew","Pokemon","Basic","70","Psychic","1","Rare"
+"pop4-5","Sceptile","Pokemon","Stage 2","100","Grass","3","Rare"
+"pop4-6","Combusken","Pokemon","Stage 1","70","Fire","1","Uncommon"
+"pop4-7","Grovyle","Pokemon","Stage 1","70","Grass","1","Uncommon"
+"pop4-8","Heal Energy","Energy","Special",,"","","Uncommon"
+"pop4-9","Pokemon Fan Club","Trainer","Supporter",,"","","Uncommon"
+"pop4-10","Scramble Energy","Energy","Special",,"","","Uncommon"
+"pop4-11","Mudkip","Pokemon","Basic","50","Water","1","Common"
+"pop4-12","Pidgey","Pokemon","Basic","40","Colorless","1","Common"
+"pop4-13","Pikachu","Pokemon","Basic","50","Lightning","1","Common"
+"pop4-14","Squirtle","Pokemon","Basic","50","Water","1","Common"
+"pop4-15","Treecko δ","Pokemon","Basic","40","Psychic","1","Common"
+"pop4-16","Wobbuffet","Pokemon","Basic","80","Psychic","2","Common"
+"pop4-17","Deoxys ex","Pokemon","Basic, ex","110","Psychic","1","Rare"

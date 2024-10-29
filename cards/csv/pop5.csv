@@ -1,18 +1,18 @@
-"Attack2_Damage","Attack2_Name","Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Attack2_Cost","Subtypes","RetreatCost","ID","Attack1_Cost","Attack2_ConvertedEnergyCost"
-"60","Fire Blast","Ho-Oh","80","2","Fire Wing","20","Fire","Rare","Pokemon","Fire, Fire, Fire, Colorless","Basic","2","pop5-1","Fire, Colorless","4"
-"30","Aerowing","Lugia","80","2","Super Psy Bolt","20","Psychic","Rare","Pokemon","Psychic, Colorless, Colorless","Basic","2","pop5-2","Psychic, Colorless","3"
-"","Extra Draw","Mew δ","60","1","Copy","","Fire","Rare","Pokemon","Fire","Basic","1","pop5-3","Colorless","1"
-,,"Double Rainbow Energy",,,,,"","Rare","Energy",,"Special","","pop5-4",,
-"50","Thunder Jolt","Charmeleon δ","70","2","Slash","20","Lightning","Uncommon","Pokemon","Lightning, Colorless, Colorless","Stage 1","1","pop5-5","Colorless, Colorless","3"
-,,"Bill's Maintenance",,,,,"","Uncommon","Trainer",,"Supporter","","pop5-6",,
-,,"Rare Candy",,,,,"","Uncommon","Trainer",,"Item","","pop5-7",,
-,,"Boost Energy",,,,,"","Uncommon","Energy",,"Special","","pop5-8",,
-,,"δ Rainbow Energy",,,,,"","Uncommon","Energy",,"Special","","pop5-9",,
-"20","Bite","Charmander δ","50","1","Scratch","10","Lightning","Common","Pokemon","Lightning, Colorless","Basic","1","pop5-10","Colorless","2"
-,,"Meowth δ","40","1","Feint Attack","","Darkness","Common","Pokemon",,"Basic","1","pop5-11","Darkness",
-"50","Thunderbolt","Pikachu","50","1","Lightning Ball","10","Lightning","Common","Pokemon","Lightning, Colorless, Colorless","Basic","1","pop5-12","Lightning","3"
-"10+","Heavy Metal","Pikachu δ","40","1","Electric Punch","10","Metal","Common","Pokemon","Colorless, Colorless","Basic","1","pop5-13","Colorless","2"
-,,"Pelipper δ","70","3","Lightning Wing","50","Lightning","Common","Pokemon",,"Stage 1","","pop5-14","Lightning, Colorless, Colorless",
-"40","Metal Claw","Zangoose δ","70","1","Detect","","Metal","Common","Pokemon","Metal, Colorless, Colorless","Basic","1","pop5-15","Colorless","3"
-,,"Espeon ★","70","3","Psychic Boom","30+","Psychic","Rare","Pokemon",,"Basic, Star","1","pop5-16","Psychic, Psychic, Colorless",
-,,"Umbreon ★","70","2","Feint Attack","","Darkness","Rare","Pokemon",,"Basic, Star","1","pop5-17","Darkness, Darkness",
+"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
+"pop5-1","Ho-Oh","Pokemon","Basic","80","Fire","2","Rare"
+"pop5-2","Lugia","Pokemon","Basic","80","Psychic","2","Rare"
+"pop5-3","Mew δ","Pokemon","Basic","60","Fire","1","Rare"
+"pop5-4","Double Rainbow Energy","Energy","Special",,"","","Rare"
+"pop5-5","Charmeleon δ","Pokemon","Stage 1","70","Lightning","1","Uncommon"
+"pop5-6","Bill's Maintenance","Trainer","Supporter",,"","","Uncommon"
+"pop5-7","Rare Candy","Trainer","Item",,"","","Uncommon"
+"pop5-8","Boost Energy","Energy","Special",,"","","Uncommon"
+"pop5-9","δ Rainbow Energy","Energy","Special",,"","","Uncommon"
+"pop5-10","Charmander δ","Pokemon","Basic","50","Lightning","1","Common"
+"pop5-11","Meowth δ","Pokemon","Basic","40","Darkness","1","Common"
+"pop5-12","Pikachu","Pokemon","Basic","50","Lightning","1","Common"
+"pop5-13","Pikachu δ","Pokemon","Basic","40","Metal","1","Common"
+"pop5-14","Pelipper δ","Pokemon","Stage 1","70","Lightning","","Common"
+"pop5-15","Zangoose δ","Pokemon","Basic","70","Metal","1","Common"
+"pop5-16","Espeon ★","Pokemon","Basic, Star","70","Psychic","1","Rare"
+"pop5-17","Umbreon ★","Pokemon","Basic, Star","70","Darkness","1","Rare"

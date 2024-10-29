@@ -1,57 +1,57 @@
-"Attack2_Damage","Attack2_Name","Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Attack2_Cost","Subtypes","RetreatCost","ID","Attack1_Cost","Attack2_ConvertedEnergyCost"
-"20","Razor Leaf","Turtwig","60","0","Tackle","10","Grass","Promo","Pokemon","Grass","Basic","2","dpp-DP01","","1"
-"30","Ember","Chimchar","50","0","Scratch","10","Fire","Promo","Pokemon","Fire, Colorless","Basic","1","dpp-DP02","","2"
-"20+","Water Splash","Piplup","60","0","Peck","10","Water","Promo","Pokemon","Water, Colorless","Basic","1","dpp-DP03","","2"
-"20","Thunder Jolt","Pachirisu","70","1","Minor Errand-Running","","Lightning","Promo","Pokemon","Lightning","Basic","1","dpp-DP04","Colorless","1"
-,,"Tropical Wind",,,,,"","Promo","Trainer",,"Item","","dpp-DP05",,
-"10","Jump Kick","Buneary","50","1","Splash","10","Colorless","Promo","Pokemon","Colorless, Colorless","Basic","1","dpp-DP06","Colorless","2"
-"30","Steamroll","Cranidos","70","1","Headbutt","20","Fighting","Promo","Pokemon","Fighting, Colorless","Stage 1","1","dpp-DP07","Colorless","2"
-"40+","Shield Attack","Shieldon","80","2","Hard Face","20","Metal","Promo","Pokemon","Metal, Colorless, Colorless","Stage 1","2","dpp-DP08","Metal, Colorless","3"
-,,"Torterra LV.X","160","4","Vigorous Dash","100","Grass","Promo","Pokemon",,"Level-Up","4","dpp-DP09","Grass, Grass, Grass, Colorless",
-,,"Infernape LV.X","120","2","Flare Up","150","Fire","Promo","Pokemon",,"Level-Up","","dpp-DP10","Fire, Fire",
-,,"Empoleon LV.X","140","3","Hydro Impact","","Water","Promo","Pokemon",,"Level-Up","2","dpp-DP11","Water, Water, Water",
-,,"Lucario LV.X","110","3","Close Combat","80","Fighting","Promo","Pokemon",,"Level-Up","1","dpp-DP12","Fighting, Fighting, Colorless",
-,,"Buizel","60","1","Splash About","10+","Water","Promo","Pokemon",,"Basic","1","dpp-DP13","Water",
-"10","Tone-Deaf","Chatot","60","1","Me First","","Colorless","Promo","Pokemon","Colorless","Basic","1","dpp-DP14","Colorless","1"
-,,"Shinx","60","1","Spark","10","Lightning","Promo","Pokemon",,"Basic","1","dpp-DP15","Lightning",
-,,"Pikachu","60","2","BikaBika","20+","Lightning","Promo","Pokemon",,"Basic","1","dpp-DP16","Lightning, Colorless",
-,,"Dialga LV.X","110","4","Metal Flash","80","Metal","Promo","Pokemon",,"Level-Up","2","dpp-DP17","Metal, Metal, Colorless, Colorless",
-,,"Palkia LV.X","120","3","Hydro Reflect","60","Water","Promo","Pokemon",,"Level-Up","3","dpp-DP18","Water, Water, Water",
-,,"Darkrai LV.X","100","3","Endless Darkness","40","Darkness","Promo","Pokemon",,"Level-Up","1","dpp-DP19","Darkness, Darkness, Colorless",
-"80","Flame Drum","Magmortar","100","2","Smoke Bomb","30","Fire","Promo","Pokemon","Fire, Fire, Colorless","Stage 1","3","dpp-DP20","Fire, Colorless","3"
-"30×","Explosive Thunder","Raichu","90","0","Electromagnetic Induction","","Lightning","Promo","Pokemon","Lightning, Colorless","Stage 1","1","dpp-DP21","","2"
-,,"Mime Jr.","40","1","Mime","","Psychic","Promo","Pokemon",,"Basic","1","dpp-DP22","Psychic",
-"30","Pose","Glameow","50","1","Charm","","Colorless","Promo","Pokemon","Colorless, Colorless","Basic","1","dpp-DP23","Colorless","2"
-"80","Roar of Time","Darkrai","80","1","Spacial Rend","10","Darkness","Promo","Pokemon","Metal, Metal, Metal","Basic","1","dpp-DP24","Water","3"
-,,"Tropical Wind",,,,,"","Promo","Trainer",,"Item","","dpp-DP25",,
-"40","Flash Cannon","Dialga","90","1","Time Bellow","10","Metal","Promo","Pokemon","Metal, Metal, Colorless","Basic","2","dpp-DP26","Metal","3"
-"40","Transback","Palkia","90","1","Spacial Rend","10","Water","Promo","Pokemon","Water, Water, Colorless","Basic","2","dpp-DP27","Water","3"
-,,"Mewtwo LV.X","120","3","Giga Burn","120","Psychic","Promo","Pokemon",,"Level-Up","2","dpp-DP28","Psychic, Psychic, Colorless",
-"60","Upthrow","Rhyperior LV.X","170","0","Hard Crush","50×","Fighting","Promo","Pokemon","Fighting, Fighting, Colorless","Level-Up","4","dpp-DP29","","3"
-,,"Regigigas LV.X","150","4","Giga Blaster","100","Colorless","Promo","Pokemon",,"Level-Up","4","dpp-DP30","Water, Fighting, Metal, Colorless",
-,,"Heatran LV.X","120",,,,"Fire","Promo","Pokemon",,"Level-Up","4","dpp-DP31",,
-"100","Magnet Slash","Magnezone","130","2","Mirror Shot","40","Metal","Promo","Pokemon","Lightning, Metal, Colorless, Colorless","Stage 2","2","dpp-DP32","Metal, Colorless","4"
-,,"Dusknoir","130","3","Reaper Pulse","70","Psychic","Promo","Pokemon",,"Stage 2","2","dpp-DP33","Psychic, Psychic, Colorless",
-"60","Explosive Smoke","Drifblim","80","1","Wind Wave","","Psychic","Promo","Pokemon","Psychic, Psychic, Psychic","Stage 1","","dpp-DP34","Colorless","3"
-"40+","Overload","Porygon-Z","120","0","Learning","","Colorless","Promo","Pokemon","Colorless, Colorless","Stage 2","2","dpp-DP35","","2"
-"20","Friction Heat","Gliscor","90","1","Cutting Turn","","Fighting","Promo","Pokemon","Fighting","Stage 1","","dpp-DP36","Colorless","1"
-,,"Dialga LV.X","110","4","Metal Flash","80","Metal","Promo","Pokemon",,"Level-Up","2","dpp-DP37","Metal, Metal, Colorless, Colorless",
-,,"Giratina LV.X","130","4","Darkness Lost","","Psychic","Promo","Pokemon",,"Level-Up","3","dpp-DP38","Psychic, Psychic, Colorless, Colorless",
-,,"Shaymin LV.X","110","2","Energy Flare","50","Grass","Promo","Pokemon",,"Level-Up","","dpp-DP39","Grass, Colorless",
-"80","Giga Hammer","Regigigas","100","3","Drag Off","30","Colorless","Promo","Pokemon","Colorless, Colorless, Colorless, Colorless","Basic","4","dpp-DP40","Colorless, Colorless, Colorless","4"
-,,"Toxicroak G","90","2","Poison Revenge","20+","Fighting","Promo","Pokemon",,"Basic, SP","2","dpp-DP41","Psychic, Colorless",
-"20+","Grass Knot","Carnivine G","80","1","Power Whip","","Grass","Promo","Pokemon","Grass, Colorless","Basic, SP","1","dpp-DP42","Colorless","2"
-"70","Loud Snort","Probopass G","90","2","Nose Unit","","Fighting","Promo","Pokemon","Metal, Colorless, Colorless, Colorless","Basic, SP","3","dpp-DP43","Metal, Colorless","4"
-"60","Metallic Bolt","Magnezone","130","1","Charge Beam","30","Lightning","Promo","Pokemon","Lightning, Metal, Colorless, Colorless","Stage 2","2","dpp-DP44","Lightning","4"
-,,"Charizard G LV.X","120","5","Malevolent Fire","150","Fire","Promo","Pokemon",,"Level-Up, SP","3","dpp-DP45","Fire, Fire, Colorless, Colorless, Colorless",
-,,"Garchomp C LV.X","110","3","Dragon Rush","","Colorless","Promo","Pokemon",,"Level-Up, SP","","dpp-DP46","Colorless, Colorless, Colorless",
-,,"Rayquaza C LV.X","120","4","Final Blowup","200","Colorless","Promo","Pokemon",,"Level-Up, SP","3","dpp-DP47","Water, Psychic, Fighting, Colorless",
-,,"Tropical Wind",,,,,"","Promo","Trainer",,"Item","","dpp-DP48",,
-"100","Time Wager","Dialga","100","1","Time Call","","Metal","Promo","Pokemon","Metal, Colorless, Colorless","Basic","2","dpp-DP49","Metal","3"
-,,"Arceus","90","4","Judgment","80","Colorless","Promo","Pokemon",,"Basic","2","dpp-DP50","Colorless, Colorless, Colorless, Colorless",
-,,"Cresselia","90","3","Lunar Flight","80-","Psychic","Promo","Pokemon",,"Basic","2","dpp-DP51","Psychic, Psychic, Colorless",
-,,"Darkrai","90","3","Hypnoblast","60","Darkness","Promo","Pokemon",,"Basic","2","dpp-DP52","Darkness, Darkness, Colorless",
-,,"Arceus LV.X","120",,,,"Colorless","Promo","Pokemon",,"Level-Up","1","dpp-DP53",,
-,,"Beginning Door",,,,,"","Promo","Trainer",,"Item","","dpp-DP54",,
-,,"Ultimate Zone",,,,,"","Promo","Trainer",,"Stadium","","dpp-DP55",,
-,,"Arceus LV.X","120","3","Meteor Blast","100","Colorless","Promo","Pokemon",,"Level-Up","1","dpp-DP56","Grass, Fire, Colorless",
+"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
+"dpp-DP01","Turtwig","Pokemon","Basic","60","Grass","2","Promo"
+"dpp-DP02","Chimchar","Pokemon","Basic","50","Fire","1","Promo"
+"dpp-DP03","Piplup","Pokemon","Basic","60","Water","1","Promo"
+"dpp-DP04","Pachirisu","Pokemon","Basic","70","Lightning","1","Promo"
+"dpp-DP05","Tropical Wind","Trainer","Item",,"","","Promo"
+"dpp-DP06","Buneary","Pokemon","Basic","50","Colorless","1","Promo"
+"dpp-DP07","Cranidos","Pokemon","Stage 1","70","Fighting","1","Promo"
+"dpp-DP08","Shieldon","Pokemon","Stage 1","80","Metal","2","Promo"
+"dpp-DP09","Torterra LV.X","Pokemon","Level-Up","160","Grass","4","Promo"
+"dpp-DP10","Infernape LV.X","Pokemon","Level-Up","120","Fire","","Promo"
+"dpp-DP11","Empoleon LV.X","Pokemon","Level-Up","140","Water","2","Promo"
+"dpp-DP12","Lucario LV.X","Pokemon","Level-Up","110","Fighting","1","Promo"
+"dpp-DP13","Buizel","Pokemon","Basic","60","Water","1","Promo"
+"dpp-DP14","Chatot","Pokemon","Basic","60","Colorless","1","Promo"
+"dpp-DP15","Shinx","Pokemon","Basic","60","Lightning","1","Promo"
+"dpp-DP16","Pikachu","Pokemon","Basic","60","Lightning","1","Promo"
+"dpp-DP17","Dialga LV.X","Pokemon","Level-Up","110","Metal","2","Promo"
+"dpp-DP18","Palkia LV.X","Pokemon","Level-Up","120","Water","3","Promo"
+"dpp-DP19","Darkrai LV.X","Pokemon","Level-Up","100","Darkness","1","Promo"
+"dpp-DP20","Magmortar","Pokemon","Stage 1","100","Fire","3","Promo"
+"dpp-DP21","Raichu","Pokemon","Stage 1","90","Lightning","1","Promo"
+"dpp-DP22","Mime Jr.","Pokemon","Basic","40","Psychic","1","Promo"
+"dpp-DP23","Glameow","Pokemon","Basic","50","Colorless","1","Promo"
+"dpp-DP24","Darkrai","Pokemon","Basic","80","Darkness","1","Promo"
+"dpp-DP25","Tropical Wind","Trainer","Item",,"","","Promo"
+"dpp-DP26","Dialga","Pokemon","Basic","90","Metal","2","Promo"
+"dpp-DP27","Palkia","Pokemon","Basic","90","Water","2","Promo"
+"dpp-DP28","Mewtwo LV.X","Pokemon","Level-Up","120","Psychic","2","Promo"
+"dpp-DP29","Rhyperior LV.X","Pokemon","Level-Up","170","Fighting","4","Promo"
+"dpp-DP30","Regigigas LV.X","Pokemon","Level-Up","150","Colorless","4","Promo"
+"dpp-DP31","Heatran LV.X","Pokemon","Level-Up","120","Fire","4","Promo"
+"dpp-DP32","Magnezone","Pokemon","Stage 2","130","Metal","2","Promo"
+"dpp-DP33","Dusknoir","Pokemon","Stage 2","130","Psychic","2","Promo"
+"dpp-DP34","Drifblim","Pokemon","Stage 1","80","Psychic","","Promo"
+"dpp-DP35","Porygon-Z","Pokemon","Stage 2","120","Colorless","2","Promo"
+"dpp-DP36","Gliscor","Pokemon","Stage 1","90","Fighting","","Promo"
+"dpp-DP37","Dialga LV.X","Pokemon","Level-Up","110","Metal","2","Promo"
+"dpp-DP38","Giratina LV.X","Pokemon","Level-Up","130","Psychic","3","Promo"
+"dpp-DP39","Shaymin LV.X","Pokemon","Level-Up","110","Grass","","Promo"
+"dpp-DP40","Regigigas","Pokemon","Basic","100","Colorless","4","Promo"
+"dpp-DP41","Toxicroak G","Pokemon","Basic, SP","90","Fighting","2","Promo"
+"dpp-DP42","Carnivine G","Pokemon","Basic, SP","80","Grass","1","Promo"
+"dpp-DP43","Probopass G","Pokemon","Basic, SP","90","Fighting","3","Promo"
+"dpp-DP44","Magnezone","Pokemon","Stage 2","130","Lightning","2","Promo"
+"dpp-DP45","Charizard G LV.X","Pokemon","Level-Up, SP","120","Fire","3","Promo"
+"dpp-DP46","Garchomp C LV.X","Pokemon","Level-Up, SP","110","Colorless","","Promo"
+"dpp-DP47","Rayquaza C LV.X","Pokemon","Level-Up, SP","120","Colorless","3","Promo"
+"dpp-DP48","Tropical Wind","Trainer","Item",,"","","Promo"
+"dpp-DP49","Dialga","Pokemon","Basic","100","Metal","2","Promo"
+"dpp-DP50","Arceus","Pokemon","Basic","90","Colorless","2","Promo"
+"dpp-DP51","Cresselia","Pokemon","Basic","90","Psychic","2","Promo"
+"dpp-DP52","Darkrai","Pokemon","Basic","90","Darkness","2","Promo"
+"dpp-DP53","Arceus LV.X","Pokemon","Level-Up","120","Colorless","1","Promo"
+"dpp-DP54","Beginning Door","Trainer","Item",,"","","Promo"
+"dpp-DP55","Ultimate Zone","Trainer","Stadium",,"","","Promo"
+"dpp-DP56","Arceus LV.X","Pokemon","Level-Up","120","Colorless","1","Promo"

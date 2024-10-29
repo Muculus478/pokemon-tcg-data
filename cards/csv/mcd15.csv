@@ -1,2 +1,2 @@
-"Name","HP","Attack1_ConvertedEnergyCost","Attack1_Name","Attack1_Damage","Types","Rarity","Supertype","Subtypes","RetreatCost","ID","Attack1_Cost"
-"Rhyhorn","80","2","Take Down","40","Fighting","Common","Pokemon","Basic","3","mcd15-8","Fighting, Fighting"
+"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
+"mcd15-8","Rhyhorn","Pokemon","Basic","80","Fighting","3","Common"
