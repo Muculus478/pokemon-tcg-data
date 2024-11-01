@@ -7,6 +7,7 @@ $jsonFiles = Get-ChildItem -Path $jsonFolderPath -Filter *.json
 
 # Define the rarities you want to include
 $includedRarities = @('Common', 'Uncommon', 'Rare', 'Rare Holo', 'Promo')
+$excludedSubTypes = @('GX', 'ex', 'EX', 'V', 'VMAX', 'V-UNION', 'Star', 'VSTAR', 'BREAK', 'Radiant')
 
 # Loop through each JSON file
 foreach ($jsonFile in $jsonFiles) {
@@ -18,27 +19,30 @@ foreach ($jsonFile in $jsonFiles) {
     foreach ($card in $jsonData) {
         # Only include cards with the defined rarities
         if ($card.rarity -ne $null -and $includedRarities -contains $card.rarity) {
-            #Count occurrences of "ColorLess" in RetreatCost
-            $rtCostCount = if ($card.retreatCost -is [Array]) {
-                ($card.retreatCost | Where-Object { $_-eq "Colorless"}).Count
-            } else {
-                0
+            #check if the card has any subtypes in the excluded list
+            $hasExcludedSubType = $false
+            foreach ($subtype in $card.subtypes) {
+                if ($excludedSubTypes -contains $subtype) {
+                    $hasExcludedSubType = $true
+                    break
+                }
             }
-            $csvRow = [PSCustomObject]@{
-                ID          = $card.id
-                Name        = $card.name
-                Supertype   = $card.supertype
-                Subtypes    = ($card.subtypes -join ", ")
-                HP          = $card.hp
-                Types       = ($card.types -join ", ")
-                RetreatCost = ($card.retreatCost -join ", ")
-                RTCOST      = $rtCostCount
-                Rarity      = $card.rarity
+            #Only add the card to the csv if it does NOT have any excluded subtypes
+            if (-not $hasExcludedSubType) {
+                $csvRow = [PSCustomObject]@{
+                    ID          = $card.id
+                    Name        = $card.name
+                    Supertype   = $card.supertype
+                    Subtypes    = ($card.subtypes -join ", ")
+                    HP          = $card.hp
+                    Types       = ($card.types -join ", ")
+                    RetreatCost = ($card.convertedRetreatCost -join ", ")
+                    Rarity      = $card.rarity
+                }       
+                $csvRows += $csvRow
             }
-            $csvRows += $csvRow
         }
     }
-
     # Define the CSV file path for each JSON file
     $csvFileName = [System.IO.Path]::GetFileNameWithoutExtension($jsonFile.Name) + ".csv"
     $csvFilePath = Join-Path $csvFolderPath $csvFileName
@@ -49,7 +53,6 @@ foreach ($jsonFile in $jsonFiles) {
 
     # Update the CSV by replacing all "é" with "e"
     (Get-Content $csvFilePath) -replace 'é', 'e' | Set-Content $csvFilePath
-    Write-Host "CSV file updated to replace accented 'e' with regular 'e'"
 }
 
 Write-Host "All JSON files have been processed and CSVs created."
