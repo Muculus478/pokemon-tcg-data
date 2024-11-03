@@ -1,2 +1,2 @@
-"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity"
-"tk2b-3","Charmeleon","Pokemon","Stage 1","70","Fire","1","Uncommon"
+"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity","Attacks"
+"tk2b-3","Charmeleon","Pokemon","Stage 1","70","Fire","1","Uncommon","Flare: Cost=[], Damage=30, Text= | Damage Burn: Cost=[], Damage=40+, Text=If the Defending Pokemon already has any damage counters on it, this attack does 40 damage plus 20 more damage."

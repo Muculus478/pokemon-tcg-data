@@ -64,3 +64,4 @@ foreach ($jsonFile in $jsonFiles) {
 }
 
 Write-Host "All JSON files have been processed and CSVs created."
+t
