@@ -1,6 +1,6 @@
 # Define folder paths
 $jsonFolderPath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\en"
-$csv2FolderPath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\csv2"
+$csv2FolderPath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\csv"
 
 # Create output directory if it doesn't exist
 if (!(Test-Path -Path $csv2FolderPath)) {
@@ -24,21 +24,59 @@ Get-ChildItem -Path $jsonFolderPath -Filter "*.json" | ForEach-Object {
             evolvesTo             = ($card.evolvesTo -join ", ")
             evolvesFrom           = $card.evolvesFrom
             number                = $card.number
+            artist                = $card.artist
             rarity                = $card.rarity
+            flavorText            = $card.flavorText
+            nationalPokedexNumbers= ($card.nationalPokedexNumbers -join ", ")
+            regulationMark        = $card.regulationMark
+            imageSmall            = $card.images.small
+            imageLarge            = $card.images.large
+            legalitiesUnlimited   = $card.legalities.unlimited
+            legalitiesStandard    = $card.legalities.standard
+            legalitiesExpanded    = $card.legalities.expanded
             retreatCost           = ($card.retreatCost -join ", ")
             convertedRetreatCost  = $card.convertedRetreatCost
+
+            # Initialize ability fields to blank
+            Ability1Name          = ""
+            Ability1Text          = ""
+            Ability1Type          = ""
+            Ability2Name          = ""
+            Ability2Text          = ""
+            Ability2Type          = ""
+
+            # Initialize attack fields to blank
+            Attack1Name           = ""
+            Attack1Cost           = ""
+            Attack1ConvertedCost  = ""
+            Attack1Damage         = ""
+            Attack1Text           = ""
+            Attack2Name           = ""
+            Attack2Cost           = ""
+            Attack2ConvertedCost  = ""
+            Attack2Damage         = ""
+            Attack2Text           = ""
         }
 
-        # Flatten attacks
+        # Flatten abilities and populate fields if available
+        if ($card.abilities) {
+            for ($j = 0; $j -lt [math]::Min(2, $card.abilities.Count); $j++) {
+                $ability = $card.abilities[$j]
+                $flattenedCard."Ability$($j + 1)Name" = $ability.name
+                $flattenedCard."Ability$($j + 1)Text" = $ability.text
+                $flattenedCard."Ability$($j + 1)Type" = $ability.type
+            }
+        }
+
+        # Flatten attacks and populate fields if available
         if ($card.attacks) {
-            $attackIndex = 0
-            foreach ($attack in $card.attacks) {
-                $attackIndex++
-                $flattenedCard | Add-Member -NotePropertyName "Attack${attackIndex}Name" -NotePropertyValue $attack.name
-                $flattenedCard | Add-Member -NotePropertyName "Attack${attackIndex}Cost" -NotePropertyValue ($attack.cost -join ", ")
-                $flattenedCard | Add-Member -NotePropertyName "Attack${attackIndex}ConvertedCost" -NotePropertyValue $attack.convertedEnergyCost
-                $flattenedCard | Add-Member -NotePropertyName "Attack${attackIndex}Damage" -NotePropertyValue $attack.damage
-                $flattenedCard | Add-Member -NotePropertyName "Attack${attackIndex}Text" -NotePropertyValue $attack.text
+            for ($i = 0; $i -lt [math]::Min(2, $card.attacks.Count); $i++) {
+                $attack = $card.attacks[$i]
+                $flattenedCard."Attack$($i + 1)Name" = $attack.name
+                $flattenedCard."Attack$($i + 1)Cost" = ($attack.cost -join ", ")
+                $flattenedCard."Attack$($i + 1)ConvertedCost" = $attack.convertedEnergyCost
+                $flattenedCard."Attack$($i + 1)Damage" = $attack.damage
+                $flattenedCard."Attack$($i + 1)Text" = $attack.text
             }
         }
 
