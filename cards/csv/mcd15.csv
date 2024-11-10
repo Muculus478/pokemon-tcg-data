@@ -1,2 +1,2 @@
-"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity","Attacks"
-"mcd15-8","Rhyhorn","Pokemon","Basic","80","Fighting","3","Common","Take Down: Cost=[], Damage=40, Text=This Pokemon does 10 damage to itself."
+"ID","Name","Supertype","Subtypes","HP","Types","RetreatCost","Rarity","Ability","Attacks"
+"mcd15-8","Rhyhorn","Pokemon","Basic","80","Fighting","3","Common","","Take Down: Cost=[Fighting, Fighting], EnergyCost=[2], Damage=40, Text=This Pokemon does 10 damage to itself."

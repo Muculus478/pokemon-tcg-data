@@ -1,0 +1,57 @@
+"id","name","supertype","hp","types","rarity","retreatCost","convertedRetreatCost","AbilityName","AbilityText","Attack1Name","Attack1Cost","Attack1ConvertedCost","Attack1Damage","Attack1Text","Attack2Name","Attack2Cost","Attack2ConvertedCost","Attack2Damage","Attack2Text","Weakness1Type","Weakness1Value"
+"sm115-1","Caterpie","Pokemon","60","Grass","Common","Colorless","1","","","Tackle","Grass","1","10","","","","","","","Fire","x2"
+"sm115-2","Metapod","Pokemon","90","Grass","Uncommon","Colorless, Colorless","2","","","Tackle","Grass, Colorless","2","30","","","","","","","Fire","x2"
+"sm115-3","Butterfree","Pokemon","130","Grass","Rare","Colorless","1","","","Gust","Grass, Colorless","2","80","","","","","","","Fire","x2"
+"sm115-4","Paras","Pokemon","70","Grass","Common","Colorless","1","","","Scratch","Colorless","1","10","","Slash","Grass, Colorless","2","20","","Fire","x2"
+"sm115-5","Scyther","Pokemon","100","Grass","Uncommon","Colorless","1","","","Slash","Grass","1","10","","Sharp Scythe","Grass, Colorless","2","30","","Fire","x2"
+"sm115-7","Charmander","Pokemon","70","Fire","Common","Colorless","1","","","Gnaw","Fire","1","10","","Flare","Fire, Colorless","2","20","","Water","x2"
+"sm115-8","Charmeleon","Pokemon","100","Fire","Uncommon","Colorless","1","","","Slash","Fire, Colorless","2","30","","Flamethrower","Fire, Fire, Colorless","3","80","","Water","x2"
+"sm115-10","Magmar","Pokemon","90","Fire","Uncommon","Colorless, Colorless","2","","","Fire Punch","Fire, Fire","2","50","","","","","","","Water","x2"
+"sm115-11","Psyduck","Pokemon","60","Water","Common","Colorless","1","","","Headache","Water","1","20","","","","","","","Grass","x2"
+"sm115-12","Slowpoke","Pokemon","70","Water","Common","Colorless, Colorless","2","","","Yawn","Colorless","1","","Your opponent's Active Pokemon is now Asleep.","","","","","","Grass","x2"
+"sm115-13","Staryu","Pokemon","50","Water","Common","Colorless","1","","","Numbing Water","Colorless","1","10","Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed.","","","","","","Grass","x2"
+"sm115-15","Magikarp","Pokemon","30","Water","Common","Colorless","1","","","Splash","Colorless","1","10","","","","","","","Lightning","x2"
+"sm115-17","Lapras","Pokemon","120","Water","Rare","Colorless, Colorless","2","","","Aqua Wave","Water, Water, Colorless","3","80","","","","","","","Grass","x2"
+"sm115-18","Vaporeon","Pokemon","120","Water","Rare Holo","Colorless, Colorless, Colorless","3","","","Water Gun","Water, Colorless","2","30","","Bubble Drain","Water, Water, Colorless","3","80","Heal 30 damage from this Pokemon.","Grass","x2"
+"sm115-19","Pikachu","Pokemon","70","Lightning","Common","Colorless","1","","","Quick Attack","Lightning","1","10","","Electro Ball","Lightning, Lightning, Colorless","3","60","","Fighting","x2"
+"sm115-21","Voltorb","Pokemon","50","Lightning","Common","Colorless","1","","","Lightning Ball","Lightning","1","20","","","","","","","Fighting","x2"
+"sm115-22","Electrode","Pokemon","100","Lightning","Rare","Colorless","1","","","Lightning Ball","Lightning","1","30","","Electroblast","Lightning, Colorless, Colorless","3","60+","Flip 2 coins. This attack does 30 more damage for each heads.","Fighting","x2"
+"sm115-23","Jolteon","Pokemon","90","Lightning","Rare","","0","Electromagnetic Wall","As long as this Pokemon is your Active Pokemon, whenever your opponent attaches an Energy card from their hand to 1 of their Pokemon, put 2 damage counters on that Pokemon.","Thunderbolt","Lightning, Colorless","2","90","Discard all Energy from this Pokemon.","","","","","","Fighting","x2"
+"sm115-24","Zapdos","Pokemon","120","Lightning","Rare Holo","Colorless, Colorless","2","","","Hurricane Call","Colorless, Colorless","2","","Flip 4 coins. For each heads, search your deck for a Lightning Energy card and attach it to 1 of your Pokemon-GX or Pokemon-EX. Then, shuffle your deck.","Sky-High Claws","Lightning, Lightning, Colorless","3","100","","Lightning","x2"
+"sm115-25","Ekans","Pokemon","60","Psychic","Common","Colorless","1","","","Wrap","Psychic","1","10","Flip a coin. If heads, discard an Energy from your opponent's Active Pokemon.","","","","","","Psychic","x2"
+"sm115-26","Ekans","Pokemon","60","Psychic","Common","Colorless","1","","","Tail Whap","Colorless, Colorless","2","30","","","","","","","Psychic","x2"
+"sm115-27","Arbok","Pokemon","120","Psychic","Rare","Colorless, Colorless","2","Last Pattern","If this Pokemon is Knocked Out by damage from an opponent's attack, discard 2 random cards from your opponent's hand.","Rocket Tail","Psychic, Colorless, Colorless","3","50+","If Jessie & James is in your discard pile, this attack does 80 more damage.","","","","","","Psychic","x2"
+"sm115-28","Koffing","Pokemon","60","Psychic","Common","Colorless","1","","","Tackle","Colorless","1","20","","","","","","","Psychic","x2"
+"sm115-29","Weezing","Pokemon","120","Psychic","Rare","Colorless, Colorless, Colorless","3","Surrender Now","Once during your turn, if this Pokemon is discarded with the effect of Jessie & James, you may have your opponent discard a card from their hand. (They discard that card after the effect of Jessie & James.)","Tackle","Colorless","1","40","","","","","","","Psychic","x2"
+"sm115-30","Jynx","Pokemon","100","Psychic","Uncommon","Colorless","1","","","Slap","Psychic","1","10","","Lovely Kiss","Psychic, Colorless","2","30","","Psychic","x2"
+"sm115-32","Mew","Pokemon","80","Psychic","Rare","Colorless","1","","","Psyshot","Psychic, Psychic","2","50","","","","","","","Psychic","x2"
+"sm115-33","Geodude","Pokemon","70","Fighting","Common","Colorless, Colorless","2","","","Tackle","Colorless","1","10","","","","","","","Grass","x2"
+"sm115-34","Graveler","Pokemon","100","Fighting","Uncommon","Colorless, Colorless, Colorless","3","","","Tackle","Colorless, Colorless","2","30","","Mudslide","Fighting, Fighting, Colorless, Colorless","4","","Discard 2 Fighting Energy from this Pokemon. This attack does 80 damage to 1 of your opponent's Pokemon. (Don't apply Weakness and Resistance for Benched Pokemon.)","Grass","x2"
+"sm115-35","Golem","Pokemon","170","Fighting","Rare","Colorless, Colorless, Colorless, Colorless","4","","","Rock Slide","Fighting, Colorless, Colorless","3","60","This attack does 20 damage to 3 of your opponent's Benched Pokemon. (Don't apply Weakness and Resistance for Benched Pokemon.)","Land Crush","Fighting, Fighting, Colorless, Colorless","4","140","","Grass","x2"
+"sm115-37","Cubone","Pokemon","60","Fighting","Common","Colorless, Colorless","2","","","Sharpshooting","Colorless, Colorless","2","","This attack does 20 damage to 1 of your opponent's Pokemon. (Don't apply Weakness and Resistance for Benched Pokemon.)","","","","","","Grass","x2"
+"sm115-38","Clefairy","Pokemon","60","Fairy","Common","Colorless","1","","","Lead","Colorless","1","","Flip a coin. If heads, search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.","Pound","Fairy","1","10","","Metal","x2"
+"sm115-39","Clefairy","Pokemon","60","Fairy","Common","Colorless","1","","","Pound","Fairy","1","10","","Moon Dance","Fairy, Colorless","2","30","","Metal","x2"
+"sm115-40","Clefable","Pokemon","120","Fairy","Rare","Colorless, Colorless","2","","","Pound","Fairy, Colorless","2","40","","Moon Impact","Fairy, Fairy, Colorless","3","90","","Metal","x2"
+"sm115-41","Jigglypuff","Pokemon","70","Fairy","Common","Colorless","1","","","Singing Voice","Fairy","1","10","","Rollout","Fairy, Colorless","2","30","","Metal","x2"
+"sm115-43","Mr. Mime","Pokemon","90","Fairy","Rare","Colorless","1","","","Happy Mime","Fairy","1","","Each player draws a card.","Double Slap","Fairy, Fairy","2","40x","Flip 2 coins. This attack does 40 damage for each heads.","Metal","x2"
+"sm115-45","Farfetch'd","Pokemon","80","Colorless","Uncommon","Colorless","1","","","Leek Slap","Colorless, Colorless","2","30","","","","","","","Lightning","x2"
+"sm115-46","Chansey","Pokemon","130","Colorless","Uncommon","Colorless, Colorless","2","","","Double-Edge","Colorless, Colorless, Colorless","3","80","This Pokemon does 20 damage to itself.","","","","","","Fighting","x2"
+"sm115-47","Kangaskhan","Pokemon","120","Colorless","Rare","Colorless, Colorless","2","","","Parental Fury","Colorless, Colorless","2","40x","Flip a coin until you get tails. This attack does 40 damage for each heads.","","","","","","Fighting","x2"
+"sm115-48","Eevee","Pokemon","60","Colorless","Rare Holo","Colorless","1","","","Curiosity","Colorless","1","","Your opponent reveals their hand.","Spin Tackle","Colorless, Colorless","2","30","Flip a coin. If tails, this Pokemon does 10 damage to itself.","Fighting","x2"
+"sm115-49","Eevee","Pokemon","60","Colorless","Common","Colorless","1","","","Gnaw","Colorless","1","20","","","","","","","Fighting","x2"
+"sm115-50","Snorlax","Pokemon","150","Colorless","Rare","Colorless, Colorless, Colorless","3","","","Incredible Snore","Colorless, Colorless, Colorless, Colorless","4","100","","","","","","","Fighting","x2"
+"sm115-51","Bill's Analysis","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
+"sm115-52","Blaine's Last Stand","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
+"sm115-53","Brock's Grit","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
+"sm115-54","Brock's Pewter City Gym","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
+"sm115-55","Brock's Training","Trainer",,"","Rare Holo","","0","","","","","","","","","","","","",,
+"sm115-56","Erika's Hospitality","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
+"sm115-57","Giovanni's Exile","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
+"sm115-58","Jessie & James","Trainer",,"","Rare Holo","","0","","","","","","","","","","","","",,
+"sm115-59","Koga's Trap","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
+"sm115-60","Lt. Surge's Strategy","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
+"sm115-61","Misty's Cerulean City Gym","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
+"sm115-62","Misty's Determination","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
+"sm115-63","Misty's Water Command","Trainer",,"","Rare Holo","","0","","","","","","","","","","","","",,
+"sm115-64","Pokemon Center Lady","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
+"sm115-65","Sabrina's Suggestion","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,

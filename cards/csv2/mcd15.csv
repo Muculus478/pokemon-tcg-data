@@ -1,0 +1,2 @@
+"id","name","supertype","hp","types","rarity","retreatCost","convertedRetreatCost","AbilityName","AbilityText","Attack1Name","Attack1Cost","Attack1ConvertedCost","Attack1Damage","Attack1Text","Attack2Name","Attack2Cost","Attack2ConvertedCost","Attack2Damage","Attack2Text","Weakness1Type","Weakness1Value"
+"mcd15-8","Rhyhorn","Pokemon","80","Fighting","Common","Colorless, Colorless, Colorless","3","","","Take Down","Fighting, Fighting","2","40","This Pokemon does 10 damage to itself.","","","","","","Grass","x2"

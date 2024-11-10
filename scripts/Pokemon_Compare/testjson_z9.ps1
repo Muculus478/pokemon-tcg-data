@@ -32,7 +32,7 @@ foreach ($jsonFile in $jsonFiles) {
                 #Format attacks into a single string
                 $attackDescriptions =@()
                 foreach ($attack in $card.attacks) {
-                    $attackDescription = "$($attack.name): Cost=[$($attackk.cost -join ', ')], Damage=$($attack.damage), Text=$($attack.text)"
+                    $attackDescription = "$($attack.name): Cost=[$($attack.cost -join ', ')], Damage=$($attack.damage), Text=$($attack.text)"
                     $attackDescriptions += $attackDescription
                 }
                 $attacksFormatted = $attackDescriptions -join " | "

@@ -32,7 +32,7 @@ foreach ($jsonFile in $jsonFiles) {
                 #Format attacks into a single string
                 $attackDescriptions =@()
                 foreach ($attack in $card.attacks) {
-                    $attackDescription = "$($attack.name): Cost=[$($attackk.cost -join ', ')], Damage=$($attack.damage), Text=$($attack.text)"
+                    $attackDescription = "$($attack.name): Cost=[$($attack.cost -join ', ')], Damage=$($attack.damage), Text=$($attack.text)"
                     $attackDescriptions += $attackDescription
                 }
                 $attacksFormatted = $attackDescriptions -join " | "
@@ -47,7 +47,7 @@ foreach ($jsonFile in $jsonFiles) {
                     Rarity      = $card.rarity
                     Attacks     = $attacksFormatted
                 }       
-                $csvRows += $csvRow
+                $csvRows += [PSCustomObject]$csvRow
             }
         }
     }
@@ -64,4 +64,3 @@ foreach ($jsonFile in $jsonFiles) {
 }
 
 Write-Host "All JSON files have been processed and CSVs created."
-t
