@@ -74,26 +74,6 @@
 "col1-73","Teddiursa","Pokemon","50","Colorless","Common","Colorless","1","","","Fake Tears","Colorless","1","","Flip a coin. If heads, your opponent can't play any Trainer cards from his or her hand during your opponent's next turn, and any damage done to Teddiursa by attack is reduced by 30 (after applying weakness and resistance).","","","","","","Fighting","x2"
 "col1-74","Totodile","Pokemon","60","Water","Common","Colorless, Colorless","2","","","Aqua Tail","Water, Colorless, Colorless","3","30+","Flip a coin for each Water Energy attached to Totodile. This attack does 30 damage plus 20 more damage for each heads.","","","","","","Lightning","x2"
 "col1-75","Vulpix","Pokemon","50","Fire","Common","Colorless","1","","","Singe","Fire","1","","Flip a coin. If heads, the Defending Pokemon is now Burned.","Ember","Fire, Colorless","2","30","Flip a coin. If tails, discard a Fire Energy attached to Vulpix.","Water","x2"
-"col1-76","Cheerleader's Cheer","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"col1-77","Copycat","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"col1-78","Dual Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"col1-79","Interviewer's Questions","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"col1-80","Lost Remover","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"col1-81","Lost World","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"col1-82","Professor Elm's Training Method","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"col1-83","Professor Oak's New Theory","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"col1-84","Research Record","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"col1-85","Sage's Training","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"col1-86","Darkness Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"col1-87","Metal Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"col1-88","Grass Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"col1-89","Fire Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"col1-90","Water Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"col1-91","Lightning Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"col1-92","Psychic Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"col1-93","Fighting Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"col1-94","Darkness Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"col1-95","Metal Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
 "col1-SL1","Deoxys","Pokemon","80","Psychic","Rare Holo","Colorless","1","","","Cell Storm","Psychic, Psychic, Psychic","3","60","Discard 2 Psychic Energy attached to Deoxys and remove 6 damage counters from Deoxys.","","","","","","Psychic","x2"
 "col1-SL2","Dialga","Pokemon","100","Metal","Rare Holo","Colorless, Colorless, Colorless","3","","","Time Rewind","Metal, Metal, Metal, Metal","4","70","Shuffle your hand into your deck.","","","","","","Fire","x2"
 "col1-SL3","Entei","Pokemon","90","Fire","Rare Holo","Colorless, Colorless","2","Extreme Speed","Entei's Retreat Cost is Colorless Energy less for each Fire Energy attached to Entei.","Wild Blaze","Fire, Fire, Colorless","3","70","Discard the top 3 cards of your deck.","","","","","","Water","x2"

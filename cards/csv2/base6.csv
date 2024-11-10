@@ -98,14 +98,3 @@
 "base6-97","Voltorb","Pokemon","40","Lightning","Common","Colorless","1","","","Tackle","Colorless","1","10","","","","","","","Fighting","x2"
 "base6-98","Vulpix","Pokemon","50","Fire","Common","Colorless","1","","","Confuse Ray","Fire, Fire","2","10","Flip a coin. If heads, the Defending Pokemon is now Confused.","","","","","","Water","x2"
 "base6-99","Weedle","Pokemon","40","Grass","Common","Colorless","1","","","Poison Sting","Grass","1","10","Flip a coin. If heads, the Defending Pokemon is now Poisoned.","","","","","","Fire","x2"
-"base6-100","Full Heal Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"base6-101","Potion Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"base6-102","Pokemon Breeder","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"base6-103","Pokemon Trader","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"base6-104","Scoop Up","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"base6-105","The Boss's Way","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"base6-106","Challenge!","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"base6-107","Energy Retrieval","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"base6-108","Bill","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"base6-109","Mysterious Fossil","Trainer","10","","Common","","0","","","","","","","","","","","","",,
-"base6-110","Potion","Trainer",,"","Common","","0","","","","","","","","","","","","",,

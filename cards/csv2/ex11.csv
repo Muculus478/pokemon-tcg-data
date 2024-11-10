@@ -87,22 +87,3 @@
 "ex11-86","Taillow","Pokemon","40","Colorless","Common","Colorless","1","","","Skill Dive","Colorless","1","","Does 10 damage to 1 of your opponent's Pokemon. (Don't apply Weakness and Resistance for Benched Pokemon.)","","","","","","Lightning","x2"
 "ex11-87","Weedle","Pokemon","50","Grass","Common","Colorless","1","","","String Shot","Colorless","1","10","Flip a coin. If heads, the Defending Pokemon is now Paralyzed.","","","","","","Fire","x2"
 "ex11-88","Zubat","Pokemon","50","Grass","Common","Colorless","1","","","Poison Fang","Grass","1","10","Flip a coin. If heads, the Defending Pokemon is now Poisoned.","","","","","","Psychic","x2"
-"ex11-89","Dual Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex11-90","Great Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex11-91","Holon Farmer","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex11-92","Holon Lass","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex11-93","Holon Mentor","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex11-94","Holon Research Tower","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex11-95","Holon Researcher","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex11-96","Holon Ruins","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex11-97","Holon Scientist","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex11-98","Holon Transceiver","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex11-99","Master Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex11-100","Super Scoop Up","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex11-101","Potion","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"ex11-102","Switch","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"ex11-103","Darkness Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,
-"ex11-104","Holon Energy FF","Energy",,"","Rare","","0","","","","","","","","","","","","",,
-"ex11-105","Holon Energy GL","Energy",,"","Rare","","0","","","","","","","","","","","","",,
-"ex11-106","Holon Energy WP","Energy",,"","Rare","","0","","","","","","","","","","","","",,
-"ex11-107","Metal Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,

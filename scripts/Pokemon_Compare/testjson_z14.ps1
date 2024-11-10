@@ -9,12 +9,8 @@ if (!(Test-Path -Path $csv2FolderPath)) {
 
 # Define the rarities you want to include
 $includedRarities = @('Common', 'Uncommon', 'Rare', 'Rare Holo', 'Promo')
+$includedSuperTypes = @('Pokémon')
 $excludedSubTypes = @('GX', 'ex', 'EX', 'V', 'VMAX', 'V-UNION', 'Star', 'VSTAR', 'BREAK', 'Radiant')
-
-# Create output directory if it doesn't exist
-if (!(Test-Path -Path $csv2FolderPath)) {
-    New-Item -ItemType Directory -Path $csv2FolderPath
-}
 
 # Convert each JSON file in the specified folder
 Get-ChildItem -Path $jsonFolderPath -Filter "*.json" | ForEach-Object {
@@ -25,6 +21,9 @@ Get-ChildItem -Path $jsonFolderPath -Filter "*.json" | ForEach-Object {
     $flattenedData = foreach ($card in $jsonContent) {
         # Skip cards that do not match the included rarities
         if ($null -eq $card.rarity -or -not $includedRarities.Contains($card.rarity)) {
+            continue
+        }
+        if ($null -eq $card.rarity -or -not $includedSuperTypes.Contains($card.supertype)) {
             continue
         }
 
@@ -101,4 +100,3 @@ Get-ChildItem -Path $jsonFolderPath -Filter "*.json" | ForEach-Object {
     (Get-Content $outputCsv) -replace '×', 'x' | Set-Content $outputCsv
     Write-Host "Exported $outputCsv"
 }
-r

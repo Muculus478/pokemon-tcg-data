@@ -80,20 +80,6 @@
 "dp7-79","Treecko","Pokemon","50","Grass","Common","Colorless","1","","","Call for Friends","Colorless","1","","Search your deck for a Basic Pokemon, show it to your opponent, and put it into your hand. Shuffle your deck afterward.","Poison Breath","Grass","1","","Flip a coin. If heads, the Defending Pokemon is now Poisoned.","Fire","+10"
 "dp7-80","Voltorb","Pokemon","60","Lightning","Common","Colorless","1","","","Screech","","0","","If an attack does damage to the Defending Pokemon (after applying Weakness and Resistance), that attack does 20 more damage to that Pokemon until the end of your next turn.","Double Spin","Colorless","1","10x","Flip 2 coins. This attack does 10 damage times the number of heads.","Fighting","+10"
 "dp7-81","Voltorb","Pokemon","60","Lightning","Common","Colorless","1","","","Outlet","Colorless","1","","Search your deck for a Lightning Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.","Bouncing Ball","Lightning","1","20","Flip a coin. If tails, Voltorb does 10 damage to itself.","Fighting","+10"
-"dp7-82","Conductive Quarry","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp7-83","Energy Link","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp7-84","Energy Switch","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp7-85","Great Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp7-86","Luxury Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp7-87","Marley's Request","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp7-88","Poke Blower +","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp7-89","Poke Drawer +","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp7-90","Poke Healer +","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp7-91","Premier Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp7-92","Potion","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"dp7-93","Switch","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"dp7-94","Cyclone Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp7-95","Warp Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
 "dp7-SH1","Drifloon","Pokemon","50","Psychic","Rare","","0","Unburden","If Drifloon has a Pokemon Tool card attached to it, Drifloon's Retreat Cost is ColorlessColorless more.","Tackle","Colorless","1","10","","Big Explosion","Psychic, Colorless","2","50","Drifloon does 50 damage to itself.","Darkness","+10"
 "dp7-SH2","Duskull","Pokemon","60","Psychic","Rare","Colorless","1","","","Counting Song","","0","","Put up to 3 damage counters on Duskull. Then, put that many damage counters on the Defending Pokemon.","Ram","Psychic","1","10","","Darkness","+10"
 "dp7-SH3","Voltorb","Pokemon","60","Lightning","Rare","Colorless","1","","","Fastball","Colorless","1","","Choose 1 of your opponent's Pokemon. Flip a coin. If heads, this attack does 20 damage to that Pokemon. (Don't apply Weakness and Resistance for Benched Pokemon.)","Charge Beam","Lightning","1","10","Search your discard pile for a Lightning Energy card and attach it to Voltorb.","Fighting","+10"

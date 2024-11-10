@@ -132,13 +132,6 @@
 "pl3-131","Turtwig","Pokemon","60","Grass","Common","Colorless, Colorless","2","","","Shell Attack","Colorless","1","10","","Stomp","Grass, Colorless, Colorless","3","20+","Flip a coin. If heads, this attack does 20 damage plus 10 more damage.","Fire","+10"
 "pl3-132","Whismur","Pokemon","60","Colorless","Common","Colorless","1","","","Tone-Deaf","Colorless","1","","Flip a coin. If heads, the Defending Pokemon is now Confused.","Rollout","Colorless, Colorless","2","20","","Fighting","+10"
 "pl3-133","Zubat","Pokemon","50","Psychic","Common","Colorless","1","","","Quick Turn","Colorless","1","10x","Flip 2 coins. This attack does 10 damage times the number of heads.","","","","","","Psychic","+10"
-"pl3-134","Battle Tower","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"pl3-135","Champion's Room","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"pl3-136","Cynthia's Guidance","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"pl3-137","Cyrus's Initiative","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"pl3-138","Night Teleporter","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"pl3-139","Palmer's Contribution","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"pl3-140","VS Seeker","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
 "pl3-SH7","Milotic","Pokemon","80","Water","Rare","Colorless","1","Aqua Mirage","If you have no cards in your hand, prevent all damage done to Milotic by attacks from your opponent's Pokemon.","Dwindling Wave","Water, Water, Colorless","3","80-","Does 80 damage minus 10 damage for each damage counter on Milotic.","","","","","","Lightning","+20"
 "pl3-SH8","Relicanth","Pokemon","80","Fighting","Rare","Colorless","1","","","Deep Sea Pressure","Fighting, Colorless","2","20","During your opponent's next turn, the Defending Pokemon's Retreat Cost is ColorlessColorless more.","Aqua Wave","Fighting, Colorless, Colorless","3","40+","Flip 2 coins. This attack does 40 damage plus 10 more damage for each heads.","Grass","+20"
 "pl3-SH9","Yanma","Pokemon","70","Grass","Rare","Colorless","1","","","Sonicboom","Colorless","1","10","This attack's damage isn't affected by Weakness or Resistance.","Baton Pass","Grass, Colorless, Colorless","3","30","You may switch Yanma with 1 of your Benched Pokemon. If you do, move as many Energy cards attached to Yanma as you like to the new Active Pokemon.","Lightning","+20"

@@ -82,12 +82,3 @@
 "ex5-81","Vulpix","Pokemon","50","Fire","Common","Colorless","1","","","Scratch","Colorless","1","10","","Ascension","Fire","1","","Search your deck for a card that evolves from Vulpix and put it on Vulpix. (This counts as evolving Vulpix.) Shuffle your deck afterward.","Water","x2"
 "ex5-82","Whismur","Pokemon","50","Colorless","Common","Colorless","1","","","Wail","Colorless","1","10","Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon.","","","","","","Fighting","x2"
 "ex5-83","Zubat","Pokemon","50","Grass","Common","Colorless","1","","","Quick Turn","Colorless","1","10x","Flip 2 coins. This attack does 10 damage times the number of heads.","Surprise","Grass","1","","Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck.","Psychic","x2"
-"ex5-84","Ancient Technical Machine [Ice]","Trainer",,"","Uncommon","","0","","","Ice Generator","Colorless","1","","Discard all of your opponent's Trainer cards in play. If you do, prevent all effects, including damage, done to the Pokemon using this attack during your opponent's next turn.","","","","","",,
-"ex5-85","Ancient Technical Machine [Rock]","Trainer",,"","Uncommon","","0","","","Stone Generator","Colorless","1","","If your opponent has any Evolved Pokemon in play, remove the highest Stage Evolution card from each of them and put those cards back into his or her hand.","","","","","",,
-"ex5-86","Ancient Technical Machine [Steel]","Trainer",,"","Uncommon","","0","","","Steel Generator","Colorless, Colorless","2","","If the Defending Pokemon has a Poke-Power or Poke-Body, choose up to 2 basic Energy cards attached to 1 of your opponent's Pokemon and attach them to the Defending Pokemon.","","","","","",,
-"ex5-87","Ancient Tomb","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex5-88","Desert Ruins","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex5-89","Island Cave","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex5-90","Life Herb","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex5-91","Magnetic Storm","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex5-92","Steven's Advice","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,

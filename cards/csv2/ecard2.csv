@@ -116,36 +116,6 @@
 "ecard2-115","Voltorb","Pokemon","40","Lightning","Common","Colorless","1","","","Swift","Lightning","1","20","This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on the Defending Pokemon.","","","","","","Fighting","x2"
 "ecard2-116","Vulpix","Pokemon","50","Fire","Common","Colorless","1","","","Collect Fire","Fire","1","10","If there are any Fire Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Vulpix.","","","","","","Water","x2"
 "ecard2-117","Wooper","Pokemon","40","Water","Common","Colorless","1","","","Bubble","Water","1","10","Flip a coin. If heads, the Defending Pokemon is now Paralyzed.","Wave Splash","Water, Colorless","2","20","","Lightning","x2"
-"ecard2-118","Apricorn Forest","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"ecard2-119","Darkness Cube 01","Trainer",,"","Uncommon","","0","","","Plunder","Darkness","1","10","Before doing damage, discard any Trainer cards attached to the Defending Pokemon.","","","","","",,
-"ecard2-120","Energy Switch","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-121","Fighting Cube 01","Trainer",,"","Uncommon","","0","","","Violent Rage","Fighting","1","10x","Flip a number of coins equal to the number of damage counters on this Pokemon. This attack does 10 damage times the number of heads.","","","","","",,
-"ecard2-122","Fire Cube 01","Trainer",,"","Uncommon","","0","","","Singe","Fire","1","","The Defending Pokemon is now Burned.","","","","","",,
-"ecard2-123","Forest Guardian","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-124","Grass Cube 01","Trainer",,"","Uncommon","","0","","","Sleep Poison","Grass","1","","The Defending Pokemon is now Asleep and Poisoned.","","","","","",,
-"ecard2-125","Healing Berry","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-126","Juggler","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-127","Lightning Cube 01","Trainer",,"","Uncommon","","0","","","Discharge","Lightning","1","40x","Discard all Lightning Energy cards attached to this Pokemon. Then, flip a number of coins equal to the number of Energy cards discarded that way. This attack does 40 damage times the number of heads.","","","","","",,
-"ecard2-128","Memory Berry","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-129","Metal Cube 01","Trainer",,"","Uncommon","","0","","","Metal Reversal","Metal","1","10","Before doing damage, you may choose 1 of your opponent's Benched Pokemon and switch it with the Defending Pokemon.","","","","","",,
-"ecard2-130","Pokemon Fan Club","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-131","Pokemon Park","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-132","Psychic Cube 01","Trainer",,"","Uncommon","","0","","","Psy Confuse","Psychic","1","","The Defending Pokemon is now Confused.","","","","","",,
-"ecard2-133","Seer","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-134","Super Energy Removal 2","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-135","Time Shard","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-136","Town Volunteers","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-137","Traveling Salesman","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-138","Undersea Ruins","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-139","Power Plant","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-140","Water Cube 01","Trainer",,"","Uncommon","","0","","","Splatter","Water","1","","Choose 1 of your opponent's Pokemon. This attack does 20 damage to that Pokemon. Don't apply Weakness or Resistance.","","","","","",,
-"ecard2-141","Weakness Guard","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-142","Darkness Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,
-"ecard2-143","Metal Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,
-"ecard2-144","Rainbow Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,
-"ecard2-145","Boost Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-146","Crystal Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ecard2-147","Warp Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
 "ecard2-H1","Ampharos","Pokemon","100","Lightning","Rare Holo","Colorless, Colorless","2","","","Thundershock","Lightning","1","20","Flip a coin. If heads, the Defending Pokemon is now Paralyzed.","Reflect Energy","Lightning, Lightning, Colorless","3","50","If you have any Benched Pokemon and if there are any basic Energy cards attached to Ampharos, take 1 of those Energy cards and attach it to 1 of those Pokemon.","Fighting","x2"
 "ecard2-H2","Arcanine","Pokemon","90","Fire","Rare Holo","Colorless, Colorless, Colorless","3","Extreme Speed","You pay Colorless less to retreat Arcanine for each Energy attached to it.","Fire Blow","Colorless, Colorless, Colorless","3","30+","You may discard any number of Fire Energy cards attached to Arcanine when you use this attack. If you do, flip a number of coins equal to the number of Fire Energy cards you discarded. This attack does 30 damage plus 30 more damage for each heads.","","","","","","Water","x2"
 "ecard2-H3","Ariados","Pokemon","70","Grass","Rare Holo","","0","Gluey Slime","As long as Ariados is in play, each player must pay an additional Colorless to retreat his or her Active Pokemon. Gluey Slime can't make a player pay more than an additional Colorless to retreat a Pokemon, even if there is more than 1 Ariados in play.","Spider Force","Grass, Colorless","2","20+","Flip a coin. If heads, this attack does 20 damage plus 10 more damage. If tails, this attack does 20 damage and the defending Pokemon is now Paralyzed.","","","","","","Fire","x2"

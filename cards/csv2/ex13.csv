@@ -83,23 +83,3 @@
 "ex13-82","Surskit","Pokemon","40","Grass","Common","Colorless","1","","","Super Hypno Wave","Colorless","1","10","The Defending Pokemon is now Asleep.","","","","","","Fire","x2"
 "ex13-83","Torchic","Pokemon","40","Fire","Common","Colorless","1","","","Peck","Colorless","1","10","","Flare","Fire, Colorless","2","20","","Water","x2"
 "ex13-84","Trapinch δ","Pokemon","50","Grass","Common","Colorless","1","","","Big Bite","Grass","1","10","The Defending Pokemon can't retreat during your opponent's next turn.","Mud Slap","Colorless, Colorless","2","20","","Grass","x2"
-"ex13-85","Holon Adventurer","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex13-86","Holon Fossil","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex13-87","Holon Lake","Trainer",,"","Uncommon","","0","","","Delta Call","Colorless","1","","Search your deck for a Pokemon that has δ on its card, show it to your opponent, and put it into your hand. Shuffle your deck afterward.","","","","","",,
-"ex13-88","Mr. Stone's Project","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex13-89","Professor Cozmo's Discovery","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex13-90","Rare Candy","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex13-91","Claw Fossil","Trainer","40","","Common","","0","Jagged Stone","If Claw Fossil is your Active Pokemon and is damaged by an opponent's attack (even if Claw Fossil is Knocked Out), put 1 damage counter on the Attacking Pokemon.","","","","","","","","","","",,
-"ex13-92","Mysterious Fossil","Trainer","50","","Common","","0","","","","","","","","","","","","",,
-"ex13-93","Root Fossil","Trainer","40","","Common","","0","Spongy Stone","At any times between turns, remove 1 damage counter from Root Fossil.","","","","","","","","","","",,
-"ex13-94","Darkness Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,
-"ex13-95","Metal Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,
-"ex13-96","Multi Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,
-"ex13-97","Dark Metal Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex13-98","δ Rainbow Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex13-105","Grass Energy","Energy",,"","Rare Holo","","0","","","","","","","","","","","","",,
-"ex13-106","Fire Energy","Energy",,"","Rare Holo","","0","","","","","","","","","","","","",,
-"ex13-107","Water Energy","Energy",,"","Rare Holo","","0","","","","","","","","","","","","",,
-"ex13-108","Lightning Energy","Energy",,"","Rare Holo","","0","","","","","","","","","","","","",,
-"ex13-109","Psychic Energy","Energy",,"","Rare Holo","","0","","","","","","","","","","","","",,
-"ex13-110","Fighting Energy","Energy",,"","Rare Holo","","0","","","","","","","","","","","","",,

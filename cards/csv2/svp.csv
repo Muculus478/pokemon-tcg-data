@@ -31,7 +31,6 @@
 "svp-42","Houndstone","Pokemon","130","Psychic","Promo","Colorless, Colorless, Colorless","3","","","Delve","Colorless, Colorless","2","","Put up to 2 Item cards from your discard pile into your hand.","Spooky Shot","Psychic, Colorless, Colorless","3","100","","Darkness","x2"
 "svp-43","Eevee","Pokemon","60","Colorless","Promo","Colorless","1","","","Call for Family","Colorless","1","","Search your deck for a Basic Pokemon and put it onto your Bench. Then, shuffle your deck.","Tackle","Colorless, Colorless, Colorless","3","30","","Fighting","x2"
 "svp-44","Charmander","Pokemon","60","Fire","Promo","Colorless","1","","","Heat Tackle","Fire","1","30","This Pokemon also does 10 damage to itself.","","","","","","Water","x2"
-"svp-45","Paradise Resort","Trainer",,"","Promo","","0","","","","","","","","","","","","",,
 "svp-46","Bulbasaur","Pokemon","70","Grass","Promo","Colorless, Colorless","2","","","Vine Whip","Grass, Colorless, Colorless","3","50","","","","","","","Fire","x2"
 "svp-47","Charmander","Pokemon","70","Fire","Promo","Colorless","1","","","Ember","Fire, Fire","2","40","Discard an Energy from this Pokemon.","","","","","","Water","x2"
 "svp-48","Squirtle","Pokemon","70","Water","Promo","Colorless, Colorless","2","","","Bubble","Water, Water","2","20","Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed.","","","","","","Lightning","x2"
@@ -78,7 +77,6 @@
 "svp-111","Pawniard","Pokemon","70","Darkness","Promo","Colorless","1","","","Pierce","Darkness","1","10","","","","","","","Grass","x2"
 "svp-112","Bisharp","Pokemon","100","Darkness","Promo","Colorless","1","","","Cut","Darkness","1","30","","","","","","","Grass","x2"
 "svp-113","Kingambit","Pokemon","170","Darkness","Promo","Colorless, Colorless","2","","","Elbow Strike","Darkness","1","40","","Slicing Blade","Darkness, Colorless","2","100","","Grass","x2"
-"svp-114","Picnicker","Trainer",,"","Promo","","0","","","","","","","","","","","","",,
 "svp-115","Thwackey","Pokemon","100","Grass","Promo","Colorless, Colorless","2","Boom Boom Groove","Once during your turn, if your Active Pokemon has the Festival Lead Ability, you may search your deck for a card and put it into your hand. Then, shuffle your deck.","Beat","Grass, Grass","2","50","","","","","","","Fire","x2"
 "svp-116","Infernape","Pokemon","140","Fire","Promo","Colorless","1","Pyro Dance","Once during your turn, you may attach a Basic Fire Energy card, a Basic Fighting Energy card, or 1 of each from your hand to your Pokemon in any way you like.","Scorching Fire","Fire, Fire, Colorless","3","200","Discard an Energy from this Pokemon.","","","","","","Water","x2"
 "svp-117","Froslass","Pokemon","90","Water","Promo","Colorless","1","Freezing Shroud","During Pokemon Checkup, put 1 damage counter on each Pokemon that has an Ability (both yours and your opponent's), except any Froslass.","Frost Smash","Water, Colorless","2","60","","","","","","","Metal","x2"
@@ -88,5 +86,4 @@
 "svp-121","Revavroom","Pokemon","140","Metal","Promo","Colorless, Colorless, Colorless","3","","","Swagger","Metal","1","","Flip a coin. If heads, discard an Energy from your opponent's Active Pokemon.","Huge Tackle","Colorless, Colorless, Colorless","3","70+","If you have more cards in your hand than your opponent, this attack does 80 more damage.","Fire","x2"
 "svp-122","Snorlax","Pokemon","160","Colorless","Promo","Colorless, Colorless, Colorless","3","","","Lazy Press","Colorless, Colorless, Colorless, Colorless","4","120","","","","","","","Fighting","x2"
 "svp-123","Teal Mask Ogerpon","Pokemon","110","Grass","Promo","Colorless","1","","","Mountain Stroll","Colorless","1","","Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.","Ogre Comeback","Grass, Colorless","2","20+","This attack does 20 more damage for each of your opponent's Benched Pokemon.","Fire","x2"
-"svp-124","Iono","Trainer",,"","Promo","","0","","","","","","","","","","","","",,
 "svp-148","Miraidon","Pokemon","120","Lightning","Promo","Colorless","1","","","Electric Claws","Lightning","1","30","","Mach Bolt","Lightning, Lightning","2","60","","Fighting","x2"

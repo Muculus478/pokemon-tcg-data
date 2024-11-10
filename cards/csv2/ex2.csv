@@ -84,11 +84,3 @@
 "ex2-83","Wailmer","Pokemon","80","Water","Common","Colorless, Colorless, Colorless","3","","","Rollout","Colorless, Colorless","2","20","","Super Hypno Wave","Water, Colorless, Colorless","3","30","The Defending Pokemon is now Asleep.","Lightning","x2"
 "ex2-84","Wingull","Pokemon","40","Water","Common","Colorless","1","","","Supersonic","Colorless","1","","Flip a coin. If heads, the Defending Pokemon is now Confused.","","","","","","Lightning","x2"
 "ex2-85","Zigzagoon","Pokemon","40","Colorless","Common","Colorless","1","","","Collect","Colorless","1","","Draw a card.","Headbutt","Colorless, Colorless","2","20","","Fighting","x2"
-"ex2-86","Double Full Heal","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex2-87","Lanette's Net Search","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex2-88","Rare Candy","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex2-89","Wally's Training","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex2-90","Claw Fossil","Trainer","40","","Common","","0","Jagged Stone","If Claw Fossil is your Active Pokemon and is damaged by an opponent's attack (even if Claw Fossil is Knocked Out), put 1 damage counter on the Attacking Pokemon.","","","","","","","","","","",,
-"ex2-91","Mysterious Fossil","Trainer","10","","Common","","0","","","","","","","","","","","","",,
-"ex2-92","Root Fossil","Trainer","40","","Common","","0","Spongy Stone","At any time between turns, remove 1 damage counter from Root Fossil.","","","","","","","","","","",,
-"ex2-93","Multi Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,

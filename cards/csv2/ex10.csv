@@ -78,27 +78,6 @@
 "ex10-77","Teddiursa","Pokemon","40","Colorless","Common","Colorless","1","","","Teary Eyes","Colorless","1","","During your opponent's next turn, any damage done to Teddiursa by attacks is reduced by 20 (after applying Weakness and Resistance).","Scratch","Colorless","1","10","","Fighting","x2"
 "ex10-78","Totodile","Pokemon","50","Water","Common","Colorless","1","","","Splatter","Colorless","1","","Choose 1 of your opponent's Pokemon. This attack does 10 damage to that Pokemon. This attack's damage isn't affected by Weakness or Resistance.","","","","","","Lightning","x2"
 "ex10-79","Wooper","Pokemon","50","Fighting","Common","Colorless","1","","","Mud Shot","Colorless","1","10","","Tail Whap","Colorless, Colorless","2","20","","Grass","x2"
-"ex10-80","Curse Powder","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-81","Energy Recycle System","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-82","Energy Removal 2","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-83","Energy Root","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-84","Energy Switch","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-85","Fluffy Berry","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-86","Mary's Request","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-87","Poke Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-88","Pokemon Reversal","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-89","Professor Elm's Training Method","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-90","Protective Orb","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-91","Sitrus Berry","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-92","Solid Rage","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-93","Warp Point","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-94","Energy Search","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"ex10-95","Potion","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"ex10-96","Darkness Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,
-"ex10-97","Metal Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,
-"ex10-98","Boost Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-99","Cyclone Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex10-100","Warp Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
 "ex10-A","Unown","Pokemon","60","Psychic","Rare","Colorless","1","Shuffle","Once during your turn (before your attack), you may search your deck for another Unown and switch it with Unown. (Any cards attached to Unown, damage counters, Special Conditions, and effects on it are now on the new Pokemon.) If you do, put Unown on top of your deck. Shuffle your deck afterward. You can't use more than 1 Shuffle Poke-Power each turn.","Hidden Power","Colorless, Colorless","2","","Search your deck for up to 2 Supporter cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward.","","","","","","Psychic","x2"
 "ex10-B","Unown","Pokemon","60","Psychic","Rare","Colorless","1","Shuffle","Once during your turn (before your attack), you may search your deck for another Unown and switch it with Unown. (Any cards attached to Unown, damage counters, Special Conditions, and effects on it are now on the new Pokemon.) If you do, put Unown on top of your deck. Shuffle your deck afterward. You can't use more than 1 Shuffle Poke-Power each turn.","Hidden Power","Colorless, Colorless, Colorless","3","","Count the number of cards in your opponent's hand. Put that many damage counters on the Defending Pokemon.","","","","","","Psychic","x2"
 "ex10-C","Unown","Pokemon","60","Psychic","Rare","Colorless","1","Shuffle","Once during your turn (before your attack), you may search your deck for another Unown and switch it with Unown. (Any cards attached to Unown, damage counters, Special Conditions, and effects on it are now on the new Pokemon.) If you do, put Unown on top of your deck. Shuffle your deck afterward. You can't use more than 1 Shuffle Poke-Power each turn.","Hidden Power","Colorless","1","","Search your opponent's discard pile for a Supporter card and use the effect of that card as the effect of this attack. (The Supporter card remains in your opponent's discard pile.)","","","","","","Psychic","x2"

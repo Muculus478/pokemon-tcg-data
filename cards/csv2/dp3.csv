@@ -117,15 +117,3 @@
 "dp3-116","Venonat","Pokemon","50","Grass","Common","Colorless","1","","","Stun Spore","Colorless","1","","Flip a coin. If heads, the Defending Pokemon is now Paralyzed.","Signal Beam","Grass","1","10","Flip a coin. If heads, the Defending Pokemon is now Confused.","Fire","+10"
 "dp3-117","Voltorb","Pokemon","50","Lightning","Common","Colorless","1","","","Speed Ball","Lightning","1","20","","Big Explosion","Lightning, Colorless","2","50","Voltorb does 50 damage to itself.","Fighting","+10"
 "dp3-118","Wooper","Pokemon","60","Water","Common","Colorless","1","","","Yawn","Colorless","1","","The Defending Pokemon is now Asleep.","Splatter","Water","1","","Choose 1 of your opponent's Pokemon. This attack does 10 damage to that Pokemon. This attack's damage isn't affected by Weakness or Resistance.","Grass","+20"
-"dp3-119","Bebe's Search","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp3-120","Night Maintenance","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp3-121","PlusPower","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp3-122","Professor Oak's Visit","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp3-123","Professor Rowan","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp3-124","Rival","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp3-125","Roseanne's Research","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp3-126","Team Galactic's Mars","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp3-127","Potion","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"dp3-128","Switch","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"dp3-129","Darkness Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp3-130","Metal Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,

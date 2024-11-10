@@ -45,31 +45,6 @@
 "g1-56","Dodrio","Pokemon","90","Colorless","Rare","Colorless","1","Retreat Aid","As long as this Pokemon is on your Bench, your Active Pokemon's Retreat Cost is ColorlessColorless less.","Fury Attack","Colorless, Colorless, Colorless","3","40x","Flip 3 coins. This attack does 40 damage times the number of heads.","","","","","","Lightning","x2"
 "g1-57","Tauros","Pokemon","110","Colorless","Rare","Colorless, Colorless","2","","","Take Down","Colorless","1","30","This Pokemon does 10 damage to itself.","Seething Anger","Colorless, Colorless, Colorless","3","30x","Flip a coin for each damage counter on this Pokemon. This attack does 30 damage times the number of heads.","Fighting","x2"
 "g1-58","Snorlax","Pokemon","130","Colorless","Rare","Colorless, Colorless, Colorless, Colorless","4","Stir and Snooze","If this Pokemon is Asleep, flip 2 coins instead of 1 between turns. If either of them is tails, this Pokemon is still Asleep.","Sleepy Press","Colorless, Colorless, Colorless, Colorless","4","120","Heal 20 damage from this Pokemon. This Pokemon is now Asleep.","","","","","","Fighting","x2"
-"g1-59","Clemont","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-60","Crushing Hammer","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-61","Energy Switch","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-62","Evosoda","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-63","Imakuni?","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-64","Maintenance","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-65","Max Revive","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-66","Olympia","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-67","Poke Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-68","Pokemon Center Lady","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-69","Pokemon Fan Club","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-70","Revitalizer","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-71","Red Card","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-72","Shauna","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-73","Team Flare Grunt","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-74","Double Colorless Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"g1-75","Grass Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"g1-76","Fire Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"g1-77","Water Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"g1-78","Lightning Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"g1-79","Psychic Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"g1-80","Fighting Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"g1-81","Darkness Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"g1-82","Metal Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"g1-83","Fairy Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
 "g1-RC1","Chikorita","Pokemon","50","Grass","Common","Colorless","1","","","Run Around","Colorless","1","","Switch this Pokemon with 1 of your Benched Pokemon.","Vine Whip","Grass, Colorless","2","20","","Fire","x2"
 "g1-RC2","Shroomish","Pokemon","60","Grass","Common","Colorless, Colorless","2","","","Worry Seed","Grass","1","10","Flip a coin. If heads, your opponent's Active Pokemon is now Confused.","","","","","","Fire","x2"
 "g1-RC3","Charmander","Pokemon","70","Fire","Common","Colorless, Colorless","2","","","Playful","Fire, Colorless","2","20x","Flip a coin. If heads, this attack does 20 damage times the number of damage counters on this Pokemon.","","","","","","Water","x2"
@@ -93,5 +68,3 @@
 "g1-RC23","Swablu","Pokemon","40","Colorless","Common","Colorless","1","","","Bind Wound","Colorless","1","","Heal 20 damage from 1 of your Pokemon.","","","","","","Lightning","x2"
 "g1-RC24","Altaria","Pokemon","90","Colorless","Uncommon","Colorless","1","","","Flap","Colorless","1","20","","Fairy Friend","Colorless, Colorless","2","30+","If you have any Fairy Pokemon on your Bench, this attack does 30 more damage.","Lightning","x2"
 "g1-RC25","Fletchling","Pokemon","40","Colorless","Common","Colorless","1","","","Warble","Colorless","1","","Search your deck for up to 2 Fletchling, reveal them, and put them into your hand. Shuffle your deck afterward.","","","","","","Lightning","x2"
-"g1-RC26","Floral Crown","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"g1-RC27","Wally","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,

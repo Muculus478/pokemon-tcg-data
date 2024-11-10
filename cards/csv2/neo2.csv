@@ -70,7 +70,3 @@
 "neo2-69","Unown [O]","Pokemon","40","Psychic","Common","Colorless","1","[Observe]","Once during your turn (before your attack), you may look at 5 cards from the top of your opponent's deck and put them back in the same order.","Hidden Power","Psychic","1","10","","","","","","","Psychic","x2"
 "neo2-70","Weedle","Pokemon","40","Grass","Common","Colorless","1","","","Spike Stab","Grass","1","20","Flip a coin. If heads, the Defending Pokemon is now Poisoned. If tails, this attack does nothing (not even damage).","","","","","","Fire","x2"
 "neo2-71","Wooper","Pokemon","50","Water","Common","Colorless","1","","","Slime","Water","1","","If an attack would do damage to Wooper during your opponent's next turn, your opponent flips a coin. If tails, prevent all damage to Wooper from that attack. (Any other effects of that attack happen.)","Tail Slap","Colorless, Colorless","2","20","","Grass","x2"
-"neo2-72","Fossil Egg","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"neo2-73","Hyper Devolution Spray","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"neo2-74","Ruin Wall","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"neo2-75","Energy Ark","Trainer",,"","Common","","0","","","","","","","","","","","","",,

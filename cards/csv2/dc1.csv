@@ -19,15 +19,3 @@
 "dc1-20","Team Aqua's Carvanha","Pokemon","50","Darkness","Common","Colorless","1","","","Fin Smack","Darkness","1","10x","Flip 2 coins. This attack does 10 damage times the number of heads.","","","","","","Lightning","x2"
 "dc1-21","Team Aqua's Sharpedo","Pokemon","90","Darkness","Rare Holo","","0","Aqua Search","Once during your turn (before your attack), you may search your deck for a Team Aqua Pokemon, reveal it, and put it into your hand. Shuffle your deck afterward.","Sharp Fang","Darkness, Colorless, Colorless","3","70","","","","","","","Lightning","x2"
 "dc1-22","Team Magma's Zangoose","Pokemon","90","Colorless","Common","Colorless","1","","","Call for Family","Colorless","1","","Search your deck for up to 2 Basic Team Magma Pokemon and put them onto your Bench. Shuffle your deck afterward.","Team Play","Colorless, Colorless, Colorless","3","20x","This attack does 20 damage times the number of Team Magma Pokemon on your Bench.","Fighting","x2"
-"dc1-23","Aqua Diffuser","Trainer",,"","Uncommon","","0","","","Aqua Diffuser","Water","1","","Your opponent's Active Pokemon is now Confused and Poisoned.","","","","","",,
-"dc1-24","Magma Pointer","Trainer",,"","Uncommon","","0","","","Magma Pointer","Fighting","1","","This attack does 20 damage to 1 of your opponent's Pokemon. (Don't apply Weakness and Resistance for Benched Pokemon.)","","","","","",,
-"dc1-25","Team Aqua Admin","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dc1-26","Team Aqua Grunt","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dc1-27","Team Aqua's Great Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dc1-28","Team Aqua's Secret Base","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dc1-29","Team Magma Admin","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dc1-30","Team Magma Grunt","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dc1-31","Team Magma's Great Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dc1-32","Team Magma's Secret Base","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dc1-33","Double Aqua Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dc1-34","Double Magma Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,

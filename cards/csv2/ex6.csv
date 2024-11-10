@@ -85,20 +85,3 @@
 "ex6-84","Venonat","Pokemon","50","Grass","Common","Colorless","1","","","Psycho Waves","Colorless","1","","Discard an Energy card attached to Venonat. The Defending Pokemon is now Confused.","Bite","Grass","1","10","","Fire","x2"
 "ex6-85","Voltorb","Pokemon","50","Lightning","Common","Colorless","1","Floating Electrons","As long as Voltorb has any Energy attached to it, Voltorb's Retreat Cost is 0.","Thundershock","Lightning, Colorless","2","20","Flip a coin. If heads, the Defending Pokemon is now Paralyzed.","","","","","","Fighting","x2"
 "ex6-86","Weedle","Pokemon","50","Grass","Common","Colorless","1","","","Call for Family","Colorless","1","","Search your deck for up to 2 Grass Basic Pokemon and put them onto your Bench. Shuffle your deck afterward.","Poison Spurt","Grass","1","","Discard a Grass Energy card attached to Weedle. The Defending Pokemon is now Poisoned.","Fire","x2"
-"ex6-87","Bill's Maintenance","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex6-88","Celio's Network","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex6-89","Energy Removal 2","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex6-90","Energy Switch","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex6-91","EXP.ALL","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex6-92","Great Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex6-93","Life Herb","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex6-94","Mt. Moon","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex6-95","Poke Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex6-96","PokeDex HANDY909","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex6-97","Pokemon Reversal","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex6-98","Prof. Oak's Research","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex6-99","Super Scoop Up","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex6-100","VS Seeker","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex6-101","Potion","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"ex6-102","Switch","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"ex6-103","Multi Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,

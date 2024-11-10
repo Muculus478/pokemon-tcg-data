@@ -13,9 +13,6 @@
 "base5-12","Dark Slowbro","Pokemon","60","Psychic","Rare Holo","Colorless, Colorless","2","Reel In","When you play Dark Slowbro from your hand, choose up to 3 Basic Pokemon and/or Evolution cards from your discard pile and put them into your hand.","Fickle Attack","Psychic, Psychic","2","40","Flip a coin. If tails, this attack does nothing.","","","","","","Psychic","x2"
 "base5-13","Dark Vileplume","Pokemon","60","Grass","Rare Holo","Colorless, Colorless","2","Hay Fever","No Trainer cards can be played. This power stops working while Dark Vileplume is Asleep, Confused, or Paralyzed.","Petal Whirlwind","Grass, Grass, Grass","3","30x","Flip a coins. This attack does 30 damage times the number of heads. If you get 2 or more heads, Dark Vileplume is now Confused (after doing damage).","","","","","","Fire","x2"
 "base5-14","Dark Weezing","Pokemon","60","Grass","Rare Holo","Colorless","1","","","Mass Explosion","Grass, Colorless","2","20x","Does 20 damage times the total number of Koffings, Weezings, and Dark Weezings in play (Apply Weakness and Resistance.). Then, this attack does 20 damage to each Koffing, Weezing, and Dark Weezing (even your own). Don't apply Weakness and Resistance.","Stun Gas","Grass, Grass, Grass","3","20","Flip a coin. If heads, the Defending Pokemon is now Poisoned; if tails, the Defending Pokemon is now Paralyzed.","Psychic","x2"
-"base5-15","Here Comes Team Rocket!","Trainer",,"","Rare Holo","","0","","","","","","","","","","","","",,
-"base5-16","Rocket's Sneak Attack","Trainer",,"","Rare Holo","","0","","","","","","","","","","","","",,
-"base5-17","Rainbow Energy","Energy",,"","Rare Holo","","0","","","","","","","","","","","","",,
 "base5-18","Dark Alakazam","Pokemon","60","Psychic","Rare","Colorless, Colorless, Colorless","3","","","Teleport Blast","Psychic, Psychic, Colorless","3","30","You may switch Dark Alakazam with 1 of your Benched Pokemon. (Do the damage before switching the Pokemon.)","Mind Shock","Psychic, Psychic, Psychic","3","40","Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)","Psychic","x2"
 "base5-19","Dark Arbok","Pokemon","60","Grass","Rare","Colorless, Colorless","2","","","Stare","Grass, Grass","2","","Choose 1 of your opponent's Pokemon. This attack does 10 damage to that Pokemon. Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.) If that Pokemon has a Pokemon Power, that power stops working until the end of your opponent's next turn.","Poison Vapor","Grass, Grass, Grass","3","10","The Defending Pokemon is now Poisoned. This attack does 10 damage to each of your opponent's Benched Pokemon. (Don't apply Weakness and Resistance for Benched Pokemon.)","Psychic","x2"
 "base5-20","Dark Blastoise","Pokemon","70","Water","Rare","Colorless, Colorless","2","","","Hydrocannon","Water, Water","2","30+","Does 30 damage plus 20 more damage for each Water Energy attached to Dark Blastoise but not used to pay for this attack. You can't add more than 40 damage in this way.","Rocket Tackle","Water, Colorless, Colorless","3","40","Dark Blastoise does 10 damage to itself. Flip a coin. If heads, prevent all damage done to Dark Blastoise during your opponent's next turn. (Any other effects of attacks still happen.)","Lightning","x2"
@@ -69,15 +66,3 @@
 "base5-68","Squirtle","Pokemon","50","Water","Common","Colorless","1","","","Shell Attack","Colorless, Colorless","2","20","","","","","","","Lightning","x2"
 "base5-69","Voltorb","Pokemon","40","Lightning","Common","Colorless","1","","","Speed Ball","Lightning","1","20","","","","","","","Fighting","x2"
 "base5-70","Zubat","Pokemon","40","Grass","Common","","0","","","Ram","Colorless","1","10","","Bite","Grass, Colorless","2","20","","Psychic","x2"
-"base5-71","Here Comes Team Rocket!","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"base5-72","Rocket's Sneak Attack","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"base5-73","The Boss's Way","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"base5-74","Challenge!","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"base5-75","Digger","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"base5-76","Imposter Oak's Revenge","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"base5-77","Nightly Garbage Run","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"base5-78","Goop Gas Attack","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"base5-79","Sleep!","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"base5-80","Rainbow Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,
-"base5-81","Full Heal Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"base5-82","Potion Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,

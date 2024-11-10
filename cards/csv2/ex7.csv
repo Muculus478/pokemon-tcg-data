@@ -81,16 +81,3 @@
 "ex7-80","Voltorb","Pokemon","40","Lightning","Common","Colorless","1","","","Psycho Waves","Colorless","1","","Discard an Energy card attached to Voltorb. The Defending Pokemon is now Confused.","Thunder Wave","Colorless","1","10","Flip a coin. If heads, the Defending Pokemon is now Paralyzed.","Fighting","x2"
 "ex7-81","Wooper","Pokemon","50","Water","Common","Colorless","1","Saturation","When you attach a Water Energy card from your hand to Wooper, remove all Special Conditions and 1 damage counter from Wooper.","Wave Splash","Water","1","10","","","","","","","Grass","x2"
 "ex7-82","Zubat","Pokemon","50","Grass","Common","Colorless","1","","","Dark Streak","Colorless","1","","Flip a coin. If heads, each Defending Pokemon is now Paralyzed.","Ambush","Grass, Colorless","2","20+","Flip a coin. If heads, this attack does 20 damage plus 10 more damage.","Psychic","x2"
-"ex7-83","Copycat","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex7-84","Pokemon Retriever","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex7-85","Pow! Hand Extension","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex7-86","Rocket's Admin.","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex7-87","Rocket's Hideout","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex7-88","Rocket's Mission","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex7-89","Rocket's Poke Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex7-90","Rocket's Tricky Gym","Trainer",,"","Uncommon","","0","","","Feint Attack","Colorless","1","","Does 20 damage to 1 of your opponent's Pokemon. This attack's damage isn't affected by Weakness, Resistance, Poke-Powers, Poke-Bodies, or any other effects on that Pokemon.","","","","","",,
-"ex7-91","Surprise! Time Machine","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex7-92","Swoop! Teleporter","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex7-93","Venture Bomb","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex7-94","Dark Metal Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex7-95","R Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,

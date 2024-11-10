@@ -56,8 +56,3 @@
 "base3-55","Slowpoke","Pokemon","50","Psychic","Common","Colorless","1","","","Spacing Out","Colorless","1","","Flip a coin. If heads, remove a damage counter from Slowpoke. This attack can't be used if Slowpoke has no damage counters on it.","Scavenge","Psychic, Psychic","2","","Discard 1 Psychic Energy card attached to Slowpoke in order to use this attack. Put a Trainer card from your discard pile into your hand.","Psychic","x2"
 "base3-56","Tentacool","Pokemon","30","Water","Common","","0","Cowardice","At any time during your turn (before your attack), you may return Tentacool to your hand. (Discard all cards attached to Tentacool.) This power can't be used the turn you put Tentacool into play or if Tentacool is Asleep, Confused, or Paralyzed.","Acid","Water","1","10","","","","","","","Lightning","x2"
 "base3-57","Zubat","Pokemon","40","Grass","Common","","0","","","Supersonic","Colorless, Colorless","2","","Flip a coin. If heads, the Defending Pokemon is now Confused.","Leech Life","Grass, Colorless","2","10","Remove a number of damage counters from Zubat equal to the damage done to the Defending Pokemon (after applying Weakness and Resistance). If Zubat has fewer damage counters than that, remove all of them.","Psychic","x2"
-"base3-58","Mr. Fuji","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"base3-59","Energy Search","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"base3-60","Gambler","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"base3-61","Recycle","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"base3-62","Mysterious Fossil","Trainer","10","","Common","","0","","","","","","","","","","","","",,

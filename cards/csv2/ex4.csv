@@ -67,23 +67,3 @@
 "ex4-66","Team Magma's Poochyena","Pokemon","50","Darkness","Common","Colorless","1","","","Darkness Call","Colorless","1","","Your opponent switches the Defending Pokemon with 1 of his or her Benched Pokemon, if any.","Sharp Fang","Fighting, Colorless","2","20","","Fighting","x2"
 "ex4-67","Team Magma's Rhyhorn","Pokemon","50","Fighting","Common","Colorless","1","","","Double Stab","Fighting","1","10x","Flip 2 coins. This attack does 10 damage times the number of heads.","Second Strike","Colorless, Colorless","2","10+","If the Defending Pokemon already has at least 2 damage counters on it, this attack does 10 damage plus 20 more damage.","Grass","x2"
 "ex4-68","Team Magma's Rhyhorn","Pokemon","60","Fighting","Common","Colorless, Colorless","2","","","Ram","Colorless","1","10","","Knock Over","Fighting, Colorless","2","10","You may discard any Stadium card in play.","Grass","x2"
-"ex4-69","Team Aqua Schemer","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"ex4-70","Team Magma Schemer","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"ex4-71","Archie","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex4-72","Dual Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex4-73","Maxie","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex4-74","Strength Charm","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex4-75","Team Aqua Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex4-76","Team Aqua Belt","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex4-77","Team Aqua Conspirator","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex4-78","Team Aqua Hideout","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex4-79","Team Aqua Technical Machine 01","Trainer",,"","Uncommon","","0","","","Miracle","Colorless","1","10","Choose 1 Special Condition. The Defending Pokemon is now affected by that Special Condition.","","","","","",,
-"ex4-80","Team Magma Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex4-81","Team Magma Belt","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex4-82","Team Magma Conspirator","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex4-83","Team Magma Hideout","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex4-84","Team Magma Technical Machine 01","Trainer",,"","Uncommon","","0","","","Crushing Magma","Colorless","1","10","Choose an Energy card attached to the Defending Pokemon and put that card at the bottom of your opponent's deck.","","","","","",,
-"ex4-85","Warp Point","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex4-86","Aqua Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex4-87","Magma Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex4-88","Double Rainbow Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,

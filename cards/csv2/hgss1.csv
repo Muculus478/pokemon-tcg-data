@@ -87,28 +87,4 @@
 "hgss1-86","Totodile","Pokemon","60","Water","Common","Colorless","1","","","Gnaw","Water","1","10","","Wave Splash","Water, Colorless","2","20","","Grass","x2"
 "hgss1-87","Vulpix","Pokemon","50","Fire","Common","Colorless","1","","","Singe","Fire","1","","Flip a coin. If heads, the Defending Pokemon is now Burned.","Ember","Fire, Colorless","2","30","Flip a coin. If tails, discard a Fire Energy attached to Vulpix.","Water","x2"
 "hgss1-88","Wooper","Pokemon","50","Water","Common","Colorless","1","","","Tail Whip","Colorless","1","","Flip a coin. If heads, the Defending Pokemon can't attack during your opponent's next turn.","Watering","Water","1","10","","Grass","x2"
-"hgss1-89","Bill","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-90","Copycat","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-91","Energy Switch","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-92","Fisherman","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-93","Full Heal","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-94","Moomoo Milk","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-95","Poke Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-96","Pokegear 3.0","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-97","Pokemon Collector","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-98","Pokemon Communication","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-99","Pokemon Reversal","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-100","Professor Elm's Training Method","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-101","Professor Oak's New Theory","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-102","Switch","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-103","Double Colorless Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-104","Rainbow Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"hgss1-115","Grass Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"hgss1-116","Fire Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"hgss1-117","Water Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"hgss1-118","Lightning Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"hgss1-119","Psychic Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"hgss1-120","Fighting Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"hgss1-121","Darkness Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
-"hgss1-122","Metal Energy","Energy",,"","Common","","0","","","","","","","","","","","","",,
 "hgss1-123","Gyarados","Pokemon","130","Water","Rare Holo","Colorless, Colorless, Colorless","3","","","Thrash","Colorless","1","30+","If heads, this attack does 30 damage plus 20 more damage. If tails, Gyarados does 20 damage to itself.","Heavy Storm","Water, Colorless, Colorless, Colorless","4","70","","Lightning","x2"

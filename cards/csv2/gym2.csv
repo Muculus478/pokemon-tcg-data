@@ -15,10 +15,6 @@
 "gym2-14","Rocket's Mewtwo","Pokemon","70","Psychic","Rare Holo","Colorless, Colorless","2","","","Juxtapose","Psychic","1","","Flip a coin. If heads, switch the number of damage counters on Rocket's Mewtwo with the number of damage counters on the Defending Pokemon (even if it would Knock Out either Pokemon). (It's okay if 1 of the Pokemon has no damage counters on it.)","Hypnoblast","Psychic, Psychic","2","20","Flip a coin. If heads, the Defending Pokemon is now Asleep.","Psychic","x2"
 "gym2-15","Rocket's Zapdos","Pokemon","70","Lightning","Rare Holo","Colorless, Colorless","2","","","Plasma","Lightning","1","20","If there are any Lightning Energy cards in your discard pile, attach 1 of them to Rocket's Zapdos.","Electroburn","Lightning, Lightning, Lightning, Colorless","4","70","Rocket's Zapdos does damage to itself equal to 10 times the number of Lightning Energy cards attached to it.",,
 "gym2-16","Sabrina's Alakazam","Pokemon","80","Psychic","Rare Holo","Colorless, Colorless, Colorless","3","Psylink","Sabrina's Alakazam always has a copy of every attack your Psychic Pokemon in play have (including their Energy costs and anything else required in order to use those attacks, such as discarding Energy cards). This power can't be used if Sabrina's Alakazam is Asleep, Confused, or Paralyzed.","Mega Burn","Psychic, Colorless, Colorless, Colorless","4","60","You can't use this attack during your next turn.","","","","","","Psychic","x2"
-"gym2-17","Blaine","Trainer",,"","Rare Holo","","0","","","","","","","","","","","","",,
-"gym2-18","Giovanni","Trainer",,"","Rare Holo","","0","","","","","","","","","","","","",,
-"gym2-19","Koga","Trainer",,"","Rare Holo","","0","","","","","","","","","","","","",,
-"gym2-20","Sabrina","Trainer",,"","Rare Holo","","0","","","","","","","","","","","","",,
 "gym2-21","Blaine's Ninetales","Pokemon","60","Fire","Rare","Colorless, Colorless","2","Healing Fire","Whenever you attach a Fire Energy card from your hand to Blaine's Ninetales, remove 1 damage counter from it, if it has any. This power stops working when Blaine's Ninetales is Asleep, Confused, or Paralyzed.","Burn Up","Fire, Fire","2","50","Flip a coin. If tails, discard all Fire Energy cards attached to Blaine's Ninetales.","","","","","","Water","x2"
 "gym2-22","Brock's Dugtrio","Pokemon","60","Fighting","Rare","Colorless","1","","","Lie Low","Fighting","1","","All damage done to Brock's Dugtrio during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance).","Earthdrill","Fighting, Fighting, Colorless","3","60","This attack can't be used unless Brock's Dugtrio used its Lie Low attack last turn.","Grass","x2"
 "gym2-23","Giovanni's Nidoqueen","Pokemon","100","Grass","Rare","Colorless, Colorless, Colorless","3","","","Mega Kick","Grass, Grass, Colorless","3","40","","Love Lariat","Grass, Grass, Colorless, Colorless","4","50+","Flip a coin. If heads, this attack does 50 damage plus 50 more damage if you have at least 1 Giovanni's Nidoking on your Bench. If tails, this attack does nothing.","Psychic","x2"
@@ -98,30 +94,3 @@
 "gym2-97","Sabrina's Gastly","Pokemon","40","Psychic","Common","Colorless","1","Gaseous Form","Sabrina's Gastly gets +10 HP for each Psychic Energy card attached to it. This power works even if Sabrina's Gastly is Asleep, Confused, or Paralyzed.","Suffocating Gas","Psychic, Psychic","2","30","","","","","","",,
 "gym2-98","Sabrina's Porygon","Pokemon","40","Colorless","Common","Colorless","1","","","Sharp Point","Colorless","1","10","","Barrier Attack","Colorless, Colorless","2","20","All damage done by attacks to Sabrina's Porygon during your opponent's next turn is reduced by 10 (after applying Weakness and Resistance).","Fighting","x2"
 "gym2-99","Sabrina's Psyduck","Pokemon","50","Water","Common","Colorless","1","","","Scratch","Colorless","1","10","","Random ESP","Psychic","1","20","Flip a coin. If heads, the Defending Pokemon is now Confused. If tails, this attack does no damage and Sabrina's Psyduck is now Confused.","Lightning","x2"
-"gym2-100","Blaine","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"gym2-101","Brock's Protection","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"gym2-102","Chaos Gym","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"gym2-103","Erika's Kindness","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"gym2-104","Giovanni","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"gym2-105","Giovanni's Last Resort","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"gym2-106","Koga","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"gym2-107","Lt. Surge's Secret Plan","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"gym2-108","Misty's Wish","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"gym2-109","Resistance Gym","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"gym2-110","Sabrina","Trainer",,"","Rare","","0","","","","","","","","","","","","",,
-"gym2-111","Blaine's Quiz #2","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"gym2-112","Blaine's Quiz #3","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"gym2-113","Cinnabar City Gym","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"gym2-114","Fuchsia City Gym","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"gym2-115","Koga's Ninja Trick","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"gym2-116","Master Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"gym2-117","Max Revive","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"gym2-118","Misty's Tears","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"gym2-119","Rocket's Minefield Gym","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"gym2-120","Rocket's Secret Experiment","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"gym2-121","Sabrina's Psychic Control","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"gym2-122","Saffron City Gym","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"gym2-123","Viridian City Gym","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"gym2-124","Fervor","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"gym2-125","Transparent Walls","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"gym2-126","Warp Point","Trainer",,"","Common","","0","","","","","","","","","","","","",,

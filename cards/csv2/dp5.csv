@@ -77,21 +77,3 @@
 "dp5-76","Stunky","Pokemon","60","Darkness","Common","Colorless","1","","","Poison Gas","Darkness","1","","Flip a coin. If heads, the Defending Pokemon is now Poisoned.","Slash","Colorless, Colorless","2","20","","Fighting","+10"
 "dp5-77","Turtwig","Pokemon","60","Grass","Common","Colorless, Colorless","2","","","Rollout","Colorless","1","10","","Razor Leaf","Grass, Colorless","2","30","","Fire","+10"
 "dp5-78","Turtwig","Pokemon","60","Grass","Common","Colorless, Colorless","2","","","Bite","Grass, Colorless","2","30","","","","","","","Fire","+10"
-"dp5-79","Dawn Stadium","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp5-80","Dusk Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp5-81","Energy Restore","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp5-82","Fossil Excavator","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp5-83","Mom's Kindness","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp5-84","Old Amber","Trainer","50","","Uncommon","","0","Hard Amber","As long as Old Amber is on your Bench, prevent all damage done to Old Amber by attacks (both yours and your opponent's).","","","","","","","","","","",,
-"dp5-85","Poke Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp5-86","Quick Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp5-87","Super Scoop Up","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp5-88","Warp Point","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp5-89","Dome Fossil","Trainer","50","","Common","","0","Rock Reaction","When you attach a Fighting Energy card from your hand to Dome Fossil (excluding effects of attacks or Poke-Powers), search your deck for a card that evolves from Dome Fossil and put it onto Dome Fossil (this counts as evolving Dome Fossil). Shuffle your deck afterward.","","","","","","","","","","",,
-"dp5-90","Energy Search","Trainer",,"","Common","","0","","","","","","","","","","","","",,
-"dp5-91","Helix Fossil","Trainer","50","","Common","","0","Aqua Reaction","When you attach a Water Energy card from your hand to Helix Fossil (excluding effects of attacks or Poke-Powers), search your deck for a card that evolves from Helix Fossil and put it onto Helix Fossil (this counts as evolving Helix Fossil). Shuffle your deck afterward.","","","","","","","","","","",,
-"dp5-92","Call Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp5-93","Darkness Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp5-94","Health Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp5-95","Metal Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp5-96","Recover Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,

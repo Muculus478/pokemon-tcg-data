@@ -80,18 +80,6 @@
 "pl4-79","Treecko","Pokemon","60","Grass","Common","Colorless","1","","","Pound","Colorless","1","10","","Slash","Grass, Colorless","2","20","","Fire","+10"
 "pl4-80","Wingull","Pokemon","40","Water","Common","Colorless","1","","","Glide","Colorless","1","10","","Slashing Strike","Water, Colorless","2","30","During your next turn, Wingull can't use Slashing Strike.","Lightning","+10"
 "pl4-81","Wingull","Pokemon","50","Water","Common","Colorless","1","","","Rain Splash","Water","1","20","","","","","","","Lightning","+10"
-"pl4-82","Beginning Door","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"pl4-83","Bench Shield","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"pl4-84","Buffer Piece","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"pl4-85","Department Store Girl","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"pl4-86","Energy Restore","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"pl4-87","Expert Belt","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"pl4-88","Lucky Egg","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"pl4-89","Old Amber","Trainer","50","","Common","","0","Hard Amber","As long as Old Amber is on your Bench, prevent all damage done to Old Amber by attacks (both yours and your opponent's).","","","","","","","","","","",,
-"pl4-90","Professor Oak's Visit","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"pl4-91","Ultimate Zone","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"pl4-92","Dome Fossil","Trainer","50","","Common","","0","Rock Reaction","When you attach a Fighting Energy card from your hand to Dome Fossil (excluding effects of attacks or Poke-Powers), search your deck for a card that evolves from Dome Fossil and put it onto Dome Fossil (this counts as evolving Dome Fossil). Shuffle your deck afterward.","","","","","","","","","","",,
-"pl4-93","Helix Fossil","Trainer","50","","Common","","0","Aqua Reaction","When you attach a Water Energy card from your hand to Helix Fossil (excluding effects of attacks or Poke-Powers), search your deck for a card that evolves from Helix Fossil and put it onto Helix Fossil (this counts as evolving Helix Fossil). Shuffle your deck afterward.","","","","","","","","","","",,
 "pl4-SH10","Bagon","Pokemon","50","Colorless","Rare","Colorless","1","Star Barrier","As long as Bagon has any Energy attached to it, Bagon has no Weakness.","Dragon Rage","Colorless","1","40","Flip 2 coins. If either of them is tails, this attack does nothing.","","","","","","Colorless","+10"
 "pl4-SH11","Ponyta","Pokemon","60","Fire","Rare","Colorless","1","Star Barrier","As long as Ponyta has any Energy attached to it, Ponyta has no Weakness.","Blue Fire","Fire, Fire","2","50","Discard all Fire Energy attached to Ponyta.","","","","","","Water","+10"
 "pl4-SH12","Shinx","Pokemon","50","Lightning","Rare","Colorless","1","Star Barrier","As long as Shinx has any Energy attached to it, Shinx has no Weakness.","Payback","Lightning","1","10+","If your opponent has only 1 Prize card left, this attack does 10 damage plus 30 more damage.","","","","","","Fighting","+10"

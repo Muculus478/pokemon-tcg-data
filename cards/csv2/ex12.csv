@@ -70,14 +70,3 @@
 "ex12-69","Wailmer","Pokemon","80","Water","Common","Colorless, Colorless, Colorless","3","","","Double Tackle","Colorless, Colorless","2","","Does 20 damage to each Defending Pokemon.","Whirlpool","Water, Water, Colorless","3","30","Flip a coin. If heads, discard an Energy card attached to the Defending Pokemon.","Lightning","x2"
 "ex12-70","Wurmple","Pokemon","50","Grass","Common","Colorless","1","Poison Payback","If Wurmple is your Active Pokemon and is damaged by an opponent's attack (even if Wurmple is Knocked Out), the Attacking Pokemon is now Poisoned.","String Pull","Colorless","1","","Switch 1 of your opponent's Benched Pokemon with 1 of the Defending Pokemon. Your opponent chooses the Defending Pokemon to switch.","","","","","","Fire","x2"
 "ex12-71","Wynaut","Pokemon","50","Psychic","Common","Colorless","1","Baby Evolution","Once during your turn (before your attack), you may put Wobbuffet from your hand onto Wynaut (this counts as evolving Wynaut) and remove all damage counters from Wynaut.","Confusion Wave","Colorless","1","","Both Wynaut and the Defending Pokemon are now Confused.","","","","","","Psychic","x2"
-"ex12-72","Cursed Stone","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex12-73","Fieldworker","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex12-74","Full Flame","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex12-75","Giant Stump","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex12-76","Power Tree","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex12-77","Strange Cave","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"ex12-78","Claw Fossil","Trainer","40","","Common","","0","Jagged Stone","If Claw Fossil is your Active Pokemon and is damaged by an opponent's attack (even if Claw Fossil is Knocked Out), put 1 damage counter on the Attacking Pokemon.","","","","","","","","","","",,
-"ex12-79","Mysterious Fossil","Trainer","50","","Common","","0","","","","","","","","","","","","",,
-"ex12-80","Root Fossil","Trainer","40","","Common","","0","Spongy Stone","At any time between turns, remove 1 damage counter from Root Fossil.","","","","","","","","","","",,
-"ex12-81","Rainbow Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,
-"ex12-82","React Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,

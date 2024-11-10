@@ -107,15 +107,3 @@
 "dp2-106","Totodile","Pokemon","50","Water","Common","Colorless","1","","","Bite","","0","10","","Shining Fang","Water","1","10+","If the Defending Pokemon already has any damage counters on it, this attack does 10 damage plus 10 more damage.","Lightning","+10"
 "dp2-107","Vulpix","Pokemon","60","Fire","Common","Colorless","1","","","Fire Soul","Fire, Fire","2","20","Does 10 damage to 1 of your opponent's Benched Pokemon. (Don't apply Weakness and Resistance for Benched Pokemon.)","","","","","","Water","+10"
 "dp2-108","Zubat","Pokemon","50","Psychic","Common","Colorless","1","","","Supersonic","Psychic","1","","Flip a coin. If heads, the Defending Pokemon is now Confused.","Bite","Colorless, Colorless","2","20","","Psychic","+10"
-"dp2-109","Bebe's Search","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp2-110","Dusk Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp2-111","Fossil Excavator","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp2-112","Lake Boundary","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp2-113","Night Maintenance","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp2-114","Quick Ball","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp2-115","Team Galactic's Wager","Trainer",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp2-116","Armor Fossil","Trainer","50","","Common","","0","Armor Stone","Whenever Armor Fossil would be damaged by your opponent's attack, flip a coin until you get tails. For each heads, reduce that damage by 10.","","","","","","","","","","",,
-"dp2-117","Skull Fossil","Trainer","50","","Common","","0","Skull Stone","During your opponent's turn, if Skull Fossil would be Knocked Out by damage from an opponent's attack, flip a coin until you get tails. For each heads, put 1 damage counter on the Attacking Pokemon.","","","","","","","","","","",,
-"dp2-118","Multi Energy","Energy",,"","Rare","","0","","","","","","","","","","","","",,
-"dp2-119","Darkness Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
-"dp2-120","Metal Energy","Energy",,"","Uncommon","","0","","","","","","","","","","","","",,
