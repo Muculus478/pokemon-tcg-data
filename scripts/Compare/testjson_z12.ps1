@@ -96,5 +96,7 @@ Get-ChildItem -Path $jsonFolderPath -Filter "*.json" | ForEach-Object {
     # Export to CSV
     $outputCsv = Join-Path -Path $csv2FolderPath -ChildPath ("$($_.BaseName).csv")
     $flattenedData | Export-Csv -Path $outputCsv -NoTypeInformation -Encoding UTF8
+    (Get-Content $outputCsv) -replace 'é', 'e' | Set-Content $outputCsv
+    (Get-Content $outputCsv) -replace '×', 'x' | Set-Content $outputCsv
     Write-Host "Exported $outputCsv"
 }
