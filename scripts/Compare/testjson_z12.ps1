@@ -1,6 +1,6 @@
 # Define folder paths
 $jsonFolderPath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\en"
-$csv2FolderPath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\csvraw"
+$csv2FolderPath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\csvRaw"
 
 # Create output directory if it doesn't exist
 if (!(Test-Path -Path $csv2FolderPath)) {
