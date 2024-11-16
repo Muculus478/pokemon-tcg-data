@@ -3,7 +3,7 @@ $repoRoot = Get-Location
 
 # Define folder paths
 $jsonFolderPath = Join-Path -Path $repoRoot -ChildPath "pokemon-tcg-data\cards\en"
-$csv2FolderPath = Join-Path -Path $repoRoot -ChildPath "pokemon-tcg-data\cards\en"
+$csv2FolderPath = Join-Path -Path $repoRoot -ChildPath "pokemon-tcg-data\cards\csvfiltered"
 
 # Create output directory if it doesn't exist
 if (!(Test-Path -Path $csv2FolderPath)) {
