@@ -1,0 +1,31 @@
+variables:
+  Energy:
+    G: Grass
+    R: Fire
+    W: Water
+    L: Lightning
+    P: Psychic
+    F: Fighting
+    D: Darkness
+    M: Metal
+    C: Colorless
+    Y: Fairy
+    A: Any type of energy
+    Ab: Any type of basic energy
+    As: Any type of special energy
+    Ac: Any type of energy card
+    1: True
+    0: False
+  Terms: 
+    - (+): addition
+    - (-): subraction
+    - (x): times
+    - (/): divided by
+    - H: Coin flip landing on heads
+    - T: Coin flip landing on tails
+    - De: Discarded energy from Pokemon
+    - Deh: Discard energy from the hand
+    - Ea'Energy': Energy attached to Pokemon
+    - Coe: Counters on enemy
+    - Dt: Discard a tool from Pokemon
+

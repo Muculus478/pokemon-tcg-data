@@ -28,6 +28,7 @@ foreach ($row in $data) {
             Attack1ConvertedCost     = $row.Attack1ConvertedCost
             Attack1Damage            = $row.Attack1Damage
             Attack1Text              = $row.Attack1Text
+            DamageFormula            = $row.Empty
         }
     }
 
@@ -49,6 +50,7 @@ foreach ($row in $data) {
             Attack1ConvertedCost     = $row.Attack2ConvertedCost
             Attack1Damage            = $row.Attack2Damage
             Attack1Text              = $row.Attack2Text
+            DamageFormula            = $row.Empty
         }
     }
 }
