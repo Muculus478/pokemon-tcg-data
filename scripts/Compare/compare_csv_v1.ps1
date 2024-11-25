@@ -16,6 +16,7 @@ foreach ($row in $data) {
             id                       = $row.id
             name                     = $row.name
             supertype                = $row.supertype
+            subtypes                 = $row.subtypes
             hp                       = $row.hp
             types                    = $row.types
             rarity                   = $row.rarity

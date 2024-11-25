@@ -38,7 +38,8 @@ Get-ChildItem -Path $jsonFolderPath -Filter "*.json" | ForEach-Object {
         $flattenedCard = [PSCustomObject]@{
             id                    = $card.id
             name                  = $card.name
-            supertype             = $card.supertype
+            supertype             = $card.supertypea
+            subtypes              = $card.subtypes
             hp                    = $card.hp
             types                 = ($card.types -join ", ")
             rarity                = $card.rarity
