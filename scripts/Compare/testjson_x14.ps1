@@ -1,4 +1,5 @@
-# Define folder paths
+#Gets all of the data and only keeps what is necessary to view and compare. 
+# Define folder paths 
 $jsonFolderPath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\en"
 $csv2FolderPath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\csvfiltered"
 

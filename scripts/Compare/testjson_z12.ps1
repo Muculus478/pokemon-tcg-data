@@ -1,3 +1,4 @@
+#Gets all the raw JSON data into a csv
 # Define folder paths
 $jsonFolderPath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\en"
 $csv2FolderPath = "C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\csvRaw"
