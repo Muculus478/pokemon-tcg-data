@@ -3,3 +3,20 @@ curl -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.3
 curl -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" https://pokemoncard.io/decks/
 
 $env:ProgramFiles\Powershell\7\pwsh.exe
+
+
+	
+	
+	API Key: 42ef681681324ec2cd23ed5b4a71e40e3fc88e7e1d6a0f755b72061b90426fc3
+Get Data for Pokemon	curl -I -X GET https://api.pokemontcg.io/v2/cards/svp-2
+	
+	
+Get Deck Data	curl -i -X GET https://pokemoncard.io/deck/rapid-striker-sglc-semi-gym-leader-challenge-36438
+	
+Deck Data + Paste	curl -i -X GET https://pokemoncard.io/deck/rapid-striker-sglc-semi-gym-leader-challenge-36438 > Documents/PokemonAPI/RapidStriker
+	curl -H -i "Authorization: Bearer 60d9e6634197ad65d5be352b4d98606638bc4440f4fcb099359252999936173d" "https://pokemoncard.io/deck/rapid-striker-sglc-semi-gym-leader-challenge-36438"
+	
+	
+	curl -i -X GET "https://pokemoncard.io/deck/rapid-striker-sglc-semi-gym-leader-challenge-36438" -H "Authorization: Bearer 60d9e6634197ad65d5be352b4d98606638bc4440f4fcb099359252999936173d"
+	"curl -i -X GET curl -i -X GET ""https://pokemoncard.io/deck/rapid-striker-sglc-semi-gym-leader-challenge-36438?api_key=60d9e6634197ad65d5be352b4d98606638bc4440f4fcb099359252999936173d""
+"
