@@ -1152,10 +1152,121 @@ Card_Photos:
   - sm1-165
   - sm1-165
 ########################################
-URL: https://pokemoncard.io/deck/evolutionary-forest-
-Deck_Name: No title found
+URL: https://pokemoncard.io/deck/evolutionary-forest-36065
+Deck_Name: Evolutionary Forest SGLC (Semi Gym Leader Challenge)
 Pokemon_List:
+Pokemon: 19
+  - 1 Bulbasaur DET 1
+  - 1 Cherrim BST 8
+  - 1 Cherubi BRS 12
+  - 1 Eldegoss EVS 16
+  - 1 Gossifleur SSH 20
+  - 1 Grookey CRE 16
+  - 1 Grotle BRS 7
+  - 1 Grovyle LOT 21
+  - 1 Ivysaur PGO 2
+  - 1 Kricketot CEC 13
+  - 1 Kricketune ASR 10
+  - 1 Rillaboom SHF 13
+  - 1 Sceptile CES 10
+  - 1 Thwackey CRE 17
+  - 1 Torterra BRS 8
+  - 1 Treecko LOT 20
+  - 1 Turtwig UPR 6
+  - 1 Venusaur SLG 3
+  - 1 Zarude CRE 19
+Trainer: 28
+  - 1 Arezu LOR 153
+  - 1 Ball Guy SHF 57
+  - 1 Cynthia UPR 119
+  - 1 Energy Retrieval SLG 59
+  - 1 Gardenia UPR 124
+  - 1 Gardenia's Vigor ASR 143
+  - 1 Gladion CIN 95
+  - 1 Gloria BRS 141
+  - 1 Hisuian Heavy Ball ASR 146
+  - 1 Klara CRE 145
+  - 1 Lady FLI 109
+  - 1 Level Ball BST 129
+  - 1 Marnie CPA 56
+  - 1 Nest Ball SUM 123
+  - 1 Net Ball LOT 187
+  - 1 Ordinary Rod SSH 171
+  - 1 Pokémon Communication TEU 152
+  - 1 Pot Helmet BRS 146
+  - 1 Professor's Research BRS 147
+  - 1 Raihan EVS 152
+  - 1 Rare Candy SSH 180
+  - 1 Rescue Stretcher GRI 130
+  - 1 Sonia RCL 167
+  - 1 Tate & Liza CES 148
+  - 1 Timer Ball SUM 134
+  - 1 Turffield Stadium RCL 170
+  - 1 Ultra Ball BRS 150
+  - 1 Viridian Forest TEU 156
+Energy: 13
+  - 13 Grass Energy 164
 Card_Photos:
+  - det1-1
+  - swsh5-8
+  - swsh9-12
+  - swsh7-16
+  - swsh1-20
+  - swsh6-16
+  - swsh9-7
+  - sm8-21
+  - pgo-2
+  - sm12-13
+  - swsh10-10
+  - swsh45-13
+  - sm7-10
+  - swsh6-17
+  - swsh9-8
+  - sm8-20
+  - sm5-6
+  - sm35-3
+  - swsh6-19
+  - swsh11-153
+  - swsh45-57
+  - sm5-119
+  - sm35-59
+  - sm5-124
+  - swsh10-143
+  - sm4-95
+  - swsh9-141
+  - swsh10-146
+  - swsh6-145
+  - sm6-109
+  - swsh5-129
+  - swsh35-56
+  - sm1-123
+  - sm8-187
+  - swsh1-171
+  - sm9-152
+  - swsh9-146
+  - swsh9-147
+  - swsh7-152
+  - swsh1-180
+  - sm2-130
+  - swsh2-167
+  - sm7-148
+  - sm1-134
+  - swsh2-170
+  - swsh9-150
+  - sm9-156
+  - sm1-164
+  - sm1-164
+  - sm1-164
+  - sm1-164
+  - sm1-164
+  - sm1-164
+  - sm1-164
+  - sm1-164
+  - sm1-164
+  - sm1-164
+  - sm1-164
+  - sm1-164
+  - sm1-164
 ########################################
 URL: https://pokemoncard.io/deck/scorching-steel-36131
 Deck_Name: Scorching Steel SGLC (Semi Gym Leader Challenge)
@@ -7839,9 +7950,132 @@ Card_Photos:
   - sm5-137
 ########################################
 URL: https://pokemoncard.io/deck/fluffy-bark-79274
-Deck_Name: No title found
+Deck_Name: Fluffy Bark
 Pokemon_List:
+Pokemon: 13
+  - 1 Cinccino SSH 147
+  - 1 Cottonee UNM 143
+  - 1 Delcatty CES 121
+  - 1 Herdier SUM 104
+  - 1 Lillipup EVS 133
+  - 1 Masquerain SUM 8
+  - 1 Minccino BRS 124
+  - 1 Oranguru UPR 114
+  - 1 Skitty CES 120
+  - 1 Snorlax PGO 55
+  - 1 Stoutland CEC 176
+  - 1 Surskit CES 15
+  - 1 Whimsicott UNM 144
+Trainer: 38
+  - 1 Arezu LOR 153
+  - 1 Cape of Toughness DAA 160
+  - 1 Chip-Chip Ice Axe UNB 165
+  - 1 Counter Catcher CIN 91
+  - 1 Crushing Hammer CRZ 125
+  - 1 Cyllene ASR 138
+  - 1 Cynthia UPR 119
+  - 1 Enhanced Hammer GRI 124
+  - 1 Evolution Incense SSH 163
+  - 1 Faba LOT 173
+  - 1 Galar Mine RCL 160
+  - 1 Giovanni's Exile HIF 57
+  - 1 Gladion CIN 95
+  - 1 Gloria BRS 141
+  - 1 Hiker CES 133
+  - 1 Hisuian Heavy Ball ASR 146
+  - 1 Hop SSH 165
+  - 1 Ingo & Emmet TEU 144
+  - 1 Judge FST 235
+  - 1 Judge Whistle TEU 146
+  - 1 Klara CRE 145
+  - 1 Lillie's Poké Doll CEC 197
+  - 1 Looker UPR 126
+  - 1 Looker Whistle UPR 127
+  - 1 Lt. Surge's Strategy HIF 60
+  - 1 Marnie SSH 169
+  - 1 Mars UPR 128
+  - 1 Peeking Red Card CIN 97
+  - 1 Plumeria BUS 120
+  - 1 Pot Helmet BRS 146
+  - 1 Professor's Research (Professor Magnolia) SSH 178
+  - 1 Rescue Carrier EVS 154
+  - 1 Rescue Stretcher GRI 130
+  - 1 Reset Stamp UNM 206
+  - 1 Rugged Helmet CRE 152
+  - 1 Scoop Up Net RCL 165
+  - 1 Sophocles BUS 123
+  - 1 Super Scoop Up BUS 124
+Energy: 9
+  - 1 Capture Energy RCL 171
+  - 1 Double Colorless Energy SLG 69
+  - 1 Double Turbo Energy BRS 151
+  - 1 Draw Energy CEC 209
+  - 1 Gift Energy LOR 171
+  - 1 Lucky Energy CRE 158
+  - 1 Recycle Energy UNM 212
+  - 1 Triple Acceleration Energy UNB 190
+  - 1 Twin Energy RCL 174
 Card_Photos:
+  - swsh1-147
+  - sm11-143
+  - sm7-121
+  - sm1-104
+  - swsh7-133
+  - sm1-8
+  - swsh9-124
+  - sm5-114
+  - sm7-120
+  - pgo-55
+  - sm12-176
+  - sm7-15
+  - sm11-144
+  - swsh11-153
+  - swsh3-160
+  - sm10-165
+  - sm4-91
+  - swsh12pt5-125
+  - swsh10-138
+  - sm5-119
+  - sm2-124
+  - swsh1-163
+  - sm8-173
+  - swsh2-160
+  - sm115-57
+  - sm4-95
+  - swsh9-141
+  - sm7-133
+  - swsh10-146
+  - swsh1-165
+  - sm9-144
+  - swsh8-235
+  - sm9-146
+  - swsh6-145
+  - sm12-197
+  - sm5-126
+  - sm5-127
+  - sm115-60
+  - swsh1-169
+  - sm5-128
+  - sm4-97
+  - sm3-120
+  - swsh9-146
+  - swsh1-178
+  - swsh7-154
+  - sm2-130
+  - sm11-206
+  - swsh6-152
+  - swsh2-165
+  - sm3-123
+  - sm3-124
+  - swsh2-171
+  - sm35-69
+  - swsh9-151
+  - sm12-209
+  - swsh11-171
+  - swsh6-158
+  - sm11-212
+  - sm10-190
+  - swsh2-174
 ########################################
 URL: https://pokemoncard.io/deck/heavy-sands-79323
 Deck_Name: Heavy Sands SGLC(Semi-Gym Leader Challenge)

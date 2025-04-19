@@ -88,4 +88,3 @@ with open(output_filename, 'w') as output_file:
 new_filename = output_filename.replace('.txt', '.yml')
 os.rename(output_filename, new_filename)
 print(f"Data has been written to '{new_filename}'")
-
