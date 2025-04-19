@@ -17,72 +17,75 @@ with open(output_filename, 'w') as output_file:
     for url in urls:
         print(f"Processing URL: {url}")
 
-        # Define the curl command using the URL from the YAML file
         command = [
             'curl',
             '-H', 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
             url
         ]
 
-        # Run the command with curl and all the variables
         result = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
 
-        # Check if curl command ran successfully
         if result.returncode == 0:
-            # Get the response content
             page_content = result.stdout
 
-            # Extract the <title> content
             title_match = re.search(r'<title>(.*?) - PokemonCard</title>', page_content, re.DOTALL)
             title_data = title_match.group(1).strip() if title_match else "No title found"
 
-            # Extract the <textarea> content
             textarea_match = re.search(r'<form>.*?<textarea.*?id="export0".*?>(.*?)</textarea>.*?</form>', page_content, re.DOTALL)
             textarea_data = textarea_match.group(1).strip() if textarea_match else "No textarea found"
 
-            # Replace "  -  " with ":"
             textarea_data = textarea_data.replace("  -  ", ":")
 
-            # Extract the var maindeckjs content and format it to display each entry on a new line
             maindeckjs_match = re.search(r"var maindeckjs\s*=\s*'(\[.*?\])';", page_content)
             if maindeckjs_match:
                 maindeckjs_raw = maindeckjs_match.group(1)
-                # Convert the maindeckjs string to a list
                 maindeckjs_list = json.loads(maindeckjs_raw)
-                # Format each entry with indentation
-                maindeckjs_data = "\n  ".join(maindeckjs_list)
             else:
-                maindeckjs_data = "No maindeckjs data found"
+                maindeckjs_list = []
 
-            # Write the results to the txt file with indented format
             output_file.write(f"URL: {url}\n")
             output_file.write(f"Deck_Name: {title_data}\n")
-            
-            # Split Pokemon_List by category (Pokemon, Trainer, Energy)
-            lines = textarea_data.split("\n")
             output_file.write("Pokemon_List:\n")
-            
-            for line in lines:
-                if line.strip().startswith(("Pokemon", "Trainer", "Energy")):
-                    # Only remove the first leading space, keeping the rest of the line
-                    output_file.write(f"{line.lstrip()}\n")  # Removes the leading space
-                else:
-                    # Maintain the original indentation for all other lines
-                    output_file.write(f"    {line}\n")
 
-            
-            output_file.write(f"Card_Photos:\n  {maindeckjs_data}\n")
+            # Split and categorize entries
+            lines = textarea_data.split("\n")
+            current_category = None
+            card_blocks = {'Pokemon': [], 'Trainer': [], 'Energy': []}
+            for line in lines:
+                line = line.strip()
+                if line.startswith("Pokemon -"):
+                    current_category = "Pokemon"
+                    card_blocks[current_category].insert(0, line.replace(" -", ":"))
+                elif line.startswith("Trainer -"):
+                    current_category = "Trainer"
+                    card_blocks[current_category].insert(0, line.replace(" -", ":"))
+                elif line.startswith("Energy -"):
+                    current_category = "Energy"
+                    card_blocks[current_category].insert(0, line.replace(" -", ":"))
+                elif current_category:
+                    card_blocks[current_category].append(f"  - {line}")
+
+            for category in ['Pokemon', 'Trainer', 'Energy']:
+                for i, entry in enumerate(card_blocks[category]):
+                    if i == 0:
+                        output_file.write(f"{entry}\n")
+                    else:
+                        output_file.write(f"{entry}\n")
+
+            output_file.write("Card_Photos:\n")
+            for entry in maindeckjs_list:
+                output_file.write(f"  - {entry}\n")
+
             output_file.write("#" * 40 + "\n")
 
-            # Print the results to the console for verification
             print(f"Deck_Name: {title_data}")
-            print(f"Pokemon_List: {textarea_data}")
-            print(f"Card_Photos:\n{maindeckjs_data}")
         else:
             print(f"Error: {result.stderr}")
+
         time.sleep(1)
 
-# Rename the .txt file to .yml and print
+# Rename the .txt file to .yml
 new_filename = output_filename.replace('.txt', '.yml')
 os.rename(output_filename, new_filename)
 print(f"Data has been written to '{new_filename}'")
+
