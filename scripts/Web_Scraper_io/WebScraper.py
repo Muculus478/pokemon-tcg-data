@@ -11,7 +11,7 @@ with open('Deck_Data_Manual.yml', 'r') as file:
     urls = data.get('Decks', [])
 
 # Create a text file with the .txt extension first
-output_filename = 'Deck_Data_v94.txt'
+output_filename = 'Deck_Data.txt'
 
 with open(output_filename, 'w') as output_file:
     for url in urls:

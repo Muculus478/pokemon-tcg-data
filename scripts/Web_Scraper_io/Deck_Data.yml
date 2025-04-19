@@ -7139,34 +7139,34 @@ Card_Photos:
 URL: https://pokemoncard.io/deck/quick-ripening-76409
 Deck_Name: Quick Ripening SGLC(Semi-Gym Leader Challenge)
 Pokemon_List:
-Pokemon: 19
-  - 1 Bayleef LOT 7
-  - 1 Beautifly LOR 8
-  - 1 Bounsweet DAA 14
-  - 1 Chikorita LOT 5
+Pokemon: 16
+  - 1 Cherrim BST 8
+  - 1 Cherubi BRS 12
+  - 1 Drowzee UNB 71
+  - 1 Eldegoss EVS 16
+  - 1 Farigiraf TWM 84
+  - 1 Girafarig CRZ 61
+  - 1 Gossifleur SSH 20
   - 1 Grotle BRS 7
-  - 1 Hoppip EVS 2
-  - 1 Jumpluff EVS 4
-  - 1 Leavanny UNM 9
-  - 1 Meganium LOT 8
-  - 1 Nidoking MEW 34
+  - 1 Hypno SIT 61
+  - 1 Nidoking TEU 59
   - 1 Nidoqueen TEU 56
   - 1 Nidoran ♀ TEU 54
   - 1 Nidoran ♂ TEU 57
   - 1 Nidorina TEU 55
-  - 1 Sewaddle UNM 7
-  - 1 Skiploom EVS 3
+  - 1 Nidorino TEU 58
   - 1 Torterra BRS 8
-  - 1 Tsareena UNM 19
-  - 1 Wurmple LOT 24
-Trainer: 30
+Trainer: 31
+  - 1 Arezu LOR 153
   - 1 Artazon PAL 171
   - 1 Arven OBF 186
   - 1 Avery CRE 130
   - 1 Ball Guy SHF 57
+  - 1 Brock's Grit TEU 135
+  - 1 Brock's Scouting JTG 146
   - 1 Brock's Grit HIF 53
   - 1 Cynthia UPR 119
-  - 1 Gardenia UPR 124
+  - 1 Fog Crystal CRE 140
   - 1 Gardenia's Vigor ASR 143
   - 1 Gladion CIN 95
   - 1 Hisuian Heavy Ball ASR 146
@@ -7180,45 +7180,46 @@ Trainer: 30
   - 1 Ordinary Rod SSH 171
   - 1 Pokémon Communication TEU 152
   - 1 Pot Helmet BRS 146
-  - 1 Professor Turo's Scenario PAR 171
   - 1 Rare Candy PGO 69
   - 1 Rescue Carrier EVS 154
   - 1 Rescue Stretcher GRI 130
-  - 1 Scoop Up Net RCL 165
   - 1 Sonia CPA 65
   - 1 Technical Machine: Evolution PAR 178
   - 1 Timer Ball SUM 134
   - 1 Tulip PAR 181
   - 1 Turffield Stadium CPA 68
-Energy: 11
-  - 11 Basic Grass Energy 1
+Energy: 13
+  - 8 Basic Grass Energy 1
+  - 3 Basic Psychic Energy 5
+  - 1 Double Colorless Energy SLG 69
+  - 1 Twin Energy RCL 174
 Card_Photos:
-  - sm8-7
-  - swsh11-8
-  - swsh3-14
-  - sm8-5
+  - swsh5-8
+  - swsh9-12
+  - sm10-71
+  - swsh7-16
+  - sv6-84
+  - swsh12pt5-61
+  - swsh1-20
   - swsh9-7
-  - swsh7-2
-  - swsh7-4
-  - sm11-9
-  - sm8-8
-  - sv3pt5-34
+  - swsh12-61
+  - sm9-59
   - sm9-56
   - sm9-54
   - sm9-57
   - sm9-55
-  - sm11-7
-  - swsh7-3
+  - sm9-58
   - swsh9-8
-  - sm11-19
-  - sm8-24
+  - swsh11-153
   - sv2-171
   - sv3-186
   - swsh6-130
   - swsh45-57
+  - sm9-135
+  - sv9-146
   - sm115-53
   - sm5-119
-  - sm5-124
+  - swsh6-140
   - swsh10-143
   - sm4-95
   - swsh10-146
@@ -7232,11 +7233,9 @@ Card_Photos:
   - swsh1-171
   - sm9-152
   - swsh9-146
-  - sv4-171
   - pgo-69
   - swsh7-154
   - sm2-130
-  - swsh2-165
   - swsh35-65
   - sv4-178
   - sm1-134
@@ -7250,9 +7249,11 @@ Card_Photos:
   - sve-1
   - sve-1
   - sve-1
-  - sve-1
-  - sve-1
-  - sve-1
+  - sve-5
+  - sve-5
+  - sve-5
+  - sm35-69
+  - swsh2-174
 ########################################
 URL: https://pokemoncard.io/deck/leafyfist-rapidstriker-76555
 Deck_Name: LeafyFist RapidStriker SGLC (Semi-Gym Leader Challenge)
@@ -7494,13 +7495,11 @@ Card_Photos:
 URL: https://pokemoncard.io/deck/cards-of-interest-76978
 Deck_Name: Cards of Interest
 Pokemon_List:
-Pokemon: 35
+Pokemon: 27
   - 1 Aggron UNB 125
   - 1 Aggron CIN 67
   - 1 Aggron CRZ 89
   - 1 Aggron DAA 123
-  - 1 Charizard TEU 14
-  - 1 Charmander TEU 11
   - 1 Corviknight SSH 135
   - 1 Corviknight DAA 156
   - 1 Corviknight FST 190
@@ -7509,17 +7508,12 @@ Pokemon: 35
   - 1 Eelektross LOR 61
   - 1 Eelektross VIV 59
   - 1 Empoleon CEC 56
-  - 1 Incineroar SLG 17
-  - 1 Incineroar SIT 32
   - 1 Jangmo-o CEC 160
-  - 1 Kommo-o CEC 163
   - 1 Kommo-o DRM 54
   - 1 Krookodile SUM 85
   - 1 Krookodile UNB 116
   - 1 Krookodile SIT 113
-  - 1 Litten SIT 30
   - 1 Lunala CEC 102
-  - 1 Phanpy VIV 86
   - 1 Piplup CEC 54
   - 1 Slaking UNM 170
   - 1 Slaking CES 115
@@ -7529,19 +7523,16 @@ Pokemon: 35
   - 1 Stoutland SUM 105
   - 1 Stoutland CEC 176
   - 1 Stoutland EVS 135
-  - 1 Tyrantrum FLI 69
 Trainer: 1
   - 1 Memory Capsule VIV 155
-Energy: 24
-  - 23 Basic Grass Energy 1
+Energy: 32
+  - 31 Basic Grass Energy 1
   - 1 Memory Energy LOT 194
 Card_Photos:
   - sm10-125
   - sm4-67
   - swsh12pt5-89
   - swsh3-123
-  - sm9-14
-  - sm9-11
   - swsh1-135
   - swsh3-156
   - swsh8-190
@@ -7550,17 +7541,12 @@ Card_Photos:
   - swsh11-61
   - swsh4-59
   - sm12-56
-  - sm35-17
-  - swsh12-32
   - sm12-160
-  - sm12-163
   - sm75-54
   - sm1-85
   - sm10-116
   - swsh12-113
-  - swsh12-30
   - sm12-102
-  - swsh4-86
   - sm12-54
   - sm11-170
   - sm7-115
@@ -7570,8 +7556,15 @@ Card_Photos:
   - sm1-105
   - sm12-176
   - swsh7-135
-  - sm6-69
   - swsh4-155
+  - sve-1
+  - sve-1
+  - sve-1
+  - sve-1
+  - sve-1
+  - sve-1
+  - sve-1
+  - sve-1
   - sve-1
   - sve-1
   - sve-1
