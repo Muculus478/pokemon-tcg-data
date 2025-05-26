@@ -1,7 +1,7 @@
 URL: https://pokemoncard.io/deck/muddy-waters-sglc-semi-gym-leader-challenge-35660
 Deck_Name: Muddy Waters SGLC (Semi-Gym Leader Challenge)
 Pokemon_List:
-Pokemon: 17
+Pokemon: 18
   - 1 Barboach RCL 99
   - 1 Drampa EVS 119
   - 1 Drizzile SSH 56
@@ -12,13 +12,14 @@ Pokemon: 17
   - 1 Marshtomp FST 63
   - 1 Mudkip CES 32
   - 1 Palpitoad CEC 116
+  - 1 Quagsire VIV 84
   - 1 Seismitoad CEC 117
   - 1 Sobble SSH 55
   - 1 Stunfisk UNB 56
   - 1 Swampert FST 64
-  - 1 Throh CEC 118
   - 1 Tympole CEC 58
   - 1 Whiscash RCL 100
+  - 1 Wooper VIV 83
 Trainer: 29
   - 1 Arezu LOR 153
   - 1 Ball Guy SHF 57
@@ -49,8 +50,7 @@ Trainer: 29
   - 1 Switch SUM 132
   - 1 Timer Ball SUM 134
   - 1 Ultra Ball BRS 150
-Energy: 14
-  - 1 Capture Energy RCL 171
+Energy: 13
   - 7 Fighting Energy 169
   - 1 Rainbow Energy SUM 137
   - 5 Water Energy 166
@@ -65,13 +65,14 @@ Card_Photos:
   - swsh8-63
   - sm7-32
   - sm12-116
+  - swsh4-84
   - sm12-117
   - swsh1-55
   - sm10-56
   - swsh8-64
-  - sm12-118
   - sm12-58
   - swsh2-100
+  - swsh4-83
   - swsh11-153
   - swsh45-57
   - sm2-120
@@ -101,7 +102,6 @@ Card_Photos:
   - sm1-132
   - sm1-134
   - swsh9-150
-  - swsh2-171
   - sm1-169
   - sm1-169
   - sm1-169
@@ -349,95 +349,112 @@ Card_Photos:
   - swsh3-175
 ########################################
 URL: https://pokemoncard.io/deck/blazing-glory-sglc-semi-gym-leader-challenge-35721
-Deck_Name: Blazing Glory SGLC (Semi Gym Leader Challenge)
+Deck_Name: Blazing Mill SGLC (Semi Gym Leader Challenge)
 Pokemon_List:
-Pokemon: 14
+Pokemon: 12
   - 1 Centiskorch SSH 39
   - 1 Charizard PGO 10
   - 1 Charmander PGO 8
   - 1 Charmeleon PGO 9
+  - 1 Cyndaquil ASR 23
   - 1 Heatmor FST 41
-  - 1 Ho-Oh CEL 1
-  - 1 Ponyta CEC 23
-  - 1 Rapidash SIT 22
-  - 1 Salandit BST 27
-  - 1 Salazzle UNB 31
+  - 1 Moltres TEU 19
+  - 1 Quilava ASR 24
   - 1 Sizzlipede SSH 38
   - 1 Turtonator DRM 50
-  - 1 Victini EVS 20
+  - 1 Typhlosion LOT 42
   - 1 Volcanion UNB 25
-Trainer: 27
+Trainer: 33
+  - 1 Arven SVI 166
   - 1 Avery CRE 130
   - 1 Ball Guy SHF 57
-  - 1 Bird Keeper DAA 159
-  - 1 Boss's Orders SHF 58
   - 1 Candela PGO 65
-  - 1 Energy Retrieval SLG 59
-  - 1 Escape Rope BST 125
+  - 1 Energy Retrieval SUM 116
   - 1 Evolution Incense SSH 163
-  - 1 Exp. Share BST 126
+  - 1 Fire Crystal UNB 173
   - 1 Giant Hearth UNM 197
   - 1 Gloria BRS 141
+  - 1 Hisuian Heavy Ball ASR 146
+  - 1 Kiawe BUS 116
   - 1 Kindler BRS 143
   - 1 Klara CRE 145
   - 1 Level Ball BST 129
   - 1 Magma Basin BRS 144
   - 1 Marnie CPA 56
+  - 1 Mela PAR 167
+  - 1 Nest Ball SVI 181
   - 1 Pal Pad SSH 172
   - 1 Pokégear 3.0 UNB 182
-  - 1 Pot Helmet BRS 146
   - 1 Professor's Research SHF 60
   - 1 Raihan EVS 152
   - 1 Rare Candy SSH 180
+  - 1 Rescue Stretcher GRI 130
   - 1 Sonia RCL 167
+  - 1 Super Rod PAL 188
   - 1 Switch CES 147
+  - 1 Technical Machine: Evolution PAR 178
+  - 1 Technical Machine: Turbo Energize PAR 179
   - 1 Timer Ball SUM 134
   - 1 Ultra Ball BRS 150
   - 1 Welder UNB 189
-Energy: 19
-  - 19 Fire Energy 165
+  - 1 Wishful Baton BUS 128
+Energy: 15
+  - 3 Basic Fire Energy 2
+  - 1 Double Colorless Energy FCO 114
+  - 1 Double Turbo Energy BRS 151
+  - 9 Fire Energy 165
+  - 1 Twin Energy RCL 174
 Card_Photos:
   - swsh1-39
   - pgo-10
   - pgo-8
   - pgo-9
+  - swsh10-23
   - swsh8-41
-  - cel25-1
-  - sm12-23
-  - swsh12-22
-  - swsh5-27
-  - sm10-31
+  - sm9-19
+  - swsh10-24
   - swsh1-38
   - sm75-50
-  - swsh7-20
+  - sm8-42
   - sm10-25
+  - sv1-166
   - swsh6-130
   - swsh45-57
-  - swsh3-159
-  - swsh45-58
   - pgo-65
-  - sm35-59
-  - swsh5-125
+  - sm1-116
   - swsh1-163
-  - swsh5-126
+  - sm10-173
   - sm11-197
   - swsh9-141
+  - swsh10-146
+  - sm3-116
   - swsh9-143
   - swsh6-145
   - swsh5-129
   - swsh9-144
   - swsh35-56
+  - sv4-167
+  - sv1-181
   - swsh1-172
   - sm10-182
-  - swsh9-146
   - swsh45-60
   - swsh7-152
   - swsh1-180
+  - sm2-130
   - swsh2-167
+  - sv2-188
   - sm7-147
+  - sv4-178
+  - sv4-179
   - sm1-134
   - swsh9-150
   - sm10-189
+  - sm3-128
+  - sve-2
+  - sve-2
+  - sve-2
+  - xy10-114
+  - swsh9-151
   - sm1-165
   - sm1-165
   - sm1-165
@@ -447,16 +464,7 @@ Card_Photos:
   - sm1-165
   - sm1-165
   - sm1-165
-  - sm1-165
-  - sm1-165
-  - sm1-165
-  - sm1-165
-  - sm1-165
-  - sm1-165
-  - sm1-165
-  - sm1-165
-  - sm1-165
-  - sm1-165
+  - swsh2-174
 ########################################
 URL: https://pokemoncard.io/deck/dragon-s-liquid-shock-sglc-semi-gym-leader-challenge-35742
 Deck_Name: Dragon's Liquid Shock SGLC (Semi Gym Leader Challenge)
@@ -922,36 +930,35 @@ Card_Photos:
 URL: https://pokemoncard.io/deck/dragon-s-ascent-sglc-semi-gym-leader-challenge-35788
 Deck_Name: Dragon's Ascent SGLC (Semi Gym Leader Challenge)
 Pokemon_List:
-Pokemon: 15
+Pokemon: 14
   - 1 Bagon CES 103
-  - 1 Castform Rainy Form CRE 33
   - 1 Drizzile SSH 56
   - 1 Druddigon DRM 45
-  - 1 Froakie FLI 21
-  - 1 Frogadier FLI 23
-  - 1 Greninja DET 9
+  - 1 Frosmoth SSH 64
+  - 1 Galarian Darmanitan DAA 28
+  - 1 Galarian Darmanitan FST 72
+  - 1 Galarian Darumaka DAA 43
   - 1 Inteleon SSH 58
-  - 1 Kingler SSH 44
-  - 1 Krabby SSH 42
   - 1 Kyogre CES 46
   - 1 Salamence CES 106
   - 1 Shelgon CES 105
+  - 1 Snom FST 84
   - 1 Sobble SSH 55
   - 1 White Kyurem LOT 63
-Trainer: 31
-  - 1 Agatha CRE 129
+Trainer: 32
   - 1 Aqua Patch GRI 119
   - 1 Arezu LOR 153
   - 1 Avery CRE 130
   - 1 Ball Guy SHF 57
-  - 1 Bede SSH 157
-  - 1 Boss's Orders SHF 58
   - 1 Capacious Bucket RCL 156
+  - 1 Dragon Talon DRM 59
   - 1 Energy Retrieval SLG 59
   - 1 Energy Search CRZ 128
   - 1 Energy Spinner UNB 170
+  - 1 Energy Switch SUM 117
   - 1 Escape Rope BST 125
   - 1 Evolution Incense SSH 163
+  - 1 Exp. Share SUM 118
   - 1 Gloria BRS 141
   - 1 Guzma BUS 115
   - 1 Hisuian Heavy Ball ASR 146
@@ -959,17 +966,18 @@ Trainer: 31
   - 1 Klara CRE 145
   - 1 Lance SIT 159
   - 1 Level Ball BST 129
-  - 1 Lt. Surge's Strategy UNB 178
   - 1 Marnie's Pride BRS 145
   - 1 Nest Ball SUM 123
   - 1 Professor's Research SHF 60
   - 1 Raihan EVS 152
   - 1 Rare Candy PGO 69
   - 1 Rescue Carrier EVS 154
+  - 1 Rocky Helmet VIV 159
   - 1 Scoop Up Net RCL 165
   - 1 Sonia RCL 167
   - 1 Tate & Liza CES 148
   - 1 Timer Ball SUM 134
+  - 1 Wishful Baton BUS 128
 Energy: 14
   - 1 Counter Energy CIN 100
   - 4 Fire Energy 165
@@ -978,33 +986,32 @@ Energy: 14
   - 7 Water Energy 166
 Card_Photos:
   - sm7-103
-  - swsh6-33
   - swsh1-56
   - sm75-45
-  - sm6-21
-  - sm6-23
-  - det1-9
+  - swsh1-64
+  - swsh3-28
+  - swsh8-72
+  - swsh3-43
   - swsh1-58
-  - swsh1-44
-  - swsh1-42
   - sm7-46
   - sm7-106
   - sm7-105
+  - swsh8-84
   - swsh1-55
   - sm8-63
-  - swsh6-129
   - sm2-119
   - swsh11-153
   - swsh6-130
   - swsh45-57
-  - swsh1-157
-  - swsh45-58
   - swsh2-156
+  - sm75-59
   - sm35-59
   - swsh12pt5-128
   - sm10-170
+  - sm1-117
   - swsh5-125
   - swsh1-163
+  - sm1-118
   - swsh9-141
   - sm3-115
   - swsh10-146
@@ -1012,17 +1019,18 @@ Card_Photos:
   - swsh6-145
   - swsh12-159
   - swsh5-129
-  - sm10-178
   - swsh9-145
   - sm1-123
   - swsh45-60
   - swsh7-152
   - pgo-69
   - swsh7-154
+  - swsh4-159
   - swsh2-165
   - swsh2-167
   - sm7-148
   - sm1-134
+  - sm3-128
   - sm4-100
   - sm1-165
   - sm1-165
@@ -1041,12 +1049,11 @@ Card_Photos:
 URL: https://pokemoncard.io/deck/lava-fury-sglc-semi-gym-leader-challenge-36003
 Deck_Name: Lava Fury SGLC (Semi Gym Leader Challenge)
 Pokemon_List:
-Pokemon: 15
+Pokemon: 14
   - 1 Camerupt PAF 12
   - 1 Carkol RCL 106
   - 1 Chimchar BRS 24
   - 1 Coalossal RCL 107
-  - 1 Falinks RCL 109
   - 1 Hisuian Arcanine ASR 71
   - 1 Hisuian Growlithe ASR 70
   - 1 Infernape TWM 33
@@ -1057,13 +1064,12 @@ Pokemon: 15
   - 1 Simisear BUS 23
   - 1 Turtonator FST 198
   - 1 Volcanion UNB 25
-Trainer: 29
+Trainer: 30
+  - 1 Arven SVI 166
   - 1 Ball Guy SHF 57
   - 1 Boss's Orders SHF 58
   - 1 Energy Retrieval SUM 116
-  - 1 Energy Search CRZ 128
   - 1 Evolution Incense SSH 163
-  - 1 Friends in Galar BRS 140
   - 1 Giant Hearth UNM 197
   - 1 Gloria BRS 141
   - 1 Gutsy Pickaxe ASR 145
@@ -1071,18 +1077,20 @@ Trainer: 29
   - 1 Kindler BRS 143
   - 1 Klara CRE 145
   - 1 Lady LOR 159
+  - 1 Level Ball BST 129
   - 1 Magma Basin BRS 144
+  - 1 Mela PAR 167
   - 1 Ordinary Rod SSH 171
-  - 1 Poké Ball CPA 59
-  - 1 Pokémon Center Lady SSH 176
   - 1 Pot Helmet BRS 146
   - 1 Professor's Research BRS 147
   - 1 Quick Ball SSH 179
   - 1 Rare Candy CRZ 141
-  - 1 Rescue Stretcher GRI 130
   - 1 Rescue Carrier CRZ 142
+  - 1 Rescue Stretcher GRI 130
   - 1 Sonia RCL 167
   - 1 Switch SLG 67
+  - 1 Technical Machine: Evolution PAR 178
+  - 1 Technical Machine: Turbo Energize PAR 179
   - 1 Timer Ball SUM 134
   - 1 Ultra Ball BRS 150
   - 1 Welder UNB 189
@@ -1095,7 +1103,6 @@ Card_Photos:
   - swsh2-106
   - swsh9-24
   - swsh2-107
-  - swsh2-109
   - swsh10-71
   - swsh10-70
   - sv6-33
@@ -1106,12 +1113,11 @@ Card_Photos:
   - sm3-23
   - swsh8-198
   - sm10-25
+  - sv1-166
   - swsh45-57
   - swsh45-58
   - sm1-116
-  - swsh12pt5-128
   - swsh1-163
-  - swsh9-140
   - sm11-197
   - swsh9-141
   - swsh10-145
@@ -1119,18 +1125,20 @@ Card_Photos:
   - swsh9-143
   - swsh6-145
   - swsh11-159
+  - swsh5-129
   - swsh9-144
+  - sv4-167
   - swsh1-171
-  - swsh35-59
-  - swsh1-176
   - swsh9-146
   - swsh9-147
   - swsh1-179
   - swsh12pt5-141
-  - sm2-130
   - swsh12pt5-142
+  - sm2-130
   - swsh2-167
   - sm35-67
+  - sv4-178
+  - sv4-179
   - sm1-134
   - swsh9-150
   - sm10-189
@@ -3276,104 +3284,107 @@ Card_Photos:
 URL: https://pokemoncard.io/deck/lightning-overgrowth-53149
 Deck_Name: Lightning Overgrowth SGLC (Semi-Gym Leader Challenge)
 Pokemon_List:
-Pokemon: 16
-  - 1 Ampharos CRE 49
+Pokemon: 13
   - 1 Buzzwole CEC 21
   - 1 Charjabug UNB 58
   - 1 Dragonair SUM 95
   - 1 Dragonite SUM 96
   - 1 Drampa CEC 159
   - 1 Dratini SUM 94
-  - 1 Flaaffy EVS 55
   - 1 Grubbin UNB 18
   - 1 Kartana UNB 19
-  - 1 Mareep LOT 75
+  - 1 Naganadel LOT 108
   - 1 Pheromosa FLI 11
-  - 1 Raikou VIV 50
-  - 1 Regieleki EVS 60
+  - 1 Poipole LOT 107
   - 1 Vikavolt SUM 52
   - 1 Xurkitree FLI 39
-Trainer: 28
+Trainer: 33
   - 1 Aether Paradise Conservation Area GRI 116
-  - 1 Arezu LOR 153
   - 1 Ball Guy SHF 57
-  - 1 Beast Ring FLI 102
   - 1 Beast Ball CES 125
+  - 1 Beast Ring FLI 102
   - 1 Beastite CEC 185
-  - 1 Cape of Toughness DAA 160
   - 1 Energy Recycler BST 124
   - 1 Energy Spinner UNB 170
   - 1 Evolution Incense SSH 163
   - 1 Gardenia's Vigor ASR 143
-  - 1 Gloria BRS 141
   - 1 Guzma & Hala CEC 193
+  - 1 Klara CRE 145
   - 1 Lance SIT 159
+  - 1 Level Ball BST 129
   - 1 Nest Ball SUM 123
   - 1 Net Ball LOT 187
   - 1 Ordinary Rod SSH 171
   - 1 Pot Helmet BRS 146
+  - 1 Professor Kukui SUM 128
   - 1 Professor's Research SHF 60
+  - 1 Raihan EVS 152
   - 1 Rare Candy SSH 180
+  - 1 Rescue Stretcher GRI 130
   - 1 Schoolboy FST 238
   - 1 Schoolgirl FST 239
   - 1 Sonia RCL 167
   - 1 Stormy Mountains EVS 161
   - 1 Timer Ball SUM 134
   - 1 Ultra Ball CRZ 146
+  - 1 Ultra Recon Squad FLI 114
+  - 1 Ultra Space FLI 115
   - 1 Viridian Forest TEU 156
   - 1 Will CEC 208
-Energy: 16
-  - 6 Grass Energy 164
-  - 6 Lightning Energy 167
-  - 1 Metal Energy 171
+  - 1 Wishful Baton BUS 128
+Energy: 14
+  - 7 Grass Energy 164
+  - 5 Lightning Energy 167
   - 1 Rainbow Energy SUM 137
   - 1 Speed Lightning Energy RCL 173
-  - 1 Unit Energy LightningPsychicMetal UPR 138
 Card_Photos:
-  - swsh6-49
   - sm12-21
   - sm10-58
   - sm1-95
   - sm1-96
   - sm12-159
   - sm1-94
-  - swsh7-55
   - sm10-18
   - sm10-19
-  - sm8-75
+  - sm8-108
   - sm6-11
-  - swsh4-50
-  - swsh7-60
+  - sm8-107
   - sm1-52
   - sm6-39
   - sm2-116
-  - swsh11-153
   - swsh45-57
-  - sm6-102
   - sm7-125
+  - sm6-102
   - sm12-185
-  - swsh3-160
   - swsh5-124
   - sm10-170
   - swsh1-163
   - swsh10-143
-  - swsh9-141
   - sm12-193
+  - swsh6-145
   - swsh12-159
+  - swsh5-129
   - sm1-123
   - sm8-187
   - swsh1-171
   - swsh9-146
+  - sm1-128
   - swsh45-60
+  - swsh7-152
   - swsh1-180
+  - sm2-130
   - swsh8-238
   - swsh8-239
   - swsh2-167
   - swsh7-161
   - sm1-134
   - swsh12pt5-146
+  - sm6-114
+  - sm6-115
   - sm9-156
   - sm12-208
+  - sm3-128
+  - sm1-164
   - sm1-164
   - sm1-164
   - sm1-164
@@ -3385,11 +3396,8 @@ Card_Photos:
   - sm1-167
   - sm1-167
   - sm1-167
-  - sm1-167
-  - sm1-171
   - sm1-137
   - swsh2-173
-  - sm5-138
 ########################################
 URL: https://pokemoncard.io/deck/lazy-beat-down-53516
 Deck_Name: Lazy Beat Down SGLC (Semi-Gym Leader Challenge)
@@ -3995,101 +4003,101 @@ URL: https://pokemoncard.io/deck/firey-brush-sglc-semi-gym-leader-challenge-5538
 Deck_Name: Firey Brush SGLC (Semi-Gym Leader Challenge)
 Pokemon_List:
 Pokemon: 15
+  - 1 Appletun RCL 23
   - 1 Applin RCL 21
+  - 1 Capsakid SVI 28
   - 1 Flapple RCL 22
-  - 1 Fletchinder DAA 31
-  - 1 Fletchling EVS 138
   - 1 Fomantis SUM 14
-  - 1 Incineroar SIT 32
+  - 1 Incineroar UNB 29
+  - 1 Lilligant JTG 7
   - 1 Litleo LOR 28
-  - 1 Litten SIT 30
+  - 1 Litten SLG 15
   - 1 Lurantis PR-SM 25
+  - 1 Petilil JTG 6
   - 1 Pyroar EVS 23
   - 1 Regidrago ASR 118
-  - 1 Talonflame SIT 29
-  - 1 Torracat SIT 31
-  - 1 Yanma CRZ 8
-  - 1 Yanmega SHF 2
+  - 1 Scovillain SVI 29
+  - 1 Torracat UNB 28
 Trainer: 30
   - 1 Arezu LOR 153
   - 1 Avery CRE 130
   - 1 Ball Guy SHF 57
-  - 1 Boss's Orders SHF 58
   - 1 Candela PGO 65
   - 1 Energy Spinner UNB 170
   - 1 Escape Rope BST 125
   - 1 Evolution Incense SSH 163
-  - 1 Gardenia UPR 124
   - 1 Gardenia's Vigor ASR 143
   - 1 Giant Hearth UNM 197
   - 1 Gloria BRS 141
-  - 1 Grimsley UNM 199
   - 1 Guzma BUS 115
   - 1 Hisuian Heavy Ball ASR 146
+  - 1 Klara CRE 145
   - 1 Level Ball BST 129
   - 1 Magma Basin BRS 144
   - 1 Marnie CPA 56
   - 1 Marnie's Pride BRS 145
+  - 1 Mela PAR 167
   - 1 Nest Ball SUM 123
   - 1 Net Ball LOT 187
   - 1 Professor Kukui SUM 128
   - 1 Professor's Research SHF 60
   - 1 Raihan EVS 152
-  - 1 Rare Candy SSH 180
   - 1 Sonia RCL 167
   - 1 Tate & Liza CES 148
+  - 1 Technical Machine: Evolution PAR 178
   - 1 Timer Ball SUM 134
   - 1 Ultra Ball BRS 150
+  - 1 Vitality Band SSH 185
   - 1 Welder UNB 189
 Energy: 15
   - 8 Fire Energy 165
   - 6 Grass Energy 164
   - 1 Heat Fire Energy DAA 174
 Card_Photos:
+  - swsh2-23
   - swsh2-21
+  - sv1-28
   - swsh2-22
-  - swsh3-31
-  - swsh7-138
   - sm1-14
-  - swsh12-32
+  - sm10-29
+  - sv9-7
   - swsh11-28
-  - swsh12-30
+  - sm35-15
   - smp-SM25
+  - sv9-6
   - swsh7-23
   - swsh10-118
-  - swsh12-29
-  - swsh12-31
-  - swsh12pt5-8
-  - swsh45-2
+  - sv1-29
+  - sm10-28
   - swsh11-153
   - swsh6-130
   - swsh45-57
-  - swsh45-58
   - pgo-65
   - sm10-170
   - swsh5-125
   - swsh1-163
-  - sm5-124
   - swsh10-143
   - sm11-197
   - swsh9-141
-  - sm11-199
   - sm3-115
   - swsh10-146
+  - swsh6-145
   - swsh5-129
   - swsh9-144
   - swsh35-56
   - swsh9-145
+  - sv4-167
   - sm1-123
   - sm8-187
   - sm1-128
   - swsh45-60
   - swsh7-152
-  - swsh1-180
   - swsh2-167
   - sm7-148
+  - sv4-178
   - sm1-134
   - swsh9-150
+  - swsh1-185
   - sm10-189
   - sm1-165
   - sm1-165
@@ -4678,7 +4686,7 @@ Card_Photos:
 URL: https://pokemoncard.io/deck/command-force-sglc-semi-gym-leader-challenge-61370
 Deck_Name: Command Force SGLC (Semi-Gym Leader Challenge)
 Pokemon_List:
-Pokemon: 15
+Pokemon: 16
   - 1 Azumarill FST 59
   - 1 Empoleon UPR 34
   - 1 Feebas CIN 26
@@ -4692,6 +4700,7 @@ Pokemon: 15
   - 1 Milotic PAR 36
   - 1 Phione SIT 45
   - 1 Piplup BRS 35
+  - 1 Plusle CES 53
   - 1 Prinplup BRS 36
   - 1 Pyukumuku FST 77
 Trainer: 31
@@ -4702,9 +4711,9 @@ Trainer: 31
   - 1 Blanche PGO 64
   - 1 Brooklet Hill GRI 120
   - 1 Candice SIT 152
+  - 1 Capacious Bucket RCL 156
   - 1 Cynthia UPR 119
   - 1 Echoing Horn CRE 136
-  - 1 Energy Spinner UNB 170
   - 1 Evolution Incense SSH 163
   - 1 Gloria BRS 141
   - 1 Hisuian Heavy Ball ASR 146
@@ -4726,10 +4735,10 @@ Trainer: 31
   - 1 Switch Raft DRM 62
   - 1 Timer Ball SUM 134
   - 1 Ultra Ball BRS 150
-Energy: 14
+Energy: 13
   - 1 Double Colorless Energy SLG 69
   - 1 Twin Energy RCL 174
-  - 12 Water Energy 166
+  - 11 Water Energy 166
 Card_Photos:
   - swsh8-59
   - sm5-34
@@ -4744,6 +4753,7 @@ Card_Photos:
   - sv4-36
   - swsh12-45
   - swsh9-35
+  - sm7-53
   - swsh9-36
   - swsh8-77
   - sm2-119
@@ -4753,9 +4763,9 @@ Card_Photos:
   - pgo-64
   - sm2-120
   - swsh12-152
+  - swsh2-156
   - sm5-119
   - swsh6-136
-  - sm10-170
   - swsh1-163
   - swsh9-141
   - swsh10-146
@@ -4790,26 +4800,28 @@ Card_Photos:
   - sm1-166
   - sm1-166
   - sm1-166
-  - sm1-166
 ########################################
 URL: https://pokemoncard.io/deck/counter-support-sglc-semi-gym-leader-challenge-62391
 Deck_Name: Counter Support SGLC (Semi Gym Leader Challenge)
 Pokemon_List:
-Pokemon: 13
+Pokemon: 16
+  - 1 Aegislash UNM 95
   - 1 Baltoy SIT 93
   - 1 Claydol SIT 94
   - 1 Donphan VIV 87
+  - 1 Doublade UNM 94
   - 1 Galarian Runerigus RCL 102
   - 1 Galarian Yamask RCL 101
-  - 1 Golett CRE 65
+  - 1 Golett TEF 87
   - 1 Golurk CEC 90
+  - 1 Honedge UNM 92
   - 1 Onix PGO 36
   - 1 Phanpy VIV 86
   - 1 Steelix FST 139
   - 1 Stonjourner SIT 101
   - 1 Tauros CRZ 106
   - 1 Terrakion UNM 122
-Trainer: 30
+Trainer: 29
   - 1 Acro Bike CES 123
   - 1 Brooklet Hill GRI 120
   - 1 Buff Padding TEU 136
@@ -4836,28 +4848,30 @@ Trainer: 30
   - 1 Rotom Bike SSH 181
   - 1 Stadium Nav UNM 208
   - 1 Switch CRZ 144
-  - 1 Switch Cart ASR 154
   - 1 Timer Ball SUM 134
   - 1 Trekking Shoes ASR 156
   - 1 Ultra Ball CRZ 146
-Energy: 17
+Energy: 15
   - 1 Capture Energy RCL 171
   - 1 Counter Energy CIN 100
   - 1 Double Colorless Energy SLG 69
   - 1 Double Turbo Energy BRS 151
-  - 9 Fighting Energy 169
+  - 7 Fighting Energy 169
   - 1 Gift Energy LOR 171
   - 1 Rainbow Energy SUM 137
   - 1 Stone Fighting Energy VIV 164
   - 1 Twin Energy RCL 174
 Card_Photos:
+  - sm11-95
   - swsh12-93
   - swsh12-94
   - swsh4-87
+  - sm11-94
   - swsh2-102
   - swsh2-101
-  - swsh6-65
+  - sv5-87
   - sm12-90
+  - sm11-92
   - pgo-36
   - swsh4-86
   - swsh8-139
@@ -4890,7 +4904,6 @@ Card_Photos:
   - swsh1-181
   - sm11-208
   - swsh12pt5-144
-  - swsh10-154
   - sm1-134
   - swsh10-156
   - swsh12pt5-146
@@ -4898,8 +4911,6 @@ Card_Photos:
   - sm4-100
   - sm35-69
   - swsh9-151
-  - sm1-169
-  - sm1-169
   - sm1-169
   - sm1-169
   - sm1-169
@@ -5605,7 +5616,7 @@ Card_Photos:
 URL: https://pokemoncard.io/deck/frigid-recycler-65255
 Deck_Name: Frigid Recycler SGLC(Semi-Gym Leader Challenge)
 Pokemon_List:
-Pokemon: 18
+Pokemon: 19
   - 1 Arctibax PAL 59
   - 1 Articuno TEU 32
   - 1 Baxcalibur PAL 60
@@ -5619,6 +5630,7 @@ Pokemon: 18
   - 1 Seadra LOR 36
   - 1 Snom FST 84
   - 1 Squirtle TEU 23
+  - 1 Veluza PAR 54
   - 1 Wailmer VIV 31
   - 1 Wailord VIV 32
   - 1 Wartortle PGO 16
@@ -5651,8 +5663,8 @@ Trainer: 26
   - 1 Stadium Nav UNM 208
   - 1 Superior Energy Retrieval PAL 189
   - 1 Wishful Baton BUS 128
-Energy: 16
-  - 16 Water Energy 166
+Energy: 15
+  - 15 Water Energy 166
 Card_Photos:
   - sv2-59
   - sm9-32
@@ -5667,6 +5679,7 @@ Card_Photos:
   - swsh11-36
   - swsh8-84
   - sm9-23
+  - sv4-54
   - swsh4-31
   - swsh4-32
   - pgo-16
@@ -5698,7 +5711,6 @@ Card_Photos:
   - sm11-208
   - sv2-189
   - sm3-128
-  - sm1-166
   - sm1-166
   - sm1-166
   - sm1-166
@@ -7495,7 +7507,7 @@ Card_Photos:
 URL: https://pokemoncard.io/deck/cards-of-interest-76978
 Deck_Name: Cards of Interest
 Pokemon_List:
-Pokemon: 27
+Pokemon: 34
   - 1 Aggron UNB 125
   - 1 Aggron CIN 67
   - 1 Aggron CRZ 89
@@ -7503,11 +7515,11 @@ Pokemon: 27
   - 1 Corviknight SSH 135
   - 1 Corviknight DAA 156
   - 1 Corviknight FST 190
-  - 1 Donphan LOT 112
-  - 1 Eelektross UNM 66
+  - 1 Cradily SCR 6
   - 1 Eelektross LOR 61
   - 1 Eelektross VIV 59
   - 1 Empoleon CEC 56
+  - 1 Hisuian Typhlosion ASR 52
   - 1 Jangmo-o CEC 160
   - 1 Kommo-o DRM 54
   - 1 Krookodile SUM 85
@@ -7523,10 +7535,17 @@ Pokemon: 27
   - 1 Stoutland SUM 105
   - 1 Stoutland CEC 176
   - 1 Stoutland EVS 135
+  - 1 Thwackey TWM 15
+  - 1 Typhlosion LOT 42
+  - 1 Typhlosion PR-SM 185
+  - 1 Vileplume UNB 8
+  - 1 Vileplume BUS 6
+  - 1 Vileplume MEW 45
+  - 1 Vileplume LOR 3
 Trainer: 1
   - 1 Memory Capsule VIV 155
-Energy: 32
-  - 31 Basic Grass Energy 1
+Energy: 25
+  - 24 Basic Grass Energy 1
   - 1 Memory Energy LOT 194
 Card_Photos:
   - sm10-125
@@ -7536,11 +7555,11 @@ Card_Photos:
   - swsh1-135
   - swsh3-156
   - swsh8-190
-  - sm8-112
-  - sm11-66
+  - sv7-6
   - swsh11-61
   - swsh4-59
   - sm12-56
+  - swsh10-52
   - sm12-160
   - sm75-54
   - sm1-85
@@ -7556,14 +7575,14 @@ Card_Photos:
   - sm1-105
   - sm12-176
   - swsh7-135
+  - sv6-15
+  - sm8-42
+  - smp-SM185
+  - sm10-8
+  - sm3-6
+  - sv3pt5-45
+  - swsh11-3
   - swsh4-155
-  - sve-1
-  - sve-1
-  - sve-1
-  - sve-1
-  - sve-1
-  - sve-1
-  - sve-1
   - sve-1
   - sve-1
   - sve-1
@@ -7827,50 +7846,50 @@ Card_Photos:
 URL: https://pokemoncard.io/deck/dragon-s-roar-79209
 Deck_Name: Dragon's Roar SGLC (Semi-Gym Leader's Challenge)
 Pokemon_List:
-Pokemon: 13
+Pokemon: 12
   - 1 Bagon DRM 42
-  - 1 Camerupt PGO 14
+  - 1 Castform Rainy Form CRE 33
   - 1 Drampa CEC 159
+  - 1 Drizzile SSH 56
   - 1 Druddigon BRS 113
-  - 1 Entei CRZ 21
-  - 1 Fletchinder DAA 31
-  - 1 Fletchling EVS 138
-  - 1 Numel PGO 13
+  - 1 Inteleon SSH 58
   - 1 Salamence EVS 109
   - 1 Shelgon EVS 108
-  - 1 Talonflame SIT 29
+  - 1 Sobble SSH 55
+  - 1 Tatsugiri TWM 131
   - 1 Victini UNM 26
   - 1 Volcanion CRZ 26
-Trainer: 33
+Trainer: 34
   - 1 Arezu LOR 153
   - 1 Arven OBF 186
   - 1 Ball Guy SHF 57
-  - 1 Blanche PGO 64
   - 1 Boss's Orders SHF 58
-  - 1 Bravery Charm PAL 173
   - 1 Candela PGO 65
-  - 1 Capacious Bucket RCL 156
-  - 1 Dragon Talon DRM 59
+  - 1 Cynthia UPR 119
+  - 1 Energy Search CRZ 128
   - 1 Energy Spinner UNB 170
+  - 1 Exp. Share SUM 118
   - 1 Giant Hearth UNM 197
-  - 1 Gloria BRS 141
   - 1 Hisuian Heavy Ball ASR 146
   - 1 Klara CRE 145
   - 1 Lance SIT 159
   - 1 Level Ball BST 129
-  - 1 Magma Basin BRS 144
+  - 1 Lt. Surge's Strategy UNB 178
   - 1 Mela PAR 167
   - 1 Nest Ball PAF 84
+  - 1 Pal Pad SSH 172
   - 1 Pot Helmet BRS 146
+  - 1 Professor's Research BRS 147
   - 1 Quick Ball FST 237
   - 1 Raihan EVS 152
+  - 1 Rainbow Brush CES 141
   - 1 Rare Candy PGO 69
   - 1 Rescue Carrier CRZ 142
-  - 1 Rocky Helmet VIV 159
+  - 1 Scoop Up Net RCL 165
   - 1 Sonia CPA 65
-  - 1 Stadium Nav UNM 208
+  - 1 Switch CES 147
   - 1 Timer Ball SUM 134
-  - 1 Town Store OBF 196
+  - 1 U-Turn Board UNM 211
   - 1 Ultra Ball CRZ 146
   - 1 Welder UNB 189
   - 1 Wishful Baton BUS 128
@@ -7882,47 +7901,47 @@ Energy: 14
   - 1 Unit Energy GrassFireWater UPR 137
 Card_Photos:
   - sm75-42
-  - pgo-14
+  - swsh6-33
   - sm12-159
+  - swsh1-56
   - swsh9-113
-  - swsh12pt5-21
-  - swsh3-31
-  - swsh7-138
-  - pgo-13
+  - swsh1-58
   - swsh7-109
   - swsh7-108
-  - swsh12-29
+  - swsh1-55
+  - sv6-131
   - sm11-26
   - swsh12pt5-26
   - swsh11-153
   - sv3-186
   - swsh45-57
-  - pgo-64
   - swsh45-58
-  - sv2-173
   - pgo-65
-  - swsh2-156
-  - sm75-59
+  - sm5-119
+  - swsh12pt5-128
   - sm10-170
+  - sm1-118
   - sm11-197
-  - swsh9-141
   - swsh10-146
   - swsh6-145
   - swsh12-159
   - swsh5-129
-  - swsh9-144
+  - sm10-178
   - sv4-167
   - sv4pt5-84
+  - swsh1-172
   - swsh9-146
+  - swsh9-147
   - swsh8-237
   - swsh7-152
+  - sm7-141
   - pgo-69
   - swsh12pt5-142
-  - swsh4-159
+  - swsh2-165
   - swsh35-65
-  - sm11-208
+  - sm7-147
   - sm1-134
-  - sv3-196
+  - sm11-211
   - swsh12pt5-146
   - sm10-189
   - sm3-128
@@ -10011,4 +10030,912 @@ Card_Photos:
   - xy1-130
   - swsh9-151
   - swsh2-174
+########################################
+URL: https://pokemoncard.io/deck/wave-crash-sglc-semi-gym-leader-challenge-126074
+Deck_Name: Wave Crash SGLC (Semi-Gym Leader Challenge)
+Pokemon_List:
+Pokemon: 15
+  - 1 Arrokuda RCL 52
+  - 1 Barraskewda VIV 42
+  - 1 Bruxish BUS 38
+  - 1 Carvanha CPA 11
+  - 1 Castform Rainy Form CRE 33
+  - 1 Froakie FLI 22
+  - 1 Frogadier FLI 23
+  - 1 Greninja DET 9
+  - 1 Horsea BUS 29
+  - 1 Kingdra BUS 31
+  - 1 Kingler SSH 44
+  - 1 Krabby SSH 42
+  - 1 Kyogre CES 46
+  - 1 Seadra BUS 30
+  - 1 Sharpedo CPA 12
+Trainer: 34
+  - 1 Aqua Patch GRI 119
+  - 1 Arezu LOR 153
+  - 1 Avery CRE 130
+  - 1 Blanche PGO 64
+  - 1 Brooklet Hill GRI 120
+  - 1 Capacious Bucket RCL 156
+  - 1 Crushing Hammer SUM 115
+  - 1 Cynthia UPR 119
+  - 1 Energy Retrieval CRZ 127
+  - 1 Energy Spinner UNB 170
+  - 1 Escape Rope BST 125
+  - 1 Evolution Incense SSH 163
+  - 1 Gloria BRS 141
+  - 1 Grimsley UNM 199
+  - 1 Hop CPA 53
+  - 1 Klara CRE 145
+  - 1 Lady FLI 109
+  - 1 Level Ball BST 129
+  - 1 Lucky Egg SSH 167
+  - 1 Nessa VIV 157
+  - 1 Nest Ball SVI 181
+  - 1 Pokémon Communication TEU 152
+  - 1 Professor's Research SHF 60
+  - 1 Raihan EVS 152
+  - 1 Rescue Carrier EVS 154
+  - 1 Rocky Helmet VIV 159
+  - 1 Roxanne ASR 150
+  - 1 Salvatore TEF 160
+  - 1 Schoolgirl FST 239
+  - 1 Sonia RCL 167
+  - 1 Switch Raft DRM 62
+  - 1 Timer Ball SUM 134
+  - 1 Vengeful Punch OBF 197
+  - 1 Worker SIT 167
+Energy: 11
+  - 1 Double Colorless Energy FCO 114
+  - 1 Gift Energy LOR 171
+  - 1 Twin Energy RCL 174
+  - 8 Water Energy 166
+Card_Photos:
+  - swsh2-52
+  - swsh4-42
+  - sm3-38
+  - swsh35-11
+  - swsh6-33
+  - sm6-22
+  - sm6-23
+  - det1-9
+  - sm3-29
+  - sm3-31
+  - swsh1-44
+  - swsh1-42
+  - sm7-46
+  - sm3-30
+  - swsh35-12
+  - sm2-119
+  - swsh11-153
+  - swsh6-130
+  - pgo-64
+  - sm2-120
+  - swsh2-156
+  - sm1-115
+  - sm5-119
+  - swsh12pt5-127
+  - sm10-170
+  - swsh5-125
+  - swsh1-163
+  - swsh9-141
+  - sm11-199
+  - swsh35-53
+  - swsh6-145
+  - sm6-109
+  - swsh5-129
+  - swsh1-167
+  - swsh4-157
+  - sv1-181
+  - sm9-152
+  - swsh45-60
+  - swsh7-152
+  - swsh7-154
+  - swsh4-159
+  - swsh10-150
+  - sv5-160
+  - swsh8-239
+  - swsh2-167
+  - sm75-62
+  - sm1-134
+  - sv3-197
+  - swsh12-167
+  - xy10-114
+  - swsh11-171
+  - swsh2-174
+  - sm1-166
+  - sm1-166
+  - sm1-166
+  - sm1-166
+  - sm1-166
+  - sm1-166
+  - sm1-166
+  - sm1-166
+########################################
+URL: https://pokemoncard.io/deck/hop-s-deck-126078
+Deck_Name: Hop's Deck SGLC (Semi-Gym Leader Challenge)
+Pokemon_List:
+Pokemon: 17
+  - 1 Beldum VIV 116
+  - 1 Granbull FST 116
+  - 1 Hop's Corviknight JTG 108
+  - 1 Hop's Corvisquire JTG 134
+  - 1 Hop's Cramorant JTG 138
+  - 1 Hop's Dubwool JTG 136
+  - 1 Hop's Rookidee JTG 133
+  - 1 Hop's Sandaconda JTG 87
+  - 1 Hop's Silicobra JTG 86
+  - 1 Hop's Snorlax JTG 117
+  - 1 Hop's Wooloo JTG 135
+  - 1 Magnemite ASR 105
+  - 1 Magneton CEC 69
+  - 1 Magnezone ASR 107
+  - 1 Metang TEF 114
+  - 1 Snubbull FST 115
+  - 1 Zacian PAR 136
+Trainer: 29
+  - 1 Arezu LOR 153
+  - 1 Arven OBF 186
+  - 1 Avery CRE 130
+  - 1 Ball Guy SHF 57
+  - 1 Buddy-Buddy Poffin PRE 101
+  - 1 Cynthia UPR 119
+  - 1 Energy Recycler BST 124
+  - 1 Hisuian Heavy Ball ASR 146
+  - 1 Hop CPA 53
+  - 1 Hop's Bag JTG 147
+  - 1 Hop's Choice Band JTG 148
+  - 1 Lana's Aid TWM 155
+  - 1 Level Ball BST 129
+  - 1 Lt. Surge's Strategy UNB 178
+  - 1 Lusamine CIN 96
+  - 1 Marnie SSH 169
+  - 1 Nest Ball PAF 84
+  - 1 Postwick JTG 154
+  - 1 Pot Helmet BRS 146
+  - 1 Professor Kukui SUM 128
+  - 1 Rescue Carrier CRZ 142
+  - 1 Rescue Stretcher GRI 130
+  - 1 Scoop Up Net RCL 165
+  - 1 Sonia RCL 167
+  - 1 Super Rod PAL 188
+  - 1 Tate & Liza CES 148
+  - 1 Technical Machine: Evolution PAR 178
+  - 1 Timer Ball SUM 134
+  - 1 Ultra Ball SLG 68
+Energy: 14
+  - 2 Basic Fighting Energy 6
+  - 8 Basic Metal Energy 8
+  - 1 Capture Energy RCL 171
+  - 1 Double Colorless Energy SUM 136
+  - 1 Double Turbo Energy BRS 151
+  - 1 Twin Energy RCL 174
+Card_Photos:
+  - swsh4-116
+  - swsh8-116
+  - sv9-108
+  - sv9-134
+  - sv9-138
+  - sv9-136
+  - sv9-133
+  - sv9-87
+  - sv9-86
+  - sv9-117
+  - sv9-135
+  - swsh10-105
+  - sm12-69
+  - swsh10-107
+  - sv5-114
+  - swsh8-115
+  - sv4-136
+  - swsh11-153
+  - sv3-186
+  - swsh6-130
+  - swsh45-57
+  - sv8pt5-101
+  - sm5-119
+  - swsh5-124
+  - swsh10-146
+  - swsh35-53
+  - sv9-147
+  - sv9-148
+  - sv6-155
+  - swsh5-129
+  - sm10-178
+  - sm4-96
+  - swsh1-169
+  - sv4pt5-84
+  - sv9-154
+  - swsh9-146
+  - sm1-128
+  - swsh12pt5-142
+  - sm2-130
+  - swsh2-165
+  - swsh2-167
+  - sv2-188
+  - sm7-148
+  - sv4-178
+  - sm1-134
+  - sm35-68
+  - sve-6
+  - sve-6
+  - sve-8
+  - sve-8
+  - sve-8
+  - sve-8
+  - sve-8
+  - sve-8
+  - sve-8
+  - sve-8
+  - swsh2-171
+  - sm1-136
+  - swsh9-151
+  - swsh2-174
+########################################
+URL: https://pokemoncard.io/deck/festival-leaders-sglc-semi-gym-leaders-challenge-126335
+Deck_Name: Festival Leaders SGLC (Semi-Gym Leaders Challenge)
+Pokemon_List:
+Pokemon: 14
+  - 1 Applin SCR 12
+  - 1 Dipplin PRE 10
+  - 1 Eldegoss SSH 21
+  - 1 Fomantis SUM 14
+  - 1 Goldeen PRE 20
+  - 1 Gossifleur SSH 20
+  - 1 Grookey TWM 14
+  - 1 Lilligant JTG 7
+  - 1 Lurantis PR-SM 25
+  - 1 Petilil JTG 6
+  - 1 Rillaboom TWM 16
+  - 1 Seaking PRE 21
+  - 1 Swirlix TWM 89
+  - 1 Thwackey TWM 15
+Trainer: 34
+  - 1 Air Balloon SSH 156
+  - 1 Arezu LOR 153
+  - 1 Avery CRE 130
+  - 1 Ball Guy SHF 57
+  - 1 Brassius OBF 187
+  - 1 Brock's Scouting JTG 146
+  - 1 Bug Catching Set PRE 102
+  - 1 Carmine TWM 145
+  - 1 Colress's Tenacity SFA 57
+  - 1 Cynthia & Caitlin CEC 189
+  - 1 Festival Grounds PRE 108
+  - 1 Gardenia's Vigor ASR 143
+  - 1 Gloria BRS 141
+  - 1 Guzma & Hala CEC 193
+  - 1 Hisuian Heavy Ball ASR 146
+  - 1 Hop SSH 165
+  - 1 Lana's Aid TWM 155
+  - 1 Level Ball BST 129
+  - 1 Nest Ball SVI 181
+  - 1 Net Ball LOT 187
+  - 1 Perrin TWM 160
+  - 1 Pokémon Communication TEU 152
+  - 1 Pot Helmet BRS 146
+  - 1 Quick Ball FST 237
+  - 1 Rescue Carrier CRZ 142
+  - 1 Roseanne's Backup BRS 148
+  - 1 Sonia CPA 65
+  - 1 Stadium Nav UNM 208
+  - 1 Switch SUM 132
+  - 1 Technical Machine: Evolution PAR 178
+  - 1 Technical Machine: Turbo Energize PAR 179
+  - 1 Timer Ball SUM 134
+  - 1 Ultra Ball BRS 150
+  - 1 Vitality Band SSH 185
+Energy: 12
+  - 12 Basic Grass Energy 1
+Card_Photos:
+  - sv7-12
+  - sv8pt5-10
+  - swsh1-21
+  - sm1-14
+  - sv8pt5-20
+  - swsh1-20
+  - sv6-14
+  - sv9-7
+  - smp-SM25
+  - sv9-6
+  - sv6-16
+  - sv8pt5-21
+  - sv6-89
+  - sv6-15
+  - swsh1-156
+  - swsh11-153
+  - swsh6-130
+  - swsh45-57
+  - sv3-187
+  - sv9-146
+  - sv8pt5-102
+  - sv6-145
+  - sv6pt5-57
+  - sm12-189
+  - sv8pt5-108
+  - swsh10-143
+  - swsh9-141
+  - sm12-193
+  - swsh10-146
+  - swsh1-165
+  - sv6-155
+  - swsh5-129
+  - sv1-181
+  - sm8-187
+  - sv6-160
+  - sm9-152
+  - swsh9-146
+  - swsh8-237
+  - swsh12pt5-142
+  - swsh9-148
+  - swsh35-65
+  - sm11-208
+  - sm1-132
+  - sv4-178
+  - sv4-179
+  - sm1-134
+  - swsh9-150
+  - swsh1-185
+  - sve-1
+  - sve-1
+  - sve-1
+  - sve-1
+  - sve-1
+  - sve-1
+  - sve-1
+  - sve-1
+  - sve-1
+  - sve-1
+  - sve-1
+  - sve-1
+########################################
+URL: https://pokemoncard.io/deck/damage-swapper-sglc-semi-gym-leader-challenge-126575
+Deck_Name: Damage Swapper SGLC (Semi Gym Leader Challenge)
+Pokemon_List:
+Pokemon: 14
+  - 1 Cresselia LOR 74
+  - 1 Croconaw TEF 40
+  - 1 Dodrio MEW 85
+  - 1 Doduo UNB 150
+  - 1 Drifblim UPR 52
+  - 1 Drifloon SVI 89
+  - 1 Espurr FLI 44
+  - 1 Feraligatr TEF 41
+  - 1 Gengar LOR 66
+  - 1 Meowstic BST 61
+  - 1 Munkidori TWM 95
+  - 1 Relicanth TEF 84
+  - 1 Spiritomb UNB 112
+  - 1 Totodile TEF 39
+Trainer: 32
+  - 1 Altar of the Moone GRI 117
+  - 1 Aqua Patch GRI 119
+  - 1 Avery CRE 130
+  - 1 Ball Guy SHF 57
+  - 1 Capacious Bucket RCL 156
+  - 1 Cynthia UPR 119
+  - 1 Damage Mover SLG 58
+  - 1 Damage Pump LOR 156
+  - 1 Energy Spinner UNB 170
+  - 1 Fog Crystal CRE 140
+  - 1 Hisuian Heavy Ball ASR 146
+  - 1 Irida ASR 147
+  - 1 Klara CRE 145
+  - 1 Level Ball BST 129
+  - 1 Marnie SSH 169
+  - 1 Memory Capsule VIV 155
+  - 1 Mysterious Treasure FLI 113
+  - 1 Nessa VIV 157
+  - 1 Nest Ball PAF 84
+  - 1 Professor's Research (Professor Magnolia) SSH 178
+  - 1 Raihan EVS 152
+  - 1 Rainbow Brush CES 141
+  - 1 Rare Candy PGO 69
+  - 1 Rescue Stretcher GRI 130
+  - 1 Ryme OBF 194
+  - 1 Sitrus Berry SSH 182
+  - 1 Sonia RCL 167
+  - 1 Switch CES 147
+  - 1 Timer Ball SUM 134
+  - 1 Tulip PAR 181
+  - 1 Ultra Ball BRS 150
+  - 1 Worker SIT 167
+Energy: 14
+  - 4 Basic Psychic Energy 5
+  - 6 Basic Water Energy 3
+  - 3 Basic Darkness Energy 7
+  - 1 Rainbow Energy SUM 137
+Card_Photos:
+  - swsh11-74
+  - sv5-40
+  - sv3pt5-85
+  - sm10-150
+  - sm5-52
+  - sv1-89
+  - sm6-44
+  - sv5-41
+  - swsh11-66
+  - swsh5-61
+  - sv6-95
+  - sv5-84
+  - sm10-112
+  - sv5-39
+  - sm2-117
+  - sm2-119
+  - swsh6-130
+  - swsh45-57
+  - swsh2-156
+  - sm5-119
+  - sm35-58
+  - swsh11-156
+  - sm10-170
+  - swsh6-140
+  - swsh10-146
+  - swsh10-147
+  - swsh6-145
+  - swsh5-129
+  - swsh1-169
+  - swsh4-155
+  - sm6-113
+  - swsh4-157
+  - sv4pt5-84
+  - swsh1-178
+  - swsh7-152
+  - sm7-141
+  - pgo-69
+  - sm2-130
+  - sv3-194
+  - swsh1-182
+  - swsh2-167
+  - sm7-147
+  - sm1-134
+  - sv4-181
+  - swsh9-150
+  - swsh12-167
+  - sve-5
+  - sve-5
+  - sve-5
+  - sve-5
+  - sve-3
+  - sve-3
+  - sve-3
+  - sve-3
+  - sve-3
+  - sve-3
+  - sve-7
+  - sve-7
+  - sve-7
+  - sm1-137
+########################################
+URL: https://pokemoncard.io/deck/damage-swapper-sglc-semi-gym-leader-challenge-126575
+Deck_Name: Damage Swapper SGLC (Semi Gym Leader Challenge)
+Pokemon_List:
+Pokemon: 14
+  - 1 Cresselia LOR 74
+  - 1 Croconaw TEF 40
+  - 1 Dodrio MEW 85
+  - 1 Doduo UNB 150
+  - 1 Drifblim UPR 52
+  - 1 Drifloon SVI 89
+  - 1 Espurr FLI 44
+  - 1 Feraligatr TEF 41
+  - 1 Gengar LOR 66
+  - 1 Meowstic BST 61
+  - 1 Munkidori TWM 95
+  - 1 Relicanth TEF 84
+  - 1 Spiritomb UNB 112
+  - 1 Totodile TEF 39
+Trainer: 32
+  - 1 Altar of the Moone GRI 117
+  - 1 Aqua Patch GRI 119
+  - 1 Avery CRE 130
+  - 1 Ball Guy SHF 57
+  - 1 Capacious Bucket RCL 156
+  - 1 Cynthia UPR 119
+  - 1 Damage Mover SLG 58
+  - 1 Damage Pump LOR 156
+  - 1 Energy Spinner UNB 170
+  - 1 Fog Crystal CRE 140
+  - 1 Hisuian Heavy Ball ASR 146
+  - 1 Irida ASR 147
+  - 1 Klara CRE 145
+  - 1 Level Ball BST 129
+  - 1 Marnie SSH 169
+  - 1 Memory Capsule VIV 155
+  - 1 Mysterious Treasure FLI 113
+  - 1 Nessa VIV 157
+  - 1 Nest Ball PAF 84
+  - 1 Professor's Research (Professor Magnolia) SSH 178
+  - 1 Raihan EVS 152
+  - 1 Rainbow Brush CES 141
+  - 1 Rare Candy PGO 69
+  - 1 Rescue Stretcher GRI 130
+  - 1 Ryme OBF 194
+  - 1 Sitrus Berry SSH 182
+  - 1 Sonia RCL 167
+  - 1 Switch CES 147
+  - 1 Timer Ball SUM 134
+  - 1 Tulip PAR 181
+  - 1 Ultra Ball BRS 150
+  - 1 Worker SIT 167
+Energy: 14
+  - 4 Basic Psychic Energy 5
+  - 6 Basic Water Energy 3
+  - 3 Basic Darkness Energy 7
+  - 1 Rainbow Energy SUM 137
+Card_Photos:
+  - swsh11-74
+  - sv5-40
+  - sv3pt5-85
+  - sm10-150
+  - sm5-52
+  - sv1-89
+  - sm6-44
+  - sv5-41
+  - swsh11-66
+  - swsh5-61
+  - sv6-95
+  - sv5-84
+  - sm10-112
+  - sv5-39
+  - sm2-117
+  - sm2-119
+  - swsh6-130
+  - swsh45-57
+  - swsh2-156
+  - sm5-119
+  - sm35-58
+  - swsh11-156
+  - sm10-170
+  - swsh6-140
+  - swsh10-146
+  - swsh10-147
+  - swsh6-145
+  - swsh5-129
+  - swsh1-169
+  - swsh4-155
+  - sm6-113
+  - swsh4-157
+  - sv4pt5-84
+  - swsh1-178
+  - swsh7-152
+  - sm7-141
+  - pgo-69
+  - sm2-130
+  - sv3-194
+  - swsh1-182
+  - swsh2-167
+  - sm7-147
+  - sm1-134
+  - sv4-181
+  - swsh9-150
+  - swsh12-167
+  - sve-5
+  - sve-5
+  - sve-5
+  - sve-5
+  - sve-3
+  - sve-3
+  - sve-3
+  - sve-3
+  - sve-3
+  - sve-3
+  - sve-7
+  - sve-7
+  - sve-7
+  - sm1-137
+########################################
+URL: https://pokemoncard.io/deck/counter-flame-sglc-semi-gym-leader-challenge-126825
+Deck_Name: Counter Flame SGLC (Semi Gym Leader Challenge)
+Pokemon_List:
+Pokemon: 14
+  - 1 Boltund BST 53
+  - 1 Centiskorch SSP 28
+  - 1 Chandelure GRI 13
+  - 1 Darmanitan OBF 35
+  - 1 Darumaka UNB 23
+  - 1 Dubwool CRZ 122
+  - 1 Fletchinder DAA 31
+  - 1 Fletchling EVS 138
+  - 1 Lampent RCL 32
+  - 1 Litwick UNM 28
+  - 1 Moltres BRS 21
+  - 1 Sizzlipede FST 46
+  - 1 Talonflame PAL 30
+  - 1 Wooloo CRZ 121
+Trainer: 32
+  - 1 Ball Guy SHF 57
+  - 1 Candela PGO 65
+  - 1 Colress's Tenacity SFA 57
+  - 1 Damage Pump LOR 156
+  - 1 Dusk Stone UNB 167
+  - 1 Earthen Vessel PRE 106
+  - 1 Fiery Flint DRM 60
+  - 1 Giant Hearth UNM 197
+  - 1 Great Ball CPA 52
+  - 1 Guzma & Hala CEC 193
+  - 1 Hapu UNM 200
+  - 1 Hisuian Heavy Ball ASR 146
+  - 1 Kindler BRS 143
+  - 1 Klara CRE 145
+  - 1 Level Ball BST 129
+  - 1 Lure Ball CES 138
+  - 1 Lusamine CIN 96
+  - 1 Magma Basin BRS 144
+  - 1 Mela PAR 167
+  - 1 Nest Ball SUM 123
+  - 1 Poké Ball CRZ 137
+  - 1 Professor's Research (Professor Magnolia) SSH 178
+  - 1 Quick Ball SSH 179
+  - 1 Raihan EVS 152
+  - 1 Rare Candy PGO 69
+  - 1 Rescue Stretcher GRI 130
+  - 1 Roseanne's Backup BRS 148
+  - 1 Salvatore TEF 160
+  - 1 TV Reporter CES 149
+  - 1 Timer Ball SUM 134
+  - 1 Ultra Ball BRS 150
+  - 1 Welder UNB 189
+Energy: 14
+  - 1 Aurora Energy SSH 186
+  - 11 Basic Fire Energy 2
+  - 1 Luminous Energy PAL 191
+  - 1 Rainbow Energy SUM 137
+Card_Photos:
+  - swsh5-53
+  - sv8-28
+  - sm2-13
+  - sv3-35
+  - sm10-23
+  - swsh12pt5-122
+  - swsh3-31
+  - swsh7-138
+  - swsh2-32
+  - sm11-28
+  - swsh9-21
+  - swsh8-46
+  - sv2-30
+  - swsh12pt5-121
+  - swsh45-57
+  - pgo-65
+  - sv6pt5-57
+  - swsh11-156
+  - sm10-167
+  - sv8pt5-106
+  - sm75-60
+  - sm11-197
+  - swsh35-52
+  - sm12-193
+  - sm11-200
+  - swsh10-146
+  - swsh9-143
+  - swsh6-145
+  - swsh5-129
+  - sm7-138
+  - sm4-96
+  - swsh9-144
+  - sv4-167
+  - sm1-123
+  - swsh12pt5-137
+  - swsh1-178
+  - swsh1-179
+  - swsh7-152
+  - pgo-69
+  - sm2-130
+  - swsh9-148
+  - sv5-160
+  - sm7-149
+  - sm1-134
+  - swsh9-150
+  - sm10-189
+  - swsh1-186
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sv2-191
+  - sm1-137
+########################################
+URL: https://pokemoncard.io/deck/fire-converter-sglc-semi-gym-leader-challenge-126829
+Deck_Name: Fire Converter SGLC (Semi Gym Leader Challenge)
+Pokemon_List:
+Pokemon: 14
+  - 1 Armarouge PAF 15
+  - 1 Charcadet PAL 39
+  - 1 Cyndaquil LOT 40
+  - 1 Entei CRZ 21
+  - 1 Fletchinder EVS 139
+  - 1 Fletchling EVS 138
+  - 1 Ninetales FST 31
+  - 1 Oricorio PAL 33
+  - 1 Pyroar PRE 16
+  - 1 Quilava ASR 24
+  - 1 Talonflame EVS 140
+  - 1 Typhlosion LOT 42
+  - 1 Victini CEC 30
+  - 1 Vulpix FST 29
+Trainer: 33
+  - 1 Adventure Bag LOT 167
+  - 1 Air Balloon SSH 156
+  - 1 Arezu LOR 153
+  - 1 Avery CRE 130
+  - 1 Bird Keeper DAA 159
+  - 1 Brock's Scouting JTG 146
+  - 1 Buddy-Buddy Poffin TEF 144
+  - 1 Candela PGO 65
+  - 1 Colress's Tenacity SFA 57
+  - 1 Cynthia UPR 119
+  - 1 Escape Rope BUS 114
+  - 1 Fiery Flint DRM 60
+  - 1 Fire Crystal UNB 173
+  - 1 Giant Hearth UNM 197
+  - 1 Gloria BRS 141
+  - 1 Guzma & Hala CEC 193
+  - 1 Hop CPA 53
+  - 1 Kiawe BUS 116
+  - 1 Lusamine CIN 96
+  - 1 Luxurious Cape PAR 166
+  - 1 Magma Basin BRS 144
+  - 1 Mela PAR 167
+  - 1 Ordinary Rod SSH 171
+  - 1 Pot Helmet BRS 146
+  - 1 Potion CPA 61
+  - 1 Raihan EVS 152
+  - 1 Rare Candy CRZ 141
+  - 1 Rescue Carrier CRZ 142
+  - 1 Sonia CPA 65
+  - 1 Switch SLG 67
+  - 1 Tate & Liza CES 148
+  - 1 Technical Machine: Evolution PAR 178
+  - 1 Trekking Shoes ASR 156
+Energy: 13
+  - 8 Basic Fire Energy 2
+  - 1 Capture Energy RCL 171
+  - 1 Double Colorless Energy FCO 114
+  - 1 Double Turbo Energy BRS 151
+  - 1 Gift Energy LOR 171
+  - 1 Twin Energy RCL 174
+Card_Photos:
+  - sv4pt5-15
+  - sv2-39
+  - sm8-40
+  - swsh12pt5-21
+  - swsh7-139
+  - swsh7-138
+  - swsh8-31
+  - sv2-33
+  - sv8pt5-16
+  - swsh10-24
+  - swsh7-140
+  - sm8-42
+  - sm12-30
+  - swsh8-29
+  - sm8-167
+  - swsh1-156
+  - swsh11-153
+  - swsh6-130
+  - swsh3-159
+  - sv9-146
+  - sv5-144
+  - pgo-65
+  - sv6pt5-57
+  - sm5-119
+  - sm3-114
+  - sm75-60
+  - sm10-173
+  - sm11-197
+  - swsh9-141
+  - sm12-193
+  - swsh35-53
+  - sm3-116
+  - sm4-96
+  - sv4-166
+  - swsh9-144
+  - sv4-167
+  - swsh1-171
+  - swsh9-146
+  - swsh35-61
+  - swsh7-152
+  - swsh12pt5-141
+  - swsh12pt5-142
+  - swsh35-65
+  - sm35-67
+  - sm7-148
+  - sv4-178
+  - swsh10-156
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - swsh2-171
+  - xy10-114
+  - swsh9-151
+  - swsh11-171
+  - swsh2-174
+########################################
+URL: https://pokemoncard.io/deck/finishing-burn-sglc-semi-gym-leader-challenge-126923
+Deck_Name: Finishing Burn SGLC (Semi Gym Leader Challenge)
+Pokemon_List:
+Pokemon: 6
+  - 1 Armarouge OBF 44
+  - 1 Centiskorch TEF 37
+  - 1 Magcargo TEF 29
+  - 1 Magmortar UPR 19
+  - 1 Salazzle GRI 16
+  - 1 Sizzlipede FST 47
+Trainer: 0
+Energy: 54
+  - 54 Basic Fire Energy 2
+Card_Photos:
+  - sv3-44
+  - sv5-37
+  - sv5-29
+  - sm5-19
+  - sm2-16
+  - swsh8-47
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
+  - sve-2
 ########################################
