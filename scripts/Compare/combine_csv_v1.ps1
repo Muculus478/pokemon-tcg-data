@@ -1,5 +1,5 @@
 #Define the Paths
-$smswshsvcsvs = 'C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\csvfiltered'
+$smswshsvcsvs = 'C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\csvraw'
 $outputCsv = 'C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\csvfiltered\csvcombined\csvcombine.csv'
 
 #Get all the csvs where it starts with s
