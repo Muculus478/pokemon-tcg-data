@@ -37,7 +37,6 @@
   - 193
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -78,7 +77,6 @@
   - 469
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -122,7 +120,6 @@
   - 251
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -162,7 +159,6 @@
   - 331
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -206,7 +202,6 @@
   - 357
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -487,7 +482,7 @@
     text: If you have a Stadium in play, this Pokémon has no Retreat Cost.
     type: Ability
   attacks:
-  - name: Branch Poké
+  - name: Branch Poke
     cost:
     - Grass
     convertedEnergyCost: 1
@@ -592,7 +587,6 @@
   - 829
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -635,7 +629,6 @@
   - 830
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -681,7 +674,6 @@
   - 893
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -846,7 +838,6 @@
   - 116
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -925,7 +916,6 @@
   - 418
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -962,7 +952,6 @@
   - 419
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1005,7 +994,6 @@
   - 490
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1053,7 +1041,6 @@
   - 721
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1099,7 +1086,6 @@
   - 833
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1145,7 +1131,6 @@
   - 834
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1183,7 +1168,6 @@
   - 845
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:

@@ -12,8 +12,8 @@ def convert_json_to_yaml(json_file, yaml_file):
         yaml.dump(json_data, file, allow_unicode=True, sort_keys=False)
 
 # Set the source directory for JSON files and the destination directory for YAML files
-json_dir = r'C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\en'
-yaml_dir = r'C:\Users\Gunna\Documents\GitHub\pokemon-tcg-data\cards\yml'
+json_dir = r'C:\Users\Gunna\Documents\Personal\GitHub\pokemon-tcg-data\cards\en'
+yaml_dir = r'C:\Users\Gunna\Documents\Personal\GitHub\pokemon-tcg-data\cards\yml'
 
 # Ensure the YAML directory exists, create if not
 os.makedirs(yaml_dir, exist_ok=True)

@@ -23,6 +23,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '1'
+  artist: Naoyo Kimura
   rarity: Common
   nationalPokedexNumbers:
   - 595
@@ -64,6 +65,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '2'
+  artist: mashu
   rarity: Uncommon
   nationalPokedexNumbers:
   - 596
@@ -105,6 +107,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '3'
+  artist: Yoshimi Miyoshi
   rarity: Common
   nationalPokedexNumbers:
   - 722
@@ -148,6 +151,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '4'
+  artist: Tetsu Kayama
   rarity: Common
   nationalPokedexNumbers:
   - 723
@@ -190,6 +194,7 @@
   - Colorless
   convertedRetreatCost: 2
   number: '5'
+  artist: DOM
   rarity: Uncommon
   nationalPokedexNumbers:
   - 724
@@ -228,7 +233,10 @@
   - Colorless
   convertedRetreatCost: 3
   number: '6'
+  artist: GOSSAN
   rarity: Rare
+  nationalPokedexNumbers:
+  - 787
   legalities:
     unlimited: Legal
     standard: Legal
@@ -270,6 +278,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '7'
+  artist: REND
   rarity: Common
   nationalPokedexNumbers:
   - 228
@@ -315,6 +324,7 @@
   - Colorless
   convertedRetreatCost: 2
   number: '8'
+  artist: burari
   rarity: Common
   nationalPokedexNumbers:
   - 229
@@ -361,7 +371,10 @@
   - Colorless
   convertedRetreatCost: 2
   number: '9'
+  artist: Shinji Kanda
   rarity: Uncommon
+  nationalPokedexNumbers:
+  - 994
   legalities:
     unlimited: Legal
     standard: Legal
@@ -401,6 +414,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '10'
+  artist: Shimaris Yukichi
   rarity: Common
   nationalPokedexNumbers:
   - 116
@@ -445,6 +459,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '11'
+  artist: Yuya Oka
   rarity: Common
   nationalPokedexNumbers:
   - 117
@@ -490,6 +505,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '12'
+  artist: toriyufu
   rarity: Double Rare
   nationalPokedexNumbers:
   - 230
@@ -532,6 +548,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '13'
+  artist: Krgc
   rarity: Common
   nationalPokedexNumbers:
   - 215
@@ -574,6 +591,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '14'
+  artist: aspara
   rarity: Uncommon
   nationalPokedexNumbers:
   - 461
@@ -624,6 +642,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '15'
+  artist: PLANETA Mochizuki
   rarity: Double Rare
   nationalPokedexNumbers:
   - 966
@@ -663,6 +682,7 @@
   - Colorless
   convertedRetreatCost: 2
   number: '16'
+  artist: OKUBO
   rarity: Common
   nationalPokedexNumbers:
   - 96
@@ -703,6 +723,7 @@
   - Colorless
   convertedRetreatCost: 2
   number: '17'
+  artist: Masako Tomii
   rarity: Uncommon
   nationalPokedexNumbers:
   - 97
@@ -748,6 +769,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '18'
+  artist: IKEDA Saki
   rarity: Common
   nationalPokedexNumbers:
   - 355
@@ -794,6 +816,7 @@
   - Colorless
   convertedRetreatCost: 2
   number: '19'
+  artist: Aya Kusube
   rarity: Common
   nationalPokedexNumbers:
   - 356
@@ -840,6 +863,7 @@
   - Colorless
   convertedRetreatCost: 3
   number: '20'
+  artist: danciao
   rarity: Rare
   nationalPokedexNumbers:
   - 477
@@ -885,6 +909,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '21'
+  artist: matazo
   rarity: Rare
   nationalPokedexNumbers:
   - 488
@@ -928,6 +953,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '22'
+  artist: Kuroimori
   rarity: Uncommon
   nationalPokedexNumbers:
   - 700
@@ -970,6 +996,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '23'
+  artist: Aliya Chen
   rarity: Common
   nationalPokedexNumbers:
   - 453
@@ -1014,6 +1041,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '24'
+  artist: Anesaki Dynamic
   rarity: Common
   nationalPokedexNumbers:
   - 454
@@ -1058,6 +1086,7 @@
   - Colorless
   convertedRetreatCost: 4
   number: '25'
+  artist: Souichirou Gunjima
   rarity: Rare
   nationalPokedexNumbers:
   - 901
@@ -1104,7 +1133,10 @@
   - Colorless
   convertedRetreatCost: 3
   number: '26'
+  artist: Shinji Kanda
   rarity: Uncommon
+  nationalPokedexNumbers:
+  - 988
   legalities:
     unlimited: Legal
     standard: Legal
@@ -1147,6 +1179,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '27'
+  artist: osare
   rarity: Common
   nationalPokedexNumbers:
   - 41
@@ -1193,6 +1226,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '28'
+  artist: Teeziro
   rarity: Common
   nationalPokedexNumbers:
   - 42
@@ -1234,6 +1268,7 @@
   - type: Fighting
     value: '-30'
   number: '29'
+  artist: Nisota Niso
   rarity: Uncommon
   nationalPokedexNumbers:
   - 169
@@ -1268,6 +1303,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '30'
+  artist: rika
   rarity: Common
   nationalPokedexNumbers:
   - 359
@@ -1310,6 +1346,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '31'
+  artist: Yuu Nishida
   rarity: Common
   nationalPokedexNumbers:
   - 570
@@ -1354,6 +1391,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '32'
+  artist: nagimiso
   rarity: Rare
   nationalPokedexNumbers:
   - 571
@@ -1396,6 +1434,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '33'
+  artist: Mori Yuu
   rarity: Common
   nationalPokedexNumbers:
   - 686
@@ -1442,6 +1481,7 @@
   - Colorless
   convertedRetreatCost: 3
   number: '34'
+  artist: akagi
   rarity: Uncommon
   nationalPokedexNumbers:
   - 687
@@ -1487,6 +1527,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '35'
+  artist: SIE NANAHARA
   rarity: Uncommon
   nationalPokedexNumbers:
   - 717
@@ -1536,7 +1577,10 @@
   - Colorless
   convertedRetreatCost: 3
   number: '36'
+  artist: takuyoa
   rarity: Double Rare
+  nationalPokedexNumbers:
+  - 1014
   legalities:
     unlimited: Legal
     standard: Legal
@@ -1579,7 +1623,10 @@
   - Colorless
   convertedRetreatCost: 1
   number: '37'
+  artist: takuyoa
   rarity: Double Rare
+  nationalPokedexNumbers:
+  - 1015
   legalities:
     unlimited: Legal
     standard: Legal
@@ -1623,7 +1670,10 @@
   - Colorless
   convertedRetreatCost: 1
   number: '38'
+  artist: takuyoa
   rarity: Double Rare
+  nationalPokedexNumbers:
+  - 1016
   legalities:
     unlimited: Legal
     standard: Legal
@@ -1666,7 +1716,10 @@
   - Colorless
   convertedRetreatCost: 1
   number: '39'
+  artist: aky CG Works
   rarity: Double Rare
+  nationalPokedexNumbers:
+  - 1025
   legalities:
     unlimited: Legal
     standard: Legal
@@ -1707,6 +1760,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '40'
+  artist: Kazumasa Yasukuni
   rarity: Uncommon
   nationalPokedexNumbers:
   - 649
@@ -1756,6 +1810,7 @@
   - Colorless
   convertedRetreatCost: 3
   number: '41'
+  artist: Shinya Mizuno
   rarity: Common
   nationalPokedexNumbers:
   - 878
@@ -1805,6 +1860,7 @@
   - Colorless
   convertedRetreatCost: 4
   number: '42'
+  artist: kawayoo
   rarity: Rare
   nationalPokedexNumbers:
   - 879
@@ -1849,6 +1905,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '43'
+  artist: HAGIYA Kaoru
   rarity: Common
   nationalPokedexNumbers:
   - 965
@@ -1889,6 +1946,7 @@
   - Colorless
   convertedRetreatCost: 2
   number: '44'
+  artist: Orca
   rarity: Common
   nationalPokedexNumbers:
   - 610
@@ -1929,6 +1987,7 @@
   - Colorless
   convertedRetreatCost: 2
   number: '45'
+  artist: Uninori
   rarity: Common
   nationalPokedexNumbers:
   - 611
@@ -1969,6 +2028,7 @@
   - Colorless
   convertedRetreatCost: 2
   number: '46'
+  artist: Tsuyoshi Nagano
   rarity: Rare
   nationalPokedexNumbers:
   - 612
@@ -2010,6 +2070,7 @@
   - Colorless
   convertedRetreatCost: 2
   number: '47'
+  artist: Shiburingaru
   rarity: Uncommon
   nationalPokedexNumbers:
   - 646
@@ -2046,6 +2107,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '48'
+  artist: sui
   rarity: Common
   nationalPokedexNumbers:
   - 52
@@ -2089,6 +2151,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '49'
+  artist: NC Empire
   rarity: Common
   nationalPokedexNumbers:
   - 53
@@ -2139,6 +2202,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '50'
+  artist: Susumu Maeya
   rarity: Common
   nationalPokedexNumbers:
   - 133
@@ -2172,6 +2236,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '51'
+  artist: Shinya Komatsu
   rarity: Common
   nationalPokedexNumbers:
   - 676
@@ -2208,6 +2273,7 @@
   - Colorless
   convertedRetreatCost: 2
   number: '52'
+  artist: ryoma uratsuka
   rarity: Common
   nationalPokedexNumbers:
   - 759
@@ -2253,6 +2319,7 @@
   - Colorless
   convertedRetreatCost: 3
   number: '53'
+  artist: Takeshi Nakamura
   rarity: Common
   nationalPokedexNumbers:
   - 760
@@ -2276,6 +2343,7 @@
     and discard it if another Stadium comes into play. A Stadium with the same name
     can't be played.
   number: '54'
+  artist: AYUMI ODASHIMA
   rarity: Uncommon
   legalities:
     unlimited: Legal
@@ -2296,6 +2364,7 @@
   - You may attach any number of Pokémon Tools to your Pokémon during your turn. You
     may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.
   number: '55'
+  artist: 5ban Graphics
   rarity: Uncommon
   legalities:
     unlimited: Legal
@@ -2315,6 +2384,7 @@
     deck for up to 2 cards and put them into your hand. Then, shuffle your deck.
   - You may play only 1 Supporter card during your turn.
   number: '56'
+  artist: Atsushi Furusawa
   rarity: Uncommon
   legalities:
     unlimited: Legal
@@ -2334,6 +2404,7 @@
     into your hand. Then, shuffle your deck.
   - You may play only 1 Supporter card during your turn.
   number: '57'
+  artist: hncl
   rarity: Uncommon
   legalities:
     unlimited: Legal
@@ -2354,6 +2425,7 @@
   - Your opponent's Active Pokémon is now Burned and Confused.
   - You may play any number of Item cards during your turn.
   number: '58'
+  artist: inose yukie
   rarity: ACE SPEC Rare
   legalities:
     unlimited: Legal
@@ -2375,6 +2447,7 @@
     Poisoned.
   - You may play only 1 Supporter card during your turn.
   number: '59'
+  artist: Taira Akitsu
   rarity: Uncommon
   legalities:
     unlimited: Legal
@@ -2400,6 +2473,7 @@
     and discard it if another Stadium comes into play. A Stadium with the same name
     can't be played.
   number: '60'
+  artist: imoniii
   rarity: ACE SPEC Rare
   legalities:
     unlimited: Legal
@@ -2418,6 +2492,7 @@
   - Put a Pokémon or a Basic Energy card from your discard pile into your hand.
   - You may play any number of Item cards during your turn.
   number: '61'
+  artist: Toyste Beach
   rarity: Uncommon
   legalities:
     unlimited: Legal
@@ -2439,6 +2514,7 @@
     or deck from the discard pile.
   - You may play any number of Item cards during your turn.
   number: '62'
+  artist: Toyste Beach
   rarity: ACE SPEC Rare
   legalities:
     unlimited: Legal
@@ -2460,6 +2536,7 @@
   - You may attach any number of Pokémon Tools to your Pokémon during your turn. You
     may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.
   number: '63'
+  artist: Studio Bora Inc.
   rarity: Uncommon
   legalities:
     unlimited: Legal
@@ -2479,6 +2556,7 @@
     hand.
   - You may play only 1 Supporter card during your turn.
   number: '64'
+  artist: GOSSAN
   rarity: Uncommon
   legalities:
     unlimited: Legal
@@ -2515,7 +2593,10 @@
   - Colorless
   convertedRetreatCost: 3
   number: '65'
+  artist: IKEDA Saki
   rarity: Illustration Rare
+  nationalPokedexNumbers:
+  - 787
   legalities:
     unlimited: Legal
     standard: Legal
@@ -2558,6 +2639,7 @@
   - Colorless
   convertedRetreatCost: 2
   number: '66'
+  artist: Taiga Kasai
   rarity: Illustration Rare
   nationalPokedexNumbers:
   - 229
@@ -2600,6 +2682,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '67'
+  artist: Shinya Komatsu
   rarity: Illustration Rare
   nationalPokedexNumbers:
   - 116
@@ -2645,6 +2728,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '68'
+  artist: James Turner
   rarity: Illustration Rare
   nationalPokedexNumbers:
   - 355
@@ -2691,6 +2775,7 @@
   - Colorless
   convertedRetreatCost: 2
   number: '69'
+  artist: James Turner
   rarity: Illustration Rare
   nationalPokedexNumbers:
   - 356
@@ -2737,6 +2822,7 @@
   - Colorless
   convertedRetreatCost: 3
   number: '70'
+  artist: James Turner
   rarity: Illustration Rare
   nationalPokedexNumbers:
   - 477
@@ -2782,6 +2868,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '71'
+  artist: satoma
   rarity: Illustration Rare
   nationalPokedexNumbers:
   - 488
@@ -2825,7 +2912,10 @@
   - Colorless
   convertedRetreatCost: 1
   number: '72'
+  artist: Teeziro
   rarity: Illustration Rare
+  nationalPokedexNumbers:
+  - 1015
   legalities:
     unlimited: Legal
     standard: Legal
@@ -2861,7 +2951,10 @@
   - Colorless
   convertedRetreatCost: 1
   number: '73'
+  artist: KEIICHIRO ITO
   rarity: Illustration Rare
+  nationalPokedexNumbers:
+  - 1016
   legalities:
     unlimited: Legal
     standard: Legal
@@ -2900,7 +2993,10 @@
   - Colorless
   convertedRetreatCost: 2
   number: '74'
+  artist: AKIRA EGAWA
   rarity: Illustration Rare
+  nationalPokedexNumbers:
+  - 1014
   legalities:
     unlimited: Legal
     standard: Legal
@@ -2940,6 +3036,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '75'
+  artist: REND
   rarity: Illustration Rare
   nationalPokedexNumbers:
   - 570
@@ -2989,6 +3086,7 @@
   - Colorless
   convertedRetreatCost: 3
   number: '76'
+  artist: Mina Nakai
   rarity: Illustration Rare
   nationalPokedexNumbers:
   - 878
@@ -3029,6 +3127,7 @@
   - Colorless
   convertedRetreatCost: 2
   number: '77'
+  artist: MINAMINAMI Take
   rarity: Illustration Rare
   nationalPokedexNumbers:
   - 611
@@ -3072,6 +3171,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '78'
+  artist: Whisker
   rarity: Illustration Rare
   nationalPokedexNumbers:
   - 53
@@ -3117,6 +3217,7 @@
   - Colorless
   convertedRetreatCost: 3
   number: '79'
+  artist: Takeshi Nakamura
   rarity: Illustration Rare
   nationalPokedexNumbers:
   - 760
@@ -3162,6 +3263,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '80'
+  artist: PLANETA Igarashi
   rarity: Ultra Rare
   nationalPokedexNumbers:
   - 230
@@ -3212,6 +3314,7 @@
   - Colorless
   convertedRetreatCost: 1
   number: '81'
+  artist: PLANETA Mochizuki
   rarity: Ultra Rare
   nationalPokedexNumbers:
   - 966
@@ -3261,7 +3364,10 @@
   - Colorless
   convertedRetreatCost: 3
   number: '82'
+  artist: 5ban Graphics
   rarity: Ultra Rare
+  nationalPokedexNumbers:
+  - 1014
   legalities:
     unlimited: Legal
     standard: Legal
@@ -3304,7 +3410,10 @@
   - Colorless
   convertedRetreatCost: 1
   number: '83'
+  artist: 5ban Graphics
   rarity: Ultra Rare
+  nationalPokedexNumbers:
+  - 1015
   legalities:
     unlimited: Legal
     standard: Legal
@@ -3348,7 +3457,10 @@
   - Colorless
   convertedRetreatCost: 1
   number: '84'
+  artist: 5ban Graphics
   rarity: Ultra Rare
+  nationalPokedexNumbers:
+  - 1016
   legalities:
     unlimited: Legal
     standard: Legal
@@ -3391,7 +3503,10 @@
   - Colorless
   convertedRetreatCost: 1
   number: '85'
+  artist: aky CG Works
   rarity: Ultra Rare
+  nationalPokedexNumbers:
+  - 1025
   legalities:
     unlimited: Legal
     standard: Legal
@@ -3410,6 +3525,7 @@
     deck for up to 2 cards and put them into your hand. Then, shuffle your deck.
   - You may play only 1 Supporter card during your turn.
   number: '86'
+  artist: Atsushi Furusawa
   rarity: Ultra Rare
   legalities:
     unlimited: Legal
@@ -3429,6 +3545,7 @@
     into your hand. Then, shuffle your deck.
   - You may play only 1 Supporter card during your turn.
   number: '87'
+  artist: hncl
   rarity: Ultra Rare
   legalities:
     unlimited: Legal
@@ -3450,6 +3567,7 @@
     Poisoned.
   - You may play only 1 Supporter card during your turn.
   number: '88'
+  artist: Taira Akitsu
   rarity: Ultra Rare
   legalities:
     unlimited: Legal
@@ -3469,6 +3587,7 @@
     hand.
   - You may play only 1 Supporter card during your turn.
   number: '89'
+  artist: GOSSAN
   rarity: Ultra Rare
   legalities:
     unlimited: Legal
@@ -3516,7 +3635,10 @@
   - Colorless
   convertedRetreatCost: 3
   number: '90'
+  artist: kantaro
   rarity: Special Illustration Rare
+  nationalPokedexNumbers:
+  - 1014
   legalities:
     unlimited: Legal
     standard: Legal
@@ -3559,7 +3681,10 @@
   - Colorless
   convertedRetreatCost: 1
   number: '91'
+  artist: kantaro
   rarity: Special Illustration Rare
+  nationalPokedexNumbers:
+  - 1015
   legalities:
     unlimited: Legal
     standard: Legal
@@ -3603,7 +3728,10 @@
   - Colorless
   convertedRetreatCost: 1
   number: '92'
+  artist: kantaro
   rarity: Special Illustration Rare
+  nationalPokedexNumbers:
+  - 1016
   legalities:
     unlimited: Legal
     standard: Legal
@@ -3646,7 +3774,10 @@
   - Colorless
   convertedRetreatCost: 1
   number: '93'
+  artist: kantaro
   rarity: Special Illustration Rare
+  nationalPokedexNumbers:
+  - 1025
   legalities:
     unlimited: Legal
     standard: Legal
@@ -3665,6 +3796,7 @@
     deck for up to 2 cards and put them into your hand. Then, shuffle your deck.
   - You may play only 1 Supporter card during your turn.
   number: '94'
+  artist: burari
   rarity: Special Illustration Rare
   legalities:
     unlimited: Legal
@@ -3708,7 +3840,10 @@
   - Colorless
   convertedRetreatCost: 1
   number: '95'
+  artist: aky CG Works
   rarity: Hyper Rare
+  nationalPokedexNumbers:
+  - 1025
   legalities:
     unlimited: Legal
     standard: Legal
@@ -3729,6 +3864,7 @@
     hand. Then, shuffle your deck.
   - You may play any number of Item cards during your turn.
   number: '96'
+  artist: AYUMI ODASHIMA
   rarity: Hyper Rare
   legalities:
     unlimited: Legal
@@ -3750,6 +3886,7 @@
   - You may attach any number of Pokémon Tools to your Pokémon during your turn. You
     may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.
   number: '97'
+  artist: Studio Bora Inc.
   rarity: Hyper Rare
   legalities:
     unlimited: Legal

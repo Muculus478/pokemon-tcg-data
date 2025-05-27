@@ -178,7 +178,7 @@
     text: If you have a Stadium in play, this Pokémon has no Retreat Cost.
     type: Ability
   attacks:
-  - name: Branch Poké
+  - name: Branch Poke
     cost:
     - Grass
     convertedEnergyCost: 1

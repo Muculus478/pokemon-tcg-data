@@ -3139,7 +3139,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   images:
     small: https://images.pokemontcg.io/xy7/72.png
@@ -3235,7 +3234,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   images:
     small: https://images.pokemontcg.io/xy7/76.png

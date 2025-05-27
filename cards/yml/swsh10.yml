@@ -2190,7 +2190,6 @@
   - 866
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6452,7 +6451,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8594,7 +8592,6 @@
   rarity: Rare Secret
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:

@@ -3422,7 +3422,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   images:
     small: https://images.pokemontcg.io/bw10/78.png
@@ -3753,6 +3752,7 @@
   artist: 5ban Graphics
   rarity: Rare ACE
   legalities:
+    standard: Legal
     unlimited: Legal
     expanded: Legal
   images:

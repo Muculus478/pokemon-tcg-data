@@ -37,7 +37,6 @@
   - 10
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -83,7 +82,6 @@
   - 11
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -127,7 +125,6 @@
   - 12
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -172,7 +169,6 @@
   - 285
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -218,7 +214,6 @@
   - 286
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -267,7 +262,6 @@
   - 286
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -305,7 +299,6 @@
   - 511
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -349,7 +342,6 @@
   - 512
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -387,7 +379,6 @@
   - 540
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -435,7 +426,6 @@
   - 541
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -482,7 +472,6 @@
   - 542
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -527,7 +516,6 @@
   - 556
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -568,7 +556,6 @@
   - 616
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -609,7 +596,6 @@
   - 617
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -652,7 +638,6 @@
   - 640
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -697,7 +682,6 @@
   - 708
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -744,7 +728,6 @@
   - 709
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -791,7 +774,6 @@
   - 736
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -829,7 +811,6 @@
   - 751
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -875,7 +856,6 @@
   - 752
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -915,7 +895,6 @@
   - 763
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -965,7 +944,6 @@
   - 812
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1010,7 +988,6 @@
   - 812
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1048,7 +1025,6 @@
   - 829
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1085,7 +1061,6 @@
   - 830
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1132,7 +1107,6 @@
   - 842
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1176,7 +1150,6 @@
   - 893
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1215,7 +1188,6 @@
   - 37
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1253,7 +1225,6 @@
   - 37
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1291,7 +1262,6 @@
   - 38
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1335,7 +1305,6 @@
   - 38
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1383,7 +1352,6 @@
   - 58
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1429,7 +1397,6 @@
   - 59
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1476,7 +1443,6 @@
   - 218
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1524,7 +1490,6 @@
   - 219
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1566,7 +1531,6 @@
   - 494
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1604,7 +1568,6 @@
   - 513
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1648,7 +1611,6 @@
   - 514
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1694,7 +1656,6 @@
   - 609
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1740,7 +1701,6 @@
   - 609
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1787,7 +1747,6 @@
   - 631
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1831,7 +1790,6 @@
   - 741
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1871,7 +1829,6 @@
   - 815
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1920,7 +1877,6 @@
   - 815
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1964,7 +1920,6 @@
   - 815
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2010,7 +1965,6 @@
   - 850
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2050,7 +2004,6 @@
   - 850
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2099,7 +2052,6 @@
   - 851
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2146,7 +2098,6 @@
   - 851
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2193,7 +2144,6 @@
   - 90
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2239,7 +2189,6 @@
   - 91
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2284,7 +2233,6 @@
   - 120
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2325,7 +2273,6 @@
   - 121
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2373,7 +2320,6 @@
   - 131
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2411,7 +2357,6 @@
   - 158
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2459,7 +2404,6 @@
   - 159
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2506,7 +2450,6 @@
   - 160
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2553,7 +2496,6 @@
   - 183
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2600,7 +2542,6 @@
   - 184
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2643,7 +2584,6 @@
   - 211
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2687,7 +2627,6 @@
   - 226
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2734,7 +2673,6 @@
   - 258
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2783,7 +2721,6 @@
   - 259
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2830,7 +2767,6 @@
   - 260
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2871,7 +2807,6 @@
   - 366
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2915,7 +2850,6 @@
   - 367
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2958,7 +2892,6 @@
   - 368
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2996,7 +2929,6 @@
   - 515
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3041,7 +2973,6 @@
   - 516
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3080,7 +3011,6 @@
   - 550
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3119,7 +3049,6 @@
   - 554
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3167,7 +3096,6 @@
   - 555
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3214,7 +3142,6 @@
   - 658
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3260,7 +3187,6 @@
   - 692
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3307,7 +3233,6 @@
   - 693
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3356,7 +3281,6 @@
   - 740
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3400,7 +3324,6 @@
   - 771
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3449,7 +3372,6 @@
   - 818
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3497,7 +3419,6 @@
   - 818
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3537,7 +3458,6 @@
   - 833
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3579,7 +3499,6 @@
   - 834
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3617,7 +3536,6 @@
   - 846
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3654,7 +3572,6 @@
   - 847
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3693,7 +3610,6 @@
   - 872
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3738,7 +3654,6 @@
   - 873
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3785,7 +3700,6 @@
   - 25
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3824,7 +3738,6 @@
   - 100
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3868,7 +3781,6 @@
   - 101
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3906,7 +3818,6 @@
   - 311
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3950,7 +3861,6 @@
   - 312
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3995,7 +3905,6 @@
   - 403
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4035,7 +3944,6 @@
   - 404
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4070,7 +3978,6 @@
   - 405
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4112,7 +4019,6 @@
   - 479
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4157,7 +4063,6 @@
   - 602
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4205,7 +4110,6 @@
   - 603
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4253,7 +4157,6 @@
   - 604
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4298,7 +4201,6 @@
   - 694
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4343,7 +4245,6 @@
   - 695
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4393,7 +4294,6 @@
   - 737
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4440,7 +4340,6 @@
   - 738
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4477,7 +4376,6 @@
   - 807
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4523,7 +4421,6 @@
   - 836
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4572,7 +4469,6 @@
   - 836
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4611,7 +4507,6 @@
   - 848
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4657,7 +4552,6 @@
   - 848
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4697,7 +4591,6 @@
   - 849
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4743,7 +4636,6 @@
   - 849
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4781,7 +4673,6 @@
   - 877
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4827,7 +4718,6 @@
   - 39
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4874,7 +4764,6 @@
   - 40
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4920,7 +4809,6 @@
   - 124
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -4966,7 +4854,6 @@
   - 151
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5015,7 +4902,6 @@
   - 151
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5061,7 +4947,6 @@
   - 209
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5107,7 +4992,6 @@
   - 210
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5149,7 +5033,6 @@
   - 222
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5199,7 +5082,6 @@
   - 864
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5236,7 +5118,6 @@
   - 303
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5281,7 +5162,6 @@
   - 386
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5323,7 +5203,6 @@
   - 517
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5373,7 +5252,6 @@
   - 518
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5420,7 +5298,6 @@
   - 561
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5462,7 +5339,6 @@
   - 648
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5512,7 +5388,6 @@
   - 769
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5566,7 +5441,6 @@
   - 770
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5614,7 +5488,6 @@
   - 876
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5656,7 +5529,6 @@
   - 885
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5706,7 +5578,6 @@
   - 886
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5751,7 +5622,6 @@
   - 887
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5797,7 +5667,6 @@
   - 27
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5836,7 +5705,6 @@
   - 28
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5874,7 +5742,6 @@
   - 56
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5912,7 +5779,6 @@
   - 57
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5959,7 +5825,6 @@
   - 74
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6009,7 +5874,6 @@
   - 75
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6057,7 +5921,6 @@
   - 76
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6108,7 +5971,6 @@
   - 95
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6158,7 +6020,6 @@
   - 208
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6203,7 +6064,6 @@
   - 207
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6249,7 +6109,6 @@
   - 472
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6298,7 +6157,6 @@
   - 296
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6346,7 +6204,6 @@
   - 297
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6385,7 +6242,6 @@
   - 343
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6433,7 +6289,6 @@
   - 344
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6473,7 +6328,6 @@
   - 448
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6512,7 +6366,6 @@
   - 529
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6557,7 +6410,6 @@
   - 645
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6605,7 +6457,6 @@
   - 674
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6651,7 +6502,6 @@
   - 759
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6699,7 +6549,6 @@
   - 760
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6745,7 +6594,6 @@
   - 852
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6792,7 +6640,6 @@
   - 853
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6838,7 +6685,6 @@
   - 870
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6874,7 +6720,6 @@
   - 870
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6922,7 +6767,6 @@
   - 94
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6973,7 +6817,6 @@
   - 94
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7024,7 +6867,6 @@
   - 248
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7062,7 +6904,6 @@
   - 263
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7099,7 +6940,6 @@
   - 264
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7145,7 +6985,6 @@
   - 862
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7183,7 +7022,6 @@
   - 318
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7221,7 +7059,6 @@
   - 319
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7267,7 +7104,6 @@
   - 359
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7305,7 +7141,6 @@
   - 453
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7351,7 +7186,6 @@
   - 454
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7390,7 +7224,6 @@
   - 491
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7437,7 +7270,6 @@
   - 568
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7484,7 +7316,6 @@
   - 569
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7529,7 +7360,6 @@
   - 570
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7575,7 +7405,6 @@
   - 571
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7623,7 +7452,6 @@
   - 629
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7672,7 +7500,6 @@
   - 630
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7723,7 +7550,6 @@
   - 675
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7773,7 +7599,6 @@
   - 717
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7812,7 +7637,6 @@
   - 859
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7860,7 +7684,6 @@
   - 860
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7907,7 +7730,6 @@
   - 861
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7944,7 +7766,6 @@
   - 877
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7993,7 +7814,6 @@
   - 52
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8042,7 +7862,6 @@
   - 863
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8092,7 +7911,6 @@
   - 227
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8142,7 +7960,6 @@
   - 530
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8183,7 +8000,6 @@
   - 632
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8232,7 +8048,6 @@
   - 649
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8271,7 +8086,6 @@
   - 707
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8320,7 +8134,6 @@
   - 777
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8369,7 +8182,6 @@
   - 808
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8425,7 +8237,6 @@
   - 809
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8475,7 +8286,6 @@
   - 823
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8527,7 +8337,6 @@
   - 878
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8582,7 +8391,6 @@
   - 879
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8624,7 +8432,6 @@
   - 380
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8667,7 +8474,6 @@
   - 381
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8709,7 +8515,6 @@
   - 704
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8754,7 +8559,6 @@
   - 705
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8798,7 +8602,6 @@
   - 706
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8843,7 +8646,6 @@
   - 776
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8881,7 +8683,6 @@
   - 52
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8925,7 +8726,6 @@
   - 53
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -8975,7 +8775,6 @@
   - 85
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9023,7 +8822,6 @@
   - 113
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9069,7 +8867,6 @@
   - 242
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9115,7 +8912,6 @@
   - 115
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9160,7 +8956,6 @@
   - 133
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9200,7 +8995,6 @@
   - 143
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9241,7 +9035,6 @@
   - 206
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9285,7 +9078,6 @@
   - 234
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9331,7 +9123,6 @@
   - 235
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9368,7 +9159,6 @@
   - 300
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9413,7 +9203,6 @@
   - 301
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9453,7 +9242,6 @@
   - 427
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9492,7 +9280,6 @@
   - 428
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9538,7 +9325,6 @@
   - 659
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9589,7 +9375,6 @@
   - 660
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9629,7 +9414,6 @@
   - 701
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9676,7 +9460,6 @@
   - 820
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9726,7 +9509,6 @@
   - 820
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9767,7 +9549,6 @@
   - 821
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9810,7 +9591,6 @@
   - 822
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9856,7 +9636,6 @@
   - 831
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9895,7 +9674,6 @@
   - 831
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9940,7 +9718,6 @@
   - 832
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9960,7 +9737,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -9981,7 +9757,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10000,7 +9775,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10021,7 +9795,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10040,7 +9813,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10061,7 +9833,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10084,7 +9855,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10105,7 +9875,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10124,7 +9893,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10146,7 +9914,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10170,7 +9937,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10210,7 +9976,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10250,7 +10015,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10270,7 +10034,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10289,7 +10052,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10309,7 +10071,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10328,7 +10089,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10351,7 +10111,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10373,7 +10132,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10418,7 +10176,6 @@
   - 251
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10458,7 +10215,6 @@
   - 763
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10504,7 +10260,6 @@
   - 609
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10553,7 +10308,6 @@
   - 740
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10599,7 +10353,6 @@
   - 836
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10645,7 +10398,6 @@
   - 151
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10691,7 +10443,6 @@
   - 151
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10736,7 +10487,6 @@
   - 844
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10781,7 +10531,6 @@
   - 720
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10830,7 +10579,6 @@
   - 649
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10879,7 +10627,6 @@
   - 649
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10926,7 +10673,6 @@
   - 820
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10973,7 +10719,6 @@
   - 820
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -10994,7 +10739,6 @@
   rarity: Rare Ultra
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11013,7 +10757,6 @@
   rarity: Rare Ultra
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11035,7 +10778,6 @@
   rarity: Rare Ultra
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11055,7 +10797,6 @@
   rarity: Rare Ultra
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11075,7 +10816,6 @@
   rarity: Rare Ultra
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11094,7 +10834,6 @@
   rarity: Rare Ultra
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11114,7 +10853,6 @@
   rarity: Rare Ultra
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11160,7 +10898,6 @@
   - 609
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11208,7 +10945,6 @@
   - 818
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11257,7 +10993,6 @@
   - 836
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11306,7 +11041,6 @@
   - 151
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11355,7 +11089,6 @@
   - 151
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11406,7 +11139,6 @@
   - 196
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11457,7 +11189,6 @@
   - 94
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11507,7 +11238,6 @@
   - 820
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11528,7 +11258,6 @@
   rarity: Rare Rainbow
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11547,7 +11276,6 @@
   rarity: Rare Rainbow
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11569,7 +11297,6 @@
   rarity: Rare Rainbow
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11589,7 +11316,6 @@
   rarity: Rare Rainbow
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11609,7 +11335,6 @@
   rarity: Rare Rainbow
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11628,7 +11353,6 @@
   rarity: Rare Rainbow
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11648,7 +11372,6 @@
   rarity: Rare Rainbow
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11695,7 +11418,6 @@
   - 180
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -11716,7 +11438,6 @@
   rarity: Rare Secret
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:

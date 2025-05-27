@@ -1236,7 +1236,7 @@
     - Colorless
     convertedEnergyCost: 1
     damage: ''
-    text: Flip a coin. If heads, put damage counter on the Defending Pokémon until
+    text: Flip a coin. If heads, put damage counters on the Defending Pokémon until
       it is 10 HP away from being Knocked Out.
   - name: Shadow Dance
     cost:

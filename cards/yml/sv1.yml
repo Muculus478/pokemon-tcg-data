@@ -7249,8 +7249,6 @@
   images:
     small: https://images.pokemontcg.io/sv1/166.png
     large: https://images.pokemontcg.io/sv1/166_hires.png
-  flavorText: Thanks to a behavior of theirs known as "synchronizing," an entire flock
-    of these Pokémon can attack simultaneously in perfect harmony.
 - id: sv1-167
   name: Beach Court
   supertype: Trainer

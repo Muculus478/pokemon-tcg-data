@@ -3734,7 +3734,7 @@
     - Colorless
     convertedEnergyCost: 3
     damage: '60'
-    text: Recover 20 damage from this Pokémon.
+    text: Heal 20 damage from this Pokémon.
   weaknesses:
   - type: Lightning
     value: ×2

@@ -533,7 +533,6 @@
   - 420
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1529,7 +1528,6 @@
   - 361
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -1955,7 +1953,6 @@
   - 875
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -2982,7 +2979,6 @@
   - 702
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3030,7 +3026,6 @@
   - 778
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3081,7 +3076,6 @@
   - 778
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3126,7 +3120,6 @@
   - 868
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -3170,7 +3163,6 @@
   - 869
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5065,7 +5057,6 @@
   - 621
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5112,7 +5103,6 @@
   - 882
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5620,8 +5610,7 @@
   abilities:
   - name: Sudden Cyclone
     text: When you play this Pokémon from your hand onto your Bench, you may have
-      your opponent switch his or her Active Pokémon with 1 of his or her Benched
-      Pokémon.
+      your opponent switch their Active Pokémon with 1 of their Benched Pokémon.
     type: Ability
   attacks:
   - name: Blasting Wind
@@ -5763,7 +5752,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5806,7 +5794,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5846,7 +5833,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5912,7 +5898,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -5992,7 +5977,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6013,7 +5997,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -6036,7 +6019,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7384,7 +7366,6 @@
   - 144
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7430,7 +7411,6 @@
   - 145
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:
@@ -7476,7 +7456,6 @@
   - 146
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   regulationMark: E
   images:

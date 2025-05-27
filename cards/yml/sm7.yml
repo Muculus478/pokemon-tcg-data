@@ -5513,7 +5513,6 @@
   rarity: Uncommon
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   images:
     small: https://images.pokemontcg.io/sm7/127.png
@@ -6522,7 +6521,6 @@
   rarity: Rare Ultra
   legalities:
     unlimited: Legal
-    standard: Legal
     expanded: Legal
   images:
     small: https://images.pokemontcg.io/sm7/163.png

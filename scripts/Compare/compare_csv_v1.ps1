@@ -34,26 +34,26 @@ foreach ($row in $data) {
     }
 
     # Process Attack 2 if it exists
-#    if ($row.Attack2Name -ne "") {
-#        $transformedData += [PSCustomObject]@{
-#            id                       = $row.id
-#            name                     = $row.name
-#            supertype                = $row.supertype
-#            hp                       = $row.hp
-#            types                    = $row.types
-#            rarity                   = $row.rarity
-#            retreatCost              = $row.retreatCost
-#            convertedRetreatCost     = $row.convertedRetreatCost
-#            AbilityName              = $row.AbilityName
-#            AbilityText              = $row.AbilityText
-#            Attack1Name              = $row.Attack2Name
-#            Attack1Cost              = $row.Attack2Cost
-#            Attack1ConvertedCost     = $row.Attack2ConvertedCost
-#            Attack1Damage            = $row.Attack2Damage
-#            Attack1Text              = $row.Attack2Text
-#            DamageFormula            = $row.Empty
-#        }
-#    }
+    if ($row.Attack2Name -ne "") {
+        $transformedData += [PSCustomObject]@{
+            id                       = $row.id
+            name                     = $row.name
+            supertype                = $row.supertype
+            hp                       = $row.hp
+            types                    = $row.types
+            rarity                   = $row.rarity
+            retreatCost              = $row.retreatCost
+            convertedRetreatCost     = $row.convertedRetreatCost
+            AbilityName              = $row.AbilityName
+            AbilityText              = $row.AbilityText
+            Attack1Name              = $row.Attack2Name
+            Attack1Cost              = $row.Attack2Cost
+            Attack1ConvertedCost     = $row.Attack2ConvertedCost
+            Attack1Damage            = $row.Attack2Damage
+            Attack1Text              = $row.Attack2Text
+            DamageFormula            = $row.Empty
+        }
+    }
 }
 
 # Export the transformed data to the output CSV
