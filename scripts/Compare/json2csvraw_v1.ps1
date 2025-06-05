@@ -1,19 +1,12 @@
-#Get the current script directory (Similar to {{ gitpath }})
-$repoRoot = Get-Location
-
+#Gets all the raw JSON data into a csv
 # Define folder paths
-$jsonFolderPath = Join-Path -Path $repoRoot -ChildPath "pokemon-tcg-data\cards\en"
-$csv2FolderPath = Join-Path -Path $repoRoot -ChildPath "pokemon-tcg-data\cards\csvfiltered"
+$jsonFolderPath = "C:\Users\Gunna\Documents\Personal\GitHub\pokemon-tcg-data\cards\en"
+$csv2FolderPath = "C:\Users\Gunna\Documents\Personal\GitHub\pokemon-tcg-data\cards\csvRaw"
 
 # Create output directory if it doesn't exist
 if (!(Test-Path -Path $csv2FolderPath)) {
     New-Item -ItemType Directory -Path $csv2FolderPath
 }
-
-# Define the rarities you want to include
-$includedRarities = @('Common', 'Uncommon', 'Rare', 'Rare Holo', 'Promo')
-$includedSuperTypes = @('Pokémon')
-$excludedSubTypes = @('GX', 'ex', 'EX', 'V', 'VMAX', 'V-UNION', 'Star', 'VSTAR', 'BREAK', 'Radiant')
 
 # Convert each JSON file in the specified folder
 Get-ChildItem -Path $jsonFolderPath -Filter "*.json" | ForEach-Object {
@@ -22,33 +15,36 @@ Get-ChildItem -Path $jsonFolderPath -Filter "*.json" | ForEach-Object {
 
     # Flatten each card entry and export to CSV
     $flattenedData = foreach ($card in $jsonContent) {
-        # Skip cards that do not match the included rarities
-        if ($null -eq $card.rarity -or -not $includedRarities.Contains($card.rarity)) {
-            continue
-        }
-        if ($null -eq $card.rarity -or -not $includedSuperTypes.Contains($card.supertype)) {
-            continue
-        }
-
-        # Skip cards with excluded subtypes
-        if ($card.subtypes -ne $null -and ($card.subtypes | Where-Object { $excludedSubTypes -contains $_ })) {
-            continue
-        }
         # Flatten main properties
         $flattenedCard = [PSCustomObject]@{
             id                    = $card.id
             name                  = $card.name
-            supertype             = $card.supertypea
-            subtypes              = $card.subtypes
+            supertype             = $card.supertype
             hp                    = $card.hp
             types                 = ($card.types -join ", ")
+            evolvesTo             = ($card.evolvesTo -join ", ")
+            evolvesFrom           = $card.evolvesFrom
+            number                = $card.number
+            artist                = $card.artist
             rarity                = $card.rarity
+            flavorText            = $card.flavorText
+            nationalPokedexNumbers= ($card.nationalPokedexNumbers -join ", ")
+            regulationMark        = $card.regulationMark
+            imageSmall            = $card.images.small
+            imageLarge            = $card.images.large
+            legalitiesUnlimited   = $card.legalities.unlimited
+            legalitiesStandard    = $card.legalities.standard
+            legalitiesExpanded    = $card.legalities.expanded
             retreatCost           = ($card.retreatCost -join ", ")
-            convertedRetreatCost  = if ($card.convertedRetreatCost -ne $null) { $card.convertedRetreatCost } else { 0 }
+            convertedRetreatCost  = $card.convertedRetreatCost
 
             # Initialize ability fields to blank
-            AbilityName           = ""
-            AbilityText           = ""
+            Ability1Name          = ""
+            Ability1Text          = ""
+            Ability1Type          = ""
+            Ability2Name          = ""
+            Ability2Text          = ""
+            Ability2Type          = ""
 
             # Initialize attack fields to blank
             Attack1Name           = ""
@@ -63,11 +59,14 @@ Get-ChildItem -Path $jsonFolderPath -Filter "*.json" | ForEach-Object {
             Attack2Text           = ""
         }
 
-        # Populate ability fields if available
+        # Flatten abilities and populate fields if available
         if ($card.abilities) {
-            $ability = $card.abilities[0]
-            $flattenedCard.AbilityName = $ability.name
-            $flattenedCard.AbilityText = $ability.text
+            for ($j = 0; $j -lt [math]::Min(2, $card.abilities.Count); $j++) {
+                $ability = $card.abilities[$j]
+                $flattenedCard."Ability$($j + 1)Name" = $ability.name
+                $flattenedCard."Ability$($j + 1)Text" = $ability.text
+                $flattenedCard."Ability$($j + 1)Type" = $ability.type
+            }
         }
 
         # Flatten attacks and populate fields if available
@@ -94,9 +93,8 @@ Get-ChildItem -Path $jsonFolderPath -Filter "*.json" | ForEach-Object {
 
         $flattenedCard
     }
-    
-    # Export to CSV
 
+    # Export to CSV
     $outputCsv = Join-Path -Path $csv2FolderPath -ChildPath ("$($_.BaseName).csv")
     $flattenedData | Export-Csv -Path $outputCsv -NoTypeInformation -Encoding UTF8
     (Get-Content $outputCsv) -replace 'é', 'e' | Set-Content $outputCsv
