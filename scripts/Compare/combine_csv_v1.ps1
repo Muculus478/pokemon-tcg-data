@@ -1,6 +1,6 @@
 #Define the Paths
-$smswshsvcsvs = 'C:\Users\Gunna\Documents\Personl\GitHub\pokemon-tcg-data\cards\csvraw'
-$outputCsv = 'C:\Users\Gunna\Documents\Personl\GitHub\pokemon-tcg-data\cards\csvfiltered\csvcombined\csvcombine.csv'
+$smswshsvcsvs = 'C:\Users\Gunna\Documents\Personal\GitHub\pokemon-tcg-data\cards\csvfiltered'
+$outputCsv = 'C:\Users\Gunna\Documents\Personal\GitHub\pokemon-tcg-data\cards\csvcombined\csvcombine.csv'
 
 #Get all the csvs where it starts with s
 $csvfiles = Get-ChildItem -Path $smswshsvcsvs -Filter 's*.csv'

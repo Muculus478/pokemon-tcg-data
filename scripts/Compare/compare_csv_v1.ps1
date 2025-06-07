@@ -1,6 +1,6 @@
 # Input and Output File Paths
-$inputFile = "C:\Users\Gunna\Documents\Personal\GitHub\pokemon-tcg-data\cards\csvfiltered\csvcombined\csvcombine.csv"
-$outputFile = "C:\Users\Gunna\Documents\Personal\GitHub\pokemon-tcg-data\cards\csvfiltered\csvcombined\csvcompare.csv"
+$inputFile = "C:\Users\Gunna\Documents\Personal\GitHub\pokemon-tcg-data\cards\csvcombined\csvcombine.csv"
+$outputFile = "C:\Users\Gunna\Documents\Personal\GitHub\pokemon-tcg-data\cards\csvcombined\csvcompare_attacks.csv"
 
 # Read the input CSV
 $data = Import-Csv -Path $inputFile
@@ -39,6 +39,7 @@ foreach ($row in $data) {
             id                       = $row.id
             name                     = $row.name
             supertype                = $row.supertype
+            subtypes                 = $row.subtypes            
             hp                       = $row.hp
             types                    = $row.types
             rarity                   = $row.rarity
