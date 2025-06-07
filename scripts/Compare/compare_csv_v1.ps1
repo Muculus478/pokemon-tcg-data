@@ -59,5 +59,4 @@ foreach ($row in $data) {
 
 # Export the transformed data to the output CSV
 $transformedData | Export-Csv -Path $outputFile -NoTypeInformation
-
 Write-Host "Transformation complete! Output saved to $outputFile"
