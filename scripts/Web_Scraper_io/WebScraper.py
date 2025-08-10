@@ -82,9 +82,11 @@ with open(output_filename, 'w') as output_file:
         else:
             print(f"Error: {result.stderr}")
 
-        time.sleep(1)
+        time.sleep(2)
 
 # Rename the .txt file to .yml
 new_filename = output_filename.replace('.txt', '.yml')
+if os.path.existss(new_filename):
+    os.remove(new_filename)
 os.rename(output_filename, new_filename)
 print(f"Data has been written to '{new_filename}'")
