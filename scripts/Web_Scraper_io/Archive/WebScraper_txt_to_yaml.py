@@ -11,7 +11,7 @@ with open('Deck_Data_Manual.yml', 'r') as file:
     urls = data.get('Decks', [])
 
 # Create a text file with the .txt extension first
-output_filename = 'Deck_Data.yml'
+output_filename = 'Deck_Data.txt'
 
 with open(output_filename, 'w') as output_file:
     for url in urls:
@@ -84,4 +84,9 @@ with open(output_filename, 'w') as output_file:
 
         time.sleep(3)
 
-print(f"Data has been written to '{output_filename}'")
+# Rename the .txt file to .yml
+new_filename = output_filename.replace('.txt', '.yml')
+if os.path.exists(new_filename):
+    os.remove(new_filename)
+os.rename(output_filename, new_filename)
+print(f"Data has been written to '{new_filename}'")
